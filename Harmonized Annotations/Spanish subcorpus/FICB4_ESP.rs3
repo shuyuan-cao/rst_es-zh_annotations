@@ -1,0 +1,37 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="purpose" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="list" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="17" relname="preparation">﻿Exposición de fotos sobre Tíbet en Barcelona
+</segment>
+    <segment id="2" parent="19" relname="list">Con el objetivo de difundir la cultura china,</segment>
+    <segment id="3" parent="19" relname="list"> mostrar la belleza de los parajes tibetanos y profundizar en el conocimiento que del Tíbet tiene la población catalana y china residente en Barcelona,</segment>
+    <segment id="4" parent="20" relname="span"> se celebra la primera exposición anual de la serie “Exposición Fotográfica sobre las Minorías Étnicas Chinas” dedicada al Tíbet.</segment>
+    <segment id="5" parent="20" relname="elaboration"> La muestra fotográfica, que organiza la Federación d&apos;Asociaciones chinas de Cataluña, retrata la cultura tibetana a través de la mirada de conocidos fotógrafos chinos, que muestran el desarrollo de las últimas décadas, la gastronomía o el entorno natural de este territorio.
+</segment>
+    <segment id="8" parent="18" relname="elaboration">Datos sobre la exposición
+Del 27 al 30 de octubre de 2015
+Vestíbulo del Edificio Histórico de la Universidad de Barcelona 
+Gran Via de les Corts Catalanes, 585 08007 Barcelona (mapa)
+Organiza
+Federación de Asociaciones Chinas de Cataluña
+Colabora
+• Asociación General de Comerciantes Chinos de Barcelona
+• Asociación de Empresarios de Fujian en Cataluña
+• Asociación de Estudiantes e Investigadores Chinos de Barcelona
+• You Mobile Aplication, S.L.</segment>
+<group id="19" type="multinuc" parent="4" relname="purpose" />
+<group id="20" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="16" relname="span" />
+<group id="16" type="span" />
+  </body>
+</rst>

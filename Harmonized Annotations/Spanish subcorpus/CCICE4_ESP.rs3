@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="preparation">
+BBVA Portugal cierra 26 oficinas y despide a 187 empleados
+</segment>
+    <segment id="2" parent="14" relname="span">La reducción de costes continúa aplicándose a rajatabla en BBVA Portugal, que anuncia el despido de 187 trabajadores y el cierre de 26 oficinas más en todo el país. </segment>
+    <segment id="3" parent="13" relname="span">Por tanto, su presencia en el país vecino se va a mermar de forma considerable, </segment>
+    <segment id="4" parent="3" relname="evidence">hasta el punto de que únicamente permanecerán abiertas 12 sedes.</segment>
+    <segment id="5" parent="14" relname="elaboration">Los números rojos no dejaban margeny hubo de acelerarse un programa restrictivo que llega hoy a uno de sus puntos culminantes. Estamos ante el segundo «tijeretazo» de BBVA Portugal, que llegó a tener 81 oficinas y en la anterior campaña de ajustes clausuró 43 sedes, lo que implicó despedir a 177 empleados.
+</segment>
+    <segment id="9" parent="17" relname="attribution">Con todo, el discurso oficial de la firma se mantiene en unos términos posibilistas: </segment>
+    <segment id="10" parent="17" relname="span">«BBVA Portugal va a mantener siempre su presencia en el país</segment>
+    <segment id="11" parent="10" relname="cause">porque se trata de un mercado con gran interrelación hacia España, el principal centro geográfico del mundo».
+</segment>
+    <segment id="12" parent="6" relname="justify">Y es que la soga va apretando cada vez más: pérdidas de 60 millones de euros en 2014 y, sólo en el primer semestre de este año, 11,4 millones.
+</segment>
+<group id="14" type="span" parent="8" relname="span" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="13" type="span" parent="2" relname="result" />
+<group id="8" type="span" parent="6" relname="span" />
+<group id="6" type="span" parent="7" relname="span" />
+<group id="7" type="span" parent="16" relname="span" />
+<group id="16" type="span" />
+<group id="18" type="span" parent="8" relname="antithesis" />
+  </body>
+</rst>

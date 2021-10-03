@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="preparation">﻿﻿La creación de términos para la educación universitaria y para la formación profesional en habla irlandesa
+</segment>
+    <segment id="2" parent="18" relname="span">Fiontar es una unidad inserta en la Dublin City University que imparte la licenciatura de Finanzas, Informática y Empresariales en lengua irlandesa. </segment>
+    <segment id="3" parent="2" relname="elaboration">Ni profesores ni alumnos, aun siendo correctos hablantes del irlandés, han tenido oportunidad de familiarizarse con la extensa terminología técnica necesaria para esta licenciatura. </segment>
+    <segment id="4" parent="5" relname="span">Siendo todas las asignaturas impartidas en irlandés, toda la terminología que se utilice en el curso debe estar disponible en esta lengua. </segment>
+    <segment id="6" parent="4" relname="result">Y, con este fin, se ha creado un banco terminológico bilingüe (irlandésinglés) para el uso de alumnos y profesores de la licenciatura de Finanzas, Informática y Empresariales.
+</segment>
+    <segment id="7" parent="21" relname="span">El proyecto VOCALL (Vocational Language Learning for Less Widely Used and Taught Languages) es un proyecto fundado por la Comisión Europea en el marco del Programa Leonardo da Vinci. </segment>
+    <segment id="8" parent="7" relname="elaboration">El proyecto está coordinado por la Dublin City University (Dublín, Irlanda). </segment>
+    <segment id="9" parent="21" relname="purpose">El objetivo es construir herramientas de aprendizaje de la lengua para estudiantes con una orientación profesional en las ramas de informática, secretariado y construcción. El proyecto está enfocado hacia lenguas minoritarias en cuanto al uso y enseñanza, incluido el irlandés. </segment>
+    <segment id="11" parent="22" relname="span">El proyecto VOCALL está en proceso de recopilación de un glosario plurilingüe de términos técnicos de las áreas de informática, secretariado y construcción, </segment>
+    <segment id="12" parent="11" relname="interpretation">y esto supone la creación de una larga serie de nuevos términos en irlandés, en las áreas mencionadas.
+</segment>
+    <segment id="13" parent="17" relname="background">Con la ayuda del Comité Terminológico para la Lengua irlandesa (An Coiste Téarmaíochta) Fiontar y VOCALL están encauzando las necesidades terminológicas tanto de la educación universitaria en irlandés como de la formación profesional en esta lengua. </segment>
+    <segment id="14" parent="17" relname="list">Nuestra ponencia estudiará la metodología utilizada por ambos grupos para crear nuevos términos. </segment>
+    <segment id="16" parent="17" relname="list">La ponencia también tratará sobre las dificultades halladas para potenciar el uso de la nueva terminología estandarizada del irlandés.</segment>
+<group id="18" type="span" parent="5" relname="motivation" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="10" relname="list" />
+<group id="5" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="10" relname="background" />
+<group id="10" type="multinuc" parent="24" relname="span" />
+<group id="24" type="span" parent="15" relname="background" />
+<group id="17" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="25" relname="span" />
+<group id="25" type="span" />
+<group id="22" type="span" parent="10" relname="list" />
+  </body>
+</rst>

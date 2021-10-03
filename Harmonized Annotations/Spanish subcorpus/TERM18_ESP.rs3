@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="preparation">﻿﻿Tendencias generales de la normalización en la terminología cientificotécnica de la lengua serbia: análisis crítico de la situación
+</segment>
+    <segment id="2" parent="3" relname="span">La construcción terminológica de cualquier área científica es un proceso largo y laborioso. En décadas precedentes se ha puesto de manifiesto, y así lo han atestiguado muchos investigadores de la terminología científica serbia, una tendencia a importar préstamos de unidades estructurales tanto léxicas como otras mayores del inglés a una serie de registros científicos específicos, en lugar de optar por la traducción, el calco, etc. </segment>
+    <segment id="7" parent="2" relname="justify">Todo ello está estrechamente relacionado con el hecho de que se haya llegado a un acuerdo entre científicos serbios de distintas tendencias en el sentido de reconocer al inglés el estatus de única lengua de comunicación científica de las últimas décadas.
+</segment>
+    <segment id="8" parent="25" relname="span">En esta ponencia intentamos evaluar críticamente la tendencia señalada sobre estas líneas, tanto desde un punto de vista lingüístico como sociolingüístico. </segment>
+    <segment id="9" parent="15" relname="list">Empleamos un enfoque abierto y multidisciplinar desarrollado por Bugarski (1988; 1996) y adaptado a los fines de esta ponencia, </segment>
+    <segment id="10" parent="15" relname="list">para contrastarlo con una serie de datos provenientes de varios campos científicos como la ingeniería, el control de calidad, la gestión de calidad, la informática, la economía etc.</segment>
+    <segment id="11" parent="12" relname="span"> Los datos con los que contamos (así como la opinión de expertos de una serie de áreas) indican la necesidad de establecer una jerarquía para la evaluación de términos. Jerarquía que deberá contar con una plena aceptación en el campo científico del que se trate. </segment>
+    <segment id="13" parent="16" relname="span">Esta jerarquía deberá basarse en gran medida en criterios extralingüísticos como la cooperación internacional y la comunicación, </segment>
+    <segment id="14" parent="13" relname="elaboration">de acuerdo a los cuales en el código lingüístico llamado &quot;moderna variedad científica del serbio&quot; se da prioridad a los préstamos del inglés sobre la traducción y el calco estructural.</segment>
+<group id="16" type="span" parent="11" relname="elaboration" />
+<group id="15" type="multinuc" parent="23" relname="span" />
+<group id="3" type="span" parent="25" relname="background" />
+<group id="12" type="span" parent="15" relname="elaboration" />
+<group id="23" type="span" parent="8" relname="means" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" />
+  </body>
+</rst>

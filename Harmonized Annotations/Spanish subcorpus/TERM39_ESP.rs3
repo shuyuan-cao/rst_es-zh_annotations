@@ -1,0 +1,56 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="preparation">
+Provisión de herramientas terminológicas para la formación profesional en lenguas minoritarias en cuanto al uso y a la enseñanza: proyecto VOCALL
+</segment>
+    <segment id="2" parent="13" relname="span">El proyecto VOCALL es un proyecto fundado por la Comisión Europea en el marco del Programa Leonardo. </segment>
+    <segment id="3" parent="9" relname="list">El objetivo de nuestro proyecto es crear herramientas de aprendizaje de la lengua para estudiantes de formación profesional en las áreas de informática, secretariado y electrónica</segment>
+    <segment id="4" parent="9" relname="list"> y está dirigido a lenguas minoritarias en cuanto al uso y a la enseñanza, en este caso, al irlandés, portugués y griego.
+</segment>
+    <segment id="5" parent="10" relname="motivation">En el caso de este tipo de lenguas minoritarias, los recursos en lengua escrita como bancos léxicos y terminológicos no han sido suficientemente desarrollados como apoyo para el estudiante. </segment>
+    <segment id="6" parent="10" relname="list">El producto multimedia será idéntico para todas las lenguas del proyecto,</segment>
+    <segment id="7" parent="10" relname="list"> y se comercializará como una herramienta de autoaprendizaje para estudiantes de lengua extranjera, así como para estudiantes no aventajados en la L1, dentro de la formación profesional y en las áreas arriba señaladas. 
+</segment>
+    <segment id="8" parent="14" relname="span">Nuestro artículo propone una metodología para la creación de una terminología plurilingüe tomando como base nuestras experiencias vividas hasta la fecha dentro del proyecto.
+</segment>
+<group id="9" type="multinuc" parent="12" relname="span" />
+<group id="10" type="multinuc" parent="11" relname="span" />
+<group id="11" type="span" parent="9" relname="elaboration" />
+<group id="12" type="span" parent="2" relname="purpose" />
+<group id="13" type="span" parent="8" relname="background" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>

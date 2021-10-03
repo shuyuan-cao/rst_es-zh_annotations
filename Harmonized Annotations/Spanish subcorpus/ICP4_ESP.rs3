@@ -1,0 +1,78 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="28" relname="preparation">﻿Trabaja en español
+</segment>
+    <segment id="2" parent="29" relname="span">Ser profesor en el Instituto Cervantes de Pekín
+</segment>
+    <segment id="3" parent="19" relname="preparation">Para formar parte del equipo docente del Instituto Cervantes son requisitos:
+</segment>
+    <segment id="4" parent="19" relname="list">• Poseer una licenciatura superior preferiblemente en Filología.
+</segment>
+    <segment id="5" parent="19" relname="list">• Tener formación específica en didáctica de lenguas extranjeras.
+</segment>
+    <segment id="6" parent="19" relname="list">• Dominio del español equivalente al de un nativo.
+</segment>
+    <segment id="7" parent="19" relname="list">• Contar con experiencia docente en español como lengua extranjera.
+</segment>
+    <segment id="8" parent="20" relname="elaboration">Se valoran además méritos relacionados con la titulación académica, la formación en la especialidad, la experiencia profesional y el conocimiento de idiomas.
+</segment>
+    <segment id="9" parent="21" relname="conjunction">Las convocatorias de plazas de profesor titular para los Institutos Cervantes aparecen publicadas en la prensa española.</segment>
+    <segment id="10" parent="21" relname="conjunction"> También aparecen todas las convocatorias en la página web del Instituto Cervantes. www.cervantes.es
+</segment>
+    <segment id="11" parent="15" relname="span">Además de los profesores titulares, el Instituto Cervantes de Pekín cuenta también con profesores colaboradores. Estos últimos están vinculados al centro por una contratación local.
+</segment>
+    <segment id="13" parent="14" relname="disjunction">Las solicitudes para trabajar como profesor colaborador en el Instituto Cervantes de Pekín pueden enviarse a la Jefa de Estudios mediante correo electrónico a la dirección acpek@cervantes.es</segment>
+    <segment id="16" parent="24" relname="preparation"> o entregarse en el propio centro:
+</segment>
+    <segment id="17" parent="24" relname="list">Instituto Cervantes de Pekín
+A1 Gongtinanlu, Distrito Chaoyang
+100020 Pekín
+</segment>
+    <segment id="18" parent="24" relname="list">Teléfono: +86 10 58799666
+Fax: +86 10 58799670</segment>
+<group id="19" type="multinuc" parent="20" relname="span" />
+<group id="20" type="span" parent="23" relname="span" />
+<group id="21" type="multinuc" parent="29" relname="elaboration" />
+<group id="14" type="multinuc" parent="11" relname="elaboration" />
+<group id="24" type="multinuc" parent="25" relname="span" />
+<group id="25" type="span" parent="14" relname="disjunction" />
+<group id="29" type="span" parent="27" relname="span" />
+<group id="23" type="span" parent="2" relname="condition" />
+<group id="27" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="30" type="span" />
+<group id="15" type="span" parent="27" relname="elaboration" />
+  </body>
+</rst>

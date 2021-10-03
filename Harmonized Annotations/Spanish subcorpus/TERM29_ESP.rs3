@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="preparation">﻿﻿El diseño y la gestión de las bases de datos terminológicos: un desafío permanente
+</segment>
+    <segment id="2" parent="3" relname="circumstance">Desde que la informática hizo posible el almacenamiento de datos lingüísticos y posteriormente su tratamiento,</segment>
+    <segment id="3" parent="20" relname="span"> la terminología no ha cesado de adaptarse a las innovaciones tecnológicas, </segment>
+    <segment id="4" parent="20" relname="elaboration">lo que ha supuesto y supone aún hoy un desafío permanente para el trabajo conjunto de terminólogos e informáticos. 
+</segment>
+    <segment id="5" parent="22" relname="span">Efectivamente, el diseño y la gestión de las bases de datos terminológicos plantean problemas diversos tanto de índole teórica y metodológica</segment>
+    <segment id="6" parent="18" relname="list">( ¿cómo se representa un término?,</segment>
+    <segment id="7" parent="18" relname="list"> ¿existe una representación mínima?,</segment>
+    <segment id="8" parent="18" relname="list"> ¿cómo se clasifican los términos?)</segment>
+    <segment id="9" parent="23" relname="span"> como de índole informática</segment>
+    <segment id="10" parent="19" relname="list">( ¿cuál debería ser la estructura de una base de datos terminológicos?,</segment>
+    <segment id="11" parent="19" relname="list"> ¿qué relaciones debe contemplar?, </segment>
+    <segment id="12" parent="19" relname="list">¿cuál es la unidad de un diccionario?). 
+</segment>
+    <segment id="13" parent="14" relname="span">La necesidad de encontrar soluciones que se puedan aplicar en un contexto real de un modo efectivo nos ha obligado a adoptar un determinado enfoque que, sin perder de vista los postulados teóricos y las distintas metodologías de la terminología y la informática, nos permita afrontar dichos problemas y llevar a cabo el trabajo terminológico y la difusión de sus resultados.</segment>
+<group id="18" type="multinuc" parent="5" relname="elaboration" />
+<group id="19" type="multinuc" parent="9" relname="elaboration" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="29" relname="span" />
+<group id="22" type="span" parent="24" relname="same-unit" />
+<group id="23" type="span" parent="24" relname="same-unit" />
+<group id="24" type="multinuc" parent="21" relname="elaboration" />
+<group id="29" type="span" parent="13" relname="background" />
+<group id="14" type="span" parent="16" relname="span" />
+<group id="16" type="span" />
+  </body>
+</rst>

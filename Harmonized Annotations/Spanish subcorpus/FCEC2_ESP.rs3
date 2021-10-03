@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="preparation">﻿Objetivos y fines
+</segment>
+    <segment id="2" parent="35" relname="span">La Fundación Consejo España China es una institución privada y sin ánimo de lucro constituida en el año 2004, cuya misión se encuadra en el llamado ejercicio de la Diplomacia Pública entre nuestros dos países. </segment>
+    <segment id="3" parent="4" relname="span">En dicha misión de mejorar y difundir la imagen de España en China,  colabora con la Administración y especialmente con el Ministerio de Asuntos Exteriores y de Cooperación,</segment>
+    <segment id="5" parent="3" relname="purpose"> con afán de complementar la Acción Exterior desde la vertiente de la sociedad civil.
+</segment>
+    <segment id="6" parent="28" relname="span">Nuestro objetivo es el fomento de un mayor contenido de intercambio bilateral desde una aproximación global y en sus más diversos ámbitos: económico, cultural, educativo, legal, etc.,</segment>
+    <segment id="7" parent="6" relname="means"> contando para ello con programas y actividades propias encaminadas a crear un foco de atención permanente hacia China.
+</segment>
+    <segment id="8" parent="37" relname="span">El propio Patronato, órgano de gobierno de la Fundación, refleja esta variedad de intereses al aglutinar a empresas, universidades, ayuntamientos, escuelas de negocios, entidades culturales o deportivas.</segment>
+    <segment id="9" parent="8" relname="elaboration"> Su común denominador: constituir en sus respectivos campos destacados referentes de presencia o actividad con China. </segment>
+    <segment id="11" parent="38" relname="conjunction">Al mismo tiempo, diversos departamentos de la Administración integran igualmente el Patronato facilitando el diálogo y la colaboración público-privada.
+</segment>
+    <segment id="12" parent="41" relname="span">El Patronato define las actividades de cada ejercicio en el Plan de Actuación anual, entre las que cabe destacar por su carácter periódico las siguientes:
+</segment>
+    <segment id="13" parent="39" relname="span">El Foro España China, del que la Fundación constituye su Secretaría Permanente, es la principal plataforma de diálogo entre las sociedades de ambos países, y un Instrumento bilateral plenamente consolidado que cuenta con el respaldo de nuestras respectivas Administraciones.</segment>
+    <segment id="14" parent="30" relname="span"> Su primera edición tuvo lugar en Pekín en diciembre de 2003, </segment>
+    <segment id="15" parent="14" relname="elaboration">habiéndose celebrado sucesivas ediciones cada año y medio, y alternativamente en cada uno de los dos países. </segment>
+    <segment id="16" parent="30" relname="purpose">Su principal virtualidad es facilitar la creación de contactos entre los participantes que puedan conducir a ulteriores proyectos.
+</segment>
+    <segment id="17" parent="19" relname="span">Por su parte, el Programa de inmersión en nuestro país “Futuros Líderes Chinos”, se ha convertido en un referente de la Fundación</segment>
+    <segment id="18" parent="17" relname="result"> en virtud del cual nos visita cada año un grupo de diez profesionales chinos que destacan por su proyección hacia puestos de responsabilidad en su país, constituyendo verdaderos prescriptores de opinión. </segment>
+    <segment id="20" parent="31" relname="list">Tiene como objetivo ofrecer una visión actualizada de la realidad sociocultural española,</segment>
+    <segment id="21" parent="31" relname="list"> y favorecer la creación de lazos entre España y sus instituciones de una parte, y la futura élite profesional china, de otra. </segment>
+    <segment id="22" parent="42" relname="elaboration">A su regreso a China, los participantes se integran en el “Spain China Club”.
+</segment>
+    <segment id="23" parent="24" relname="elaboration">La Fundación, asimismo reconoce anualmente a través de los Premios que llevan su nombre la labor de entidades o ciudadanos chinos y españoles por su especial contribución a un mayor nivel de conocimiento o intercambio entre nuestros respectivos países.
+</segment>
+    <segment id="25" parent="32" relname="span">Por último, la Fundación lleva a cabo una labor institucional y de representación permanente, </segment>
+    <segment id="26" parent="25" relname="motivation">bien sea con motivo del intercambio de Visitas Oficiales, presencia en actividades sectoriales organizadas por instituciones colaboradoras, encuentros con personalidades de ambos países, etc.…
+</segment>
+    <segment id="27" parent="48" relname="elaboration">La Fundación, es una entidad abierta a la incorporación de nuevas entidades comprometidas con su Misión.</segment>
+<group id="28" type="span" parent="35" relname="purpose" />
+<group id="30" type="span" parent="40" relname="span" />
+<group id="31" type="multinuc" parent="19" relname="purpose" />
+<group id="37" type="span" parent="38" relname="conjunction" />
+<group id="38" type="multinuc" parent="44" relname="span" />
+<group id="39" type="span" parent="12" relname="elaboration" />
+<group id="32" type="span" parent="46" relname="elaboration" />
+<group id="40" type="span" parent="13" relname="elaboration" />
+<group id="41" type="span" parent="52" relname="list" />
+<group id="52" type="multinuc" parent="38" relname="elaboration" />
+<group id="4" type="span" parent="2" relname="elaboration" />
+<group id="35" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="24" relname="span" />
+<group id="19" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="52" relname="list" />
+<group id="44" type="span" parent="33" relname="elaboration" />
+<group id="24" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="48" relname="span" />
+<group id="48" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="29" relname="span" />
+<group id="29" type="span" />
+  </body>
+</rst>

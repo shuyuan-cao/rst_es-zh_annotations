@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="55" relname="preparation">﻿Carta de bienvenida
+</segment>
+    <segment id="2" parent="54" relname="preparation">Queridos amigos,
+</segment>
+    <segment id="3" parent="30" relname="span">Como Presidente de la Fundación Consejo España China, quiero presentaros esta entidad </segment>
+    <segment id="4" parent="3" relname="purpose">que pretende lograr un mejor conocimiento entre nuestras respectivas sociedades civiles.
+</segment>
+    <segment id="5" parent="31" relname="span">La Fundación cuenta con el apoyo del Ministerio de Asuntos Exteriores y de Cooperación </segment>
+    <segment id="6" parent="7" relname="preparation">para la consecución un objetivo compartido:</segment>
+    <segment id="7" parent="29" relname="span"> proyectar una imagen de España, que contribuya a que los actores civiles puedan desarrollar su labor en el mejor clima posible para llenar de contenido esas relaciones.
+</segment>
+    <segment id="8" parent="10" relname="span">Como responsable de una empresa presente en China desde hace tres décadas, es para mi una gran satisfacción presidir esta Fundación, en cuyo órgano de gobierno me acompañan las empresas, universidades, escuelas de negocio, entidades culturales, y otras instituciones españolas que no solamente son importantes por su destacada actividad y presencia en China, sino en atención a su compromiso por participar activamente en  esta reflexión permanente dirigida a la mejor promoción de nuestros intereses generales en dicho país.
+</segment>
+    <segment id="11" parent="34" relname="list">Para ello, creemos que tiene un papel esencial promover la atención de la Administración española hacia China,</segment>
+    <segment id="12" parent="34" relname="list"> y poder hacer llegar nuestras ideas y sugerencias de una manera práctica y cercana.</segment>
+    <segment id="13" parent="34" relname="means"> Este diálogo se canaliza a través de la pertenencia de varios Altos Cargos a nuestro Patronato.
+</segment>
+    <segment id="14" parent="43" relname="span">También lo es el acercar una imagen real de nuestro país a la sociedad china, país en el que España debe lograr posicionarse de una forma más robusta y nítida, alejada de tópicos. </segment>
+    <segment id="15" parent="14" relname="justify">Se trata de una cuestión cuya importancia conocemos todos los que trabajamos en el exterior. </segment>
+    <segment id="16" parent="43" relname="interpretation">Las oportunidades para España pasan porque China asocie a nuestra imagen el capital que representa nuestro idioma,  el excelente trabajo de nuestras empresas en muchos ámbitos, la profesionalidad de nuestras PYMES, el liderazgo global de nuestras escuelas de negocio y Universidades, y nuestra creatividad, innovación, y avances tecnológicos, por mencionar algunos aspectos. </segment>
+    <segment id="17" parent="35" relname="span">Esta tarea nos corresponde a todos</segment>
+    <segment id="18" parent="17" relname="evaluation"> y es el mejor substrato para nuestra actividad exterior.
+</segment>
+    <segment id="19" parent="37" relname="background">Igualmente importante es conocer en profundidad la que hoy ya es la segunda economía, y quizá la más dinámica del mundo, situada además en el nuevo centro de gravedad que representa el eje Asia- Pacífico.</segment>
+    <segment id="21" parent="38" relname="circumstance"> Los ojos del mundo miran a China,</segment>
+    <segment id="22" parent="38" relname="span"> y España también debe ser capaz de analizar en profundidad los constantes cambios que atraviesa este país y detectar las oportunidades a tiempo </segment>
+    <segment id="23" parent="22" relname="purpose"> para, en definitiva, estar más presentes y visibles en China.
+</segment>
+    <segment id="24" parent="41" relname="elaboration">Sirvan estas líneas para presentar esta web donde se introducen con más detalle las distintas actividades de esta Fundación.
+</segment>
+    <segment id="26" parent="47" relname="elaboration">No quisiera despedirme sin agradecer a las muchas entidades que colaboran con la Fundación su confianza y visión compartida.
+</segment>
+    <segment id="27" parent="46" relname="span">Juan Lladó Arburúa.</segment>
+    <segment id="28" parent="27" relname="elaboration"> Presidente de la Fundación Consejo España-China</segment>
+<group id="30" type="span" parent="40" relname="span" />
+<group id="34" type="multinuc" parent="42" relname="span" />
+<group id="40" type="span" parent="41" relname="span" />
+<group id="42" type="span" parent="8" relname="condition" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="45" type="span" parent="52" relname="list" />
+<group id="46" type="span" parent="53" relname="elaboration" />
+<group id="38" type="span" parent="37" relname="span" />
+<group id="35" type="span" parent="44" relname="elaboration" />
+<group id="37" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="52" relname="list" />
+<group id="52" type="multinuc" parent="40" relname="elaboration" />
+<group id="41" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="53" relname="span" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="55" relname="span" />
+<group id="55" type="span" parent="57" relname="span" />
+<group id="57" type="span" />
+<group id="29" type="span" parent="5" relname="purpose" />
+<group id="31" type="span" parent="30" relname="elaboration" />
+<group id="10" type="span" parent="52" relname="list" />
+  </body>
+</rst>

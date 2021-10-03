@@ -1,0 +1,77 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="28" relname="preparation">﻿Exposición: ¿Cazadores de tendencias? Los nombres esenciales de la moda española
+</segment>
+    <segment id="2" parent="6" relname="span">La exposición ¿Cazadores de Tendencias? se inaugura el jueves 24 de septiembre a las 18:30 horas con la presencia del comisario y de miembros destacados de la moda española y china.
+</segment>
+    <segment id="3" parent="37" relname="span">De Madrid a Pekín, los cazadores de tendencias se han convertido en símbolo de modernidad y en un componente básico de la marca país.</segment>
+    <segment id="4" parent="3" relname="elaboration"> Este concepto, en otrora propiedad de los estudios privados, forma parte hoy del lenguaje coloquial.</segment>
+    <segment id="5" parent="34" relname="background"> Siempre ha habido moda y, como tal, siempre ha habido cazadores de tendencias, pero hoy las tendencias las sugiere la calle.</segment>
+    <segment id="8" parent="34" relname="list"> En medio de este proceso de democratización de la moda, el comisario Pedro Mansilla seleccionó cuidadosamente 67 tendencias cazadas, con sus 67 nombres propios y sus 67 méritos</segment>
+    <segment id="9" parent="34" relname="list"> y confeccionó la exhibición ¿Cazadores de Tendencias? Los nombres esenciales de la moda española, a partir del 24 de septiembre en exclusiva en el Instituto Cervantes de Pekín.
+</segment>
+    <segment id="10" parent="11" relname="span">La exposición, parte de la Beijing Design Week, ofrece una mirada intimista al último siglo de moda española y ha sido elaborada desde el consenso con todos sus protagonistas.</segment>
+    <segment id="12" parent="10" relname="result"> Así, ¿Cazadores de Tendencias? presenta 67 diseñadores españoles a través de una fotografía emblemática y un texto que ayuda a entender la filosofía y la obra de sus protagonistas.</segment>
+    <segment id="13" parent="39" relname="span"> Como complemento, se proyecta el vídeo Moda con firma, que ofrece un panorama de la actualidad del sector de la moda en España.</segment>
+    <segment id="14" parent="13" relname="elaboration"> El vídeo ha sido producido por Canal Decasa y dirigido por Mansilla.
+</segment>
+    <segment id="15" parent="30" relname="span">¿Cazadores de Tendencias? se inaugura el jueves 24 de septiembre a las 18:30 horas con la presencia del propio Mansilla, profesor, sociólogo, crítico de moda y colaborador en muchos de los más importantes medios de comunicación españoles. Junto al comisario, la inauguración contará con la prestigiosa promotora del diseño chino Hong Huang, conocida internacionalmente como la respuesta china a Anna Wintour, la influyente editora de Vogue.</segment>
+    <segment id="17" parent="29" relname="concession"> Hong, responsable de la popular revista I-Look, no solo promueve de forma incansable el trabajo de los diseñadores locales,</segment>
+    <segment id="18" parent="29" relname="span">sino que ha ideado plataformas</segment>
+    <segment id="19" parent="18" relname="purpose">para ayudarles a ganar experienciaen el disputado mercado de la moda.</segment>
+    <segment id="21" parent="23" relname="span">La exposición, organizada con la colaboración de Centro Cibeles, Lunwerg y la Embajada de España en China,estará abierta hasta finales de año,</segment>
+    <segment id="22" parent="21" relname="elaboration">un período en el que el Instituto Cervantes de Pekín se volcará en el mundo de la moda y el diseño con talleres, conferencias y eventos.</segment>
+    <segment id="24" parent="33" relname="span">¿Cazadores de Tendencias? se inauguró en Madrid en 2013.</segment>
+    <segment id="25" parent="24" relname="elaboration"> Tras el éxito obtenido en la capital española, parte de la exposición se presentó en Praga, Milán y Tel-Aviv, entre otras.</segment>
+<group id="33" type="span" parent="23" relname="elaboration" />
+<group id="34" type="multinuc" parent="7" relname="span" />
+<group id="39" type="span" parent="11" relname="elaboration" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="7" type="span" parent="37" relname="elaboration" />
+<group id="38" type="span" parent="2" relname="elaboration" />
+<group id="6" type="span" parent="45" relname="span" />
+<group id="11" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="32" relname="span" />
+<group id="29" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="15" relname="elaboration" />
+<group id="30" type="span" parent="35" relname="elaboration" />
+<group id="23" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="45" relname="elaboration" />
+<group id="32" type="span" parent="6" relname="elaboration" />
+<group id="45" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="16" relname="span" />
+<group id="16" type="span" />
+  </body>
+</rst>

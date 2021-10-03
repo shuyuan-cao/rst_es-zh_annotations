@@ -1,0 +1,132 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="91" relname="preparation">
+Relación de argumento/relación de campo: en busca de los equivalentes en euskera de los adjetivos referenciales
+</segment>
+    <segment id="2" parent="82" relname="span">Es sabida la magnitud de los problemas que acarrean los adjetivos referenciales a los traductores al euskera de cualquier tipo de texto. </segment>
+    <segment id="3" parent="81" relname="span">En múltiples ocasiones ha quedado en evidencia que para dar con los equivalentes en euskera de los adjetivos referenciales de las lenguas vecinas se han de seguir varios caminos diferentes (Ensunza, 1989; Loinaz, 1995), </segment>
+    <segment id="4" parent="3" relname="concession">si bien, de alguna manera, la elección de los recursos que se han de emplear se deja en la mayoría de las casos en manos del buen juicio, intuición y el sentido estético del escritor/traductor.
+</segment>
+    <segment id="5" parent="6" relname="antithesis">Los adjetivos referenciales siempre derivan del nombre</segment>
+    <segment id="6" parent="7" relname="span"> pero, muchas veces, se mezclan el origen y el carácter referencialy entran en el mismo saco los adjetivos que son completamente predicativos con los adjetivos que sin duda alguna son absolutamente referenciales. </segment>
+    <segment id="8" parent="60" relname="span">Para el caso del inglés, ya en 1978 Levi dejó clara la necesidad de diferenciar dos tipos de adjetivos de derivados de sustantivo pero de características semánticas y sintácticas diferentes: &quot;nominal nonpredicating adjectives&quot; y &quot;denominal adjetives&quot;;</segment>
+    <segment id="9" parent="59" relname="span"> los últimos, derivados mediante sufijos tipo -y, -ful y -ous,</segment>
+    <segment id="10" parent="9" relname="circumstance"> de modo que no sólo tomarán de los sufijos su categoría gramatical, sino también el carácter predicativo. </segment>
+    <segment id="11" parent="61" relname="contrast">Por el contrario, los que se englobarían en la clasificación de &quot;nominal nonpredicating adjectives&quot;, a pesar de ser por categoría adjetivos, tendrían un comportamiento similar al de los sustantivos: linguistic difficulties/language difficulties. </segment>
+    <segment id="12" parent="13" relname="circumstance">En el caso del castellano, tal y como defendió Bosque en 1989, </segment>
+    <segment id="13" parent="62" relname="span">existen sufijos generativos que difícilmente derivan en adjetivos referenciales (-esco, -il, -oso, -ino) y otros que frecuentemente derivan en adjetivos referenciales (-al, -ar, -ario, -ico). </segment>
+    <segment id="14" parent="16" relname="span">En francés también se suelen emplear diferentes sufijos</segment>
+    <segment id="15" parent="14" relname="purpose"> para crear adjetivos referenciales y predicativos, y a consecuencia de ello cuentan con parejas del tipo familial-familier y infantil-infantin.
+</segment>
+    <segment id="17" parent="87" relname="span">De cualquier modo, entre los adjetivos de carácter realmente referencial también, por la relación que tienen con el nombre que modifican (Bosque, 1989 y 1992; Bosque y Picallo, 1994), se pueden diferenciar dos tipos:</segment>
+    <segment id="18" parent="66" relname="span"> por una parte los que modifican nombres de actividades o consecuencias y frecuentemente el adjetivo referencial es el argumento del nombre. </segment>
+    <segment id="19" parent="65" relname="span">Por ejemplo, decisión presidencial necesariamente será lo decidido por el presidente y extracción dental la acción de sacar un diente o una muela. </segment>
+    <segment id="20" parent="68" relname="contrast">Es evidente que en el último caso el adjetivo dental equivale al complemento directo del verbo extraer y que en euskera los sustantivos compuestos son formidables candidatos para ello (hortzateratzea). </segment>
+    <segment id="21" parent="67" relname="list">Por el contrario, difícilmente traduciremos decisión presidencial como presidente-erabaki</segment>
+    <segment id="22" parent="67" relname="list"> y, casi sin duda alguna, optaremos por presidentearen erabaki.</segment>
+    <segment id="23" parent="68" relname="elaboration"> ¿Cuál es la razón de esta diferencia, &quot;el carácter de sujeto&quot; del modificador de los nombres compuestos o el &quot;carácter definido&quot; de ese elemento? 
+</segment>
+    <segment id="24" parent="70" relname="span">Por otra parte, cuando lo que modifican los adjetivos referenciales es el nombre (de un objeto sin estructura argumental), no se puede predecir la relación entre el nombre y el adjetivo;</segment>
+    <segment id="25" parent="24" relname="elaboration"> en ese caso nos encontramos con la relación de ámbito o relación de propiedad que quienes se ocupan de elaborar los diccionarios definen con la perífrasis -ri dagokion. </segment>
+    <segment id="26" parent="72" relname="span">Por ejemplo, hilo dental es el hilo que se emplea para limpiar los dientes, en euskera, seguramente preferiríamos hortzetako haria a hortz-haria. </segment>
+    <segment id="27" parent="26" relname="elaboration">Por último, para el conjunto denominado en el área de la fonética como consonante dental se emplea kontsonante horzkaria y no hortz-kontsonante.
+</segment>
+    <segment id="28" parent="73" relname="span">En resumen, la clasificación de las relaciones que puede darse entre los nombres y sus modificadores es universal: </segment>
+    <segment id="29" parent="28" relname="elaboration">por una parte los modificadores con carácter de predicado y por otra los que tienen carácter referencial. </segment>
+    <segment id="30" parent="73" relname="elaboration">Además, dentro de este último grupo se encuentran los modificadores de los argumentos del nombre y los que tienen una relación de propiedad o de campo con él.
+</segment>
+    <segment id="31" parent="80" relname="span">Dichas relaciones se pueden expresar a través de diferentes categorías gramaticales en una u otra lengua: a través de adjetivos, de sintagmas preposicionales o posposicionales, sustantivos compuestos, etc.</segment>
+    <segment id="32" parent="76" relname="contrast"> Por ejemplo, el adjetivo marginal en inglés tiene un uso referencial y predicativo respectivamente en los conjuntos marginal note y marginal case; </segment>
+    <segment id="33" parent="76" relname="contrast">en castellano, por el contrario, diferencian el uso referencial y el predicativo empleando nota al margen y caso marginal. </segment>
+    <segment id="35" parent="77" relname="contrast">En el caso del euskera se pueden encontrar en el diccionario Elhuyar albo-ohar o marjinako ohar para su uso referencial, pero ejemplos del tipo bazterreko kasu para uso predicativo. </segment>
+    <segment id="36" parent="78" relname="span">De cualquier modo, en numerosas lenguas, existen adjetivos que cubren los tres espacios descritos. </segment>
+    <segment id="37" parent="38" relname="purpose">Para ilustrarlo</segment>
+    <segment id="38" parent="55" relname="span"> recordaremos el ejemplo de Levi: musical voice, musical criticism, musical comedy. 
+</segment>
+    <segment id="39" parent="56" relname="span">En este trabajo intentaremos fijar a través de qué recursos se pueden expresar en euskera cada una de esas relaciones universales y dónde pueden encontrarse los límites de cada recurso (actualmente por lo menos).</segment>
+    <segment id="40" parent="53" relname="span"> ¿Qué tipo de adjetivos se pueden crear a través de los sufijos generadores de adjetivos? </segment>
+    <segment id="41" parent="42" relname="concession">Aunque muchos adjetivos referenciales se pueden dar en euskera a través de palabras compuestas,</segment>
+    <segment id="42" parent="52" relname="span"> está claro que ese método no ofrece formas para todos los adjetivos referenciales. </segment>
+    <segment id="43" parent="54" relname="list">¿Dónde se encuentra el límite?</segment>
+    <segment id="44" parent="54" relname="list"> ¿Dónde se encuentra la clave, en el carácter de predicado/no predicado, en relación argumental, de campo, posesiva o en otro aspecto?</segment>
+    <segment id="45" parent="54" relname="list"> ¿Tienen algún tipo de influencia las características definido/indefinido, animado/inanimado, contable/incontable? </segment>
+    <segment id="46" parent="54" relname="list">¿Influye en esa imposibilidad que el nombre modificado se trate de un nombre de acción, consecuencia u objeto?</segment>
+    <segment id="47" parent="54" relname="list"> ¿Cuáles son las condiciones que nos pueden llevar a no tener otro remedio que emplear el préstamo para traducir al euskera un adjetivo referencial de otras lenguas?</segment>
+    <segment id="48" parent="51" relname="span"> ¿Cuándo hemos empleado complementos del nombre en euskera</segment>
+    <segment id="49" parent="48" relname="purpose"> para sustituir a los adjetivos de otras lenguas?
+</segment>
+    <segment id="50" parent="56" relname="summary">En resumen, el objetivo del presente trabajo consiste en conseguir una sistematización que nos ayudaría a encontrar de un modo bastante automático el equivalente en euskera de adjetivos referenciales de las lenguas vecinas.
+</segment>
+<group id="52" type="span" parent="40" relname="elaboration" />
+<group id="53" type="span" parent="54" relname="list" />
+<group id="54" type="multinuc" parent="39" relname="elaboration" />
+<group id="56" type="span" parent="83" relname="span" />
+<group id="59" type="span" parent="8" relname="elaboration" />
+<group id="60" type="span" parent="61" relname="contrast" />
+<group id="61" type="multinuc" parent="84" relname="list" />
+<group id="67" type="multinuc" parent="68" relname="contrast" />
+<group id="68" type="multinuc" parent="69" relname="span" />
+<group id="69" type="span" parent="19" relname="elaboration" />
+<group id="70" type="span" parent="71" relname="span" />
+<group id="71" type="span" parent="86" relname="list" />
+<group id="72" type="span" parent="70" relname="elaboration" />
+<group id="76" type="multinuc" parent="77" relname="contrast" />
+<group id="77" type="multinuc" parent="79" relname="span" />
+<group id="78" type="span" parent="77" relname="elaboration" />
+<group id="79" type="span" parent="31" relname="elaboration" />
+<group id="80" type="span" parent="74" relname="elaboration" />
+<group id="81" type="span" parent="2" relname="elaboration" />
+<group id="82" type="span" parent="88" relname="list" />
+<group id="83" type="span" parent="91" relname="span" />
+<group id="84" type="multinuc" parent="7" relname="elaboration" />
+<group id="65" type="span" parent="18" relname="elaboration" />
+<group id="66" type="span" parent="86" relname="list" />
+<group id="86" type="multinuc" parent="17" relname="elaboration" />
+<group id="88" type="multinuc" parent="89" relname="span" />
+<group id="91" type="span" parent="92" relname="span" />
+<group id="92" type="span" />
+<group id="55" type="span" parent="36" relname="evidence" />
+<group id="62" type="span" parent="84" relname="list" />
+<group id="87" type="span" parent="88" relname="list" />
+<group id="73" type="span" parent="74" relname="span" />
+<group id="74" type="span" parent="90" relname="span" />
+<group id="90" type="span" parent="88" relname="summary" />
+<group id="7" type="span" parent="63" relname="span" />
+<group id="16" type="span" parent="84" relname="list" />
+<group id="63" type="span" parent="88" relname="list" />
+<group id="89" type="span" parent="83" relname="background" />
+<group id="51" type="span" parent="54" relname="list" />
+  </body>
+</rst>

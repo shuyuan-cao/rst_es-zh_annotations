@@ -1,0 +1,86 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="preparation">
+Diplomas DELE
+</segment>
+    <segment id="2" parent="20" relname="span">Los Diplomas de Español como Lengua Extranjera (DELE) son títulos oficiales, acreditativos del grado de competencia y dominio del idioma español, que otorga el Instituto Cervantes en nombre del Ministerio de Educación, Cultura y Deporte de España.
+</segment>
+    <segment id="3" parent="19" relname="span">¿Cuál es el valor y reconocimiento de los DELE en China?
+</segment>
+    <segment id="4" parent="18" relname="list">• Son los únicos títulos oficiales de ELE en los correspondientes niveles.
+</segment>
+    <segment id="5" parent="18" relname="list">• Son reconocidos internacionalmente por empresas privadas, cámaras de comercio y sistemas educativos públicos y privados.
+</segment>
+    <segment id="6" parent="18" relname="list">• Son acreditación suficiente para cualquier actividad profesional o académica en España para la que se requiera ese nivel de conocimiento.
+</segment>
+    <segment id="7" parent="18" relname="list">• Son méritos para los solicitantes de las becas MAE - AECID.
+</segment>
+    <segment id="8" parent="18" relname="list">• Tienen validez indefinida.
+</segment>
+    <segment id="9" parent="33" relname="preparation">Los diplomas que se pueden obtener son los siguientes:
+</segment>
+    <segment id="10" parent="27" relname="span">• El Diploma de Español Nivel A1</segment>
+    <segment id="16" parent="10" relname="elaboration"> Acredita la competencia lingüística suficiente para desenvolverse en situaciones de comunicación sencillas, relativas a áreas de necesidad inmediata o a temas muy cotidianos.
+</segment>
+    <segment id="11" parent="28" relname="span">• El Diploma de Español Nivel A2</segment>
+    <segment id="17" parent="11" relname="elaboration"> Acredita que el candidato es capaz de comprender frases y expresiones cotidianas de uso frecuente relacionadas con áreas de experiencia que le son especialmente relevantes (información básica sobre sí mismo y su familia, compras, lugares de interés, ocupaciones, etc.).
+</segment>
+    <segment id="12" parent="29" relname="span">• El Diploma de Español Nivel B1 </segment>
+    <segment id="23" parent="12" relname="elaboration">Acredita la competencia lingüística suficiente para comprender y reaccionar adecuadamente ante las situaciones más habituales de la vida cotidiana y para comunicar deseos y necesidades de forma básica.
+</segment>
+    <segment id="13" parent="30" relname="span">• El Diploma de Español Nivel B2 </segment>
+    <segment id="24" parent="13" relname="elaboration">Acredita la competencia lingüística suficiente para desenvolverse en las situaciones corrientes de la vida cotidiana, en circunstancias normales de comunicación que no requieran un uso especializado de la lengua.
+</segment>
+    <segment id="14" parent="31" relname="span">• El Diploma de Español Nivel C1</segment>
+    <segment id="25" parent="14" relname="elaboration"> Acredita la competencia lingüística suficiente para expresarse con claridad y sin tener que limitar lo que se quiere decir. El candidato tiene un buen dominio de un amplio repertorio léxico, incluidas expresiones idiomáticas y coloquiales.
+</segment>
+    <segment id="15" parent="32" relname="span">• El Diploma de Español Nivel C2 </segment>
+    <segment id="26" parent="15" relname="elaboration">Acredita la competencia lingüística necesaria para desenvolverse en situaciones que requieran un uso elevado de la lengua española y un conocimiento de los hábitos culturales que a través de ella se manifiestan.
+</segment>
+<group id="18" type="multinuc" parent="3" relname="elaboration" />
+<group id="19" type="span" parent="21" relname="span" />
+<group id="20" type="span" parent="22" relname="span" />
+<group id="21" type="span" parent="2" relname="elaboration" />
+<group id="22" type="span" />
+<group id="27" type="span" parent="33" relname="list" />
+<group id="28" type="span" parent="33" relname="list" />
+<group id="29" type="span" parent="33" relname="list" />
+<group id="30" type="span" parent="33" relname="list" />
+<group id="31" type="span" parent="33" relname="list" />
+<group id="32" type="span" parent="33" relname="list" />
+<group id="33" type="multinuc" parent="34" relname="span" />
+<group id="34" type="span" parent="19" relname="elaboration" />
+  </body>
+</rst>

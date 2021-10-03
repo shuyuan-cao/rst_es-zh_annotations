@@ -1,0 +1,99 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="38" relname="preparation">﻿﻿Gestión terminológica y proceso cognitivo en lenguas minoritarias
+</segment>
+    <segment id="2" parent="3" relname="span">La gestión terminológica, esto es, la recopilación, el análisis, la convalidación y la distribución de términos, es una tarea crucial para convertir la información en conocimiento comprensible y aplicable. </segment>
+    <segment id="4" parent="60" relname="span">Hay especialistas de todo tipo de corrientes implicados en acuñar términos, modificar la terminología existente, definirlos como arcaicos o reintroducir términos desechados con nuevos significados. </segment>
+    <segment id="5" parent="56" relname="span">Una de las tareas de los especialistas es, al parecer, acuñar neologismos, introducir retrónimos, traducir términos, convalidar términos y, de forma bastante indirecta, recopilar o ayudar a completar recopilaciones de términos de sus respectivas especialidades. </segment>
+    <segment id="6" parent="36" relname="list">La ciencia moderna, el ocio y el entretenimiento de hoy en día, las iniciativas innovadoras, todo ello se distingue de sus anteriores plasmaciones no únicamente a través de bienes, servicios y herramientas,</segment>
+    <segment id="7" parent="36" relname="list"> sino también a través de la terminología que emplean para describir las ciencias, las artes y la cultura, los negocios y las iniciativas. </segment>
+    <segment id="8" parent="39" relname="span">La gestión terminológica es, sobre todo, una labor manual que se sustenta en la existencia de documentalistas, traductores y terminólogos bien motivados;</segment>
+    <segment id="9" parent="8" relname="means"> los últimos desempeñando el papel de los dos primeros.</segment>
+    <segment id="10" parent="57" relname="span"> Los sistemas de gestión terminológica asequibles hoy en día han aliviado algunas de las labores de almacenamiento y recuperación asociadas con el archivo y presentación de términos especializados. </segment>
+    <segment id="11" parent="10" relname="antithesis">De todas formas, la recopilación, el análisis y la convalidación son funciones desempeñadas por personas cualificadas. </segment>
+    <segment id="12" parent="64" relname="span">En el caso de las lenguas mayoritarias, la costosa labor de la gestión terminológica se sustenta en la expectación que crea el hecho de que exista un gran potencial numérico de personas que reclaman y desean invertir en crear bases de datos terminológicos. </segment>
+    <segment id="13" parent="62" relname="span">Pero éste no es el caso de otras lenguas con menor número de hablantes; </segment>
+    <segment id="14" parent="13" relname="justify">la gestión terminológica, en estos casos, a menudo está estrechamente vinculada con la políticamente motivada y, a menudo, emocionalmente cargada planificación lingüística. </segment>
+    <segment id="15" parent="62" relname="elaboration">La dependencia en el factor humano de la gestión terminológica es mayor en el caso de las comunidades lingüísticas minorizadas que en el de otras lenguas.
+</segment>
+    <segment id="16" parent="17" relname="span">La automatización de la gestión terminológica no es una mera cuestión de producir programas informáticos, aunque ésta sea una labor de por sí costosa. </segment>
+    <segment id="18" parent="41" relname="list">Esta automatización requiere un conocimiento de la forma en que se escriben los textos especializados, de cómo los seres humanos expresan la semántica de estos campos especializados, </segment>
+    <segment id="19" parent="41" relname="list">y de cómo el modelo discursivo varía de acuerdo con las necesidades del autor y de los lectores del texto. </segment>
+    <segment id="20" parent="42" relname="list">No es el caso de otras lenguas con menor número de hablantes; </segment>
+    <segment id="21" parent="42" relname="list">y parece que resulta difícil convencer a nadie para que asuma la labor de realizar estudios y recopilar datos en estas áreas. </segment>
+    <segment id="22" parent="44" relname="span">De alguna forma, la producción escrita especializada está asociada a la &quot;producción técnica&quot; de términos, </segment>
+    <segment id="23" parent="22" relname="interpretation">un modelo discursivo que a su vez está asociado a máquinas, </segment>
+    <segment id="24" parent="44" relname="result">y por lo tanto no cuenta con el mismo estatus que la más abstracta tarea del análisis gramatical de frases mediante un modelo lingüístico matemático o de la búsqueda de iconos culturales en los textos, por ejemplo.
+</segment>
+    <segment id="25" parent="47" relname="span">Pero el procesamiento cognitivo, término que puede emplearse para elaborar actividades interrelacionadas como la educación, la formación, la enseñanza, el aprendizaje, la resolución de problemas, etc. depende enteramente de la disponibilidad de recopilaciones de terminología especializada. </segment>
+    <segment id="26" parent="25" relname="elaboration">Esto resulta especialmente cierto durante los años formativos de los niños, el inicio de carrera de un novato o para una persona que está siendo reentrenada; los hechos, principios, teorías y reglas que guardan relación con cualquier actividad humana y que conocemos colectivamente como conocimiento han de ser asimilados y aplicados a la enseñanza, aprendizaje, resolución de problemas, etc. </segment>
+    <segment id="28" parent="47" relname="elaboration">La &quot;materia prima&quot; al alcance en libros de texto, prensa especializada, experiencia anterior todavía sin articular, ha de ser comunicada mediante términos con un significado bien definido y frecuentemente utilizado por una organización especializada. </segment>
+    <segment id="29" parent="53" relname="result">El procesamiento cognitivo está, por lo tanto, inexorablemente unido a la gestión terminológica, la cual, por su parte, está unida a la planificación lingüística y a la política. </segment>
+    <segment id="30" parent="48" relname="list">Durante estos últimos diez años nos hemos dedicado a producir recopilaciones terminológicas de lenguas extensamente habladas, </segment>
+    <segment id="31" parent="48" relname="list">mientras, al mismo tiempo, intentábamos adaptar estos métodos a lenguas más minoritarias como el galés, noruego, flamenco o el catalán.</segment>
+    <segment id="32" parent="33" relname="span"> Esta ponencia tratará de los desafíos con los que nos hemos encontrado, de las oportunidades identificadas y de las soluciones sugeridas para gestionar la terminología de lenguajes especializados en espacios plurilingües donde al menos una de las lenguas pertenece a la categoría de lenguas minoritarias.</segment>
+    <segment id="35" parent="32" relname="means"> Nuestro marco teórico proviene de recientes estudios en el campo del corpus lingüístico, filosofía e historia de la ciencia por una parte, y de la informática, por otra.</segment>
+<group id="37" type="multinuc" />
+<group id="39" type="span" parent="58" relname="span" />
+<group id="41" type="multinuc" parent="43" relname="span" />
+<group id="42" type="multinuc" parent="41" relname="elaboration" />
+<group id="43" type="span" parent="66" relname="span" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="45" type="span" parent="43" relname="elaboration" />
+<group id="47" type="span" parent="53" relname="span" />
+<group id="48" type="multinuc" parent="33" relname="background" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="34" relname="background" />
+<group id="56" type="span" parent="59" relname="span" />
+<group id="57" type="span" parent="39" relname="elaboration" />
+<group id="58" type="span" parent="56" relname="elaboration" />
+<group id="59" type="span" parent="4" relname="elaboration" />
+<group id="60" type="span" parent="2" relname="elaboration" />
+<group id="62" type="span" parent="63" relname="span" />
+<group id="63" type="span" parent="12" relname="antithesis" />
+<group id="64" type="span" parent="3" relname="elaboration" />
+<group id="66" type="span" parent="16" relname="elaboration" />
+<group id="36" type="multinuc" parent="5" relname="elaboration" />
+<group id="33" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="40" relname="span" />
+<group id="3" type="span" parent="67" relname="span" />
+<group id="17" type="span" parent="27" relname="antithesis" />
+<group id="40" type="span" parent="38" relname="span" />
+<group id="67" type="span" parent="40" relname="background" />
+<group id="38" type="span" parent="46" relname="span" />
+<group id="46" type="span" />
+  </body>
+</rst>

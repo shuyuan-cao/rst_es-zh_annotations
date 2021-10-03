@@ -1,0 +1,65 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="13" relname="preparation">
+6ª EDICIÓN ESPAÑA DE CINE “EL NOVÍSIMO CINE ESPAÑOL: TRADICIÓN E INNOVACIÓN GENÉRICA (2011-2014)”
+</segment>
+    <segment id="2" parent="7" relname="span">El 18 de septiembre el Embajador de España en la R. P. China inauguró en Pekín la sexta edición del festival “España de Cine”, un ciclo cinematográfico que arrancó en 2010 y que, año tras año, permite mostrar una pequeña selección de cine español en China.
+</segment>
+    <segment id="3" parent="2" relname="elaboration">Desde el viernes 18 hasta el miércoles 23 de septiembre se han proyectado en las salas de cine Lumière Pavilions siete películas producidas recientemente en España y seleccionadas para este ciclo por Ángel Sala, director del prestigioso Festival de Cine Fantástico de Sitges.
+</segment>
+    <segment id="4" parent="20" relname="span">La muestra de este año ha sido un reflejo de los desafíos a los que se enfrenta el cine español en la actualidad.</segment>
+    <segment id="5" parent="4" relname="evidence"> Las tendencias globalizadas exigen a los renovados autores y talentos que incorporen las nuevas tecnologías y que desarrollen una innovadora experimentación genérica.
+</segment>
+    <segment id="6" parent="20" relname="elaboration">Además, el ciclo ha contado con películas de renombrados directores como Alberto Rodríguez, quien este año ha sido galardonado con el Goya al mejor director.
+</segment>
+    <segment id="8" parent="11" relname="list">Organizado por la Embajada de España en la R. P. China, el Instituto de Cinematografía y de las Artes Audiovisuales del Ministerio de Educación, Cultura y Deporte del Gobierno de España y los cines Lumière Pavilions, este ciclo representa el rico panorama de posibilidades que explica el auge comercial del cine español en el mercado interno, así como su prestigio y expansión en los mercados foráneos. </segment>
+    <segment id="9" parent="12" relname="elaboration">Las películas seleccionadas son: 
+- La isla mínima (Alberto Rodriguez, 2014)
+- Eva (Kike Maillo, 2011)
+- Los últimos dias (Alex &amp; David Pastor, 2013)
+- Zipi y Zape y el club de la cánica (Oskar Santos, 2013)
+- Loreak (José Maria Goenaga, Jon Garaño, 2014)
+- Presentimientos (Santiago Tabernero, 2014)
+- La vida inesperada (Jorge Torregrossa, 2014)
+</segment>
+<group id="20" type="span" parent="10" relname="span" />
+<group id="7" type="span" parent="12" relname="span" />
+<group id="10" type="span" parent="11" relname="list" />
+<group id="11" type="multinuc" parent="7" relname="elaboration" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" />
+  </body>
+</rst>

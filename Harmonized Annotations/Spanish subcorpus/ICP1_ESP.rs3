@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="preparation">﻿Presentación institucional
+</segment>
+    <segment id="2" parent="4" relname="span">El Instituto Cervantes es la institución creada por España en 1991</segment>
+    <segment id="3" parent="2" relname="purpose"> para promover, enseñar español y difundir la cultura de España y de los países hispanohablantes.</segment>
+    <segment id="5" parent="4" relname="elaboration"> La sede central de la institución se encuentra en Madrid y en Alcalá de Henares (Madrid), ciudad de nacimiento del escritor Miguel de Cervantes.
+</segment>
+    <segment id="6" parent="18" relname="elaboration">El Instituto Cervantes está presente en cinco continentes con 77 centros, entre los cuales destaca el Instituto Cervantes de Pekín, el primero en China.
+</segment>
+    <segment id="7" parent="19" relname="preparation">Nuestra institución también se encarga de:
+</segment>
+    <segment id="9" parent="19" relname="list">• Organizar los exámenes para el Diploma de Español como Lengua Extranjera (DELE), así como de expedir certificados y diplomas oficiales para los participantes en nuestros cursos
+</segment>
+    <segment id="10" parent="19" relname="list">• Organizar cursos de español
+</segment>
+    <segment id="11" parent="19" relname="list">• Organizar cursos de formación para profesores de español
+</segment>
+    <segment id="12" parent="19" relname="list">• Apoyar a hispanistas en sus actividades
+</segment>
+    <segment id="13" parent="19" relname="list">• Estimular actividades culturales en colaboración con otras organizaciones
+</segment>
+    <segment id="14" parent="24" relname="span">El trabajo del Instituto Cervantes está dirigido por representantes del mundo académico, cultural y literario del ámbito español e hispanoamericano.</segment>
+    <segment id="15" parent="14" relname="elaboration"> En Pekín colabora con museos, galerías, teatros, editoriales y otras instituciones culturales chinas, así como españolas y latinoamericanas.</segment>
+<group id="19" type="multinuc" parent="8" relname="span" />
+<group id="24" type="span" parent="17" relname="elaboration" />
+<group id="4" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="17" relname="span" />
+<group id="8" type="span" parent="20" relname="elaboration" />
+<group id="17" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" />
+  </body>
+</rst>

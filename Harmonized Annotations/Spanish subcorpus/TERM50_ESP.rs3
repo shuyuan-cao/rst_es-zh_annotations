@@ -1,0 +1,112 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="61" relname="preparation">
+Contraste de los medios de derivación, a partir de prefijos y sufijos, propios del euskera, catalán y castellano: conclusiones lexicográficas
+</segment>
+    <segment id="2" parent="45" relname="span">La finalidad de esta ponencia se centra en la exposición de algunos de los resultados de la investigación llevada a cabo por los grupos de trabajo de estas universidades en los últimos tres años. </segment>
+    <segment id="3" parent="2" relname="elaboration">El estudio está encuadrado en el proyecto denominado Configuración morfológica y estructura argumental: léxico y diccionario, subvencionado por el Ministerio de Educación de Madrid y enfocado desde tres puntos de vista. </segment>
+    <segment id="4" parent="6" relname="span">En primer lugar, los procesos de derivación basados en prefijos y sufijos han sido analizados en los tres idiomas, con especial énfasis en los que se parte de un verbo como base de derivación o en aquellos otros en los que el derivado está constituido por el verbo mismo. </segment>
+    <segment id="5" parent="70" relname="span">En consecuencia, se han detectado dos diferencias sustanciales:</segment>
+    <segment id="69" parent="5" relname="elaboration">entre derivaciones a partir de prefijos y sufijos en el seno del euskera, y entre los derivados vascos y los de origen románico. </segment>
+    <segment id="7" parent="43" relname="sequence">En segundo lugar, se ha buscado y hallado una exposición teórica de esas dos diferencias. </segment>
+    <segment id="9" parent="43" relname="sequence">En tercer lugar, hemos tratado de consolidar la contribución que puede brindar tal exposición teórica en el campo de la lexicografía. </segment>
+    <segment id="10" parent="43" relname="elaboration">La presente comunicación pretende compendiar la exposición teórica y las conclusiones lexicográficas.
+</segment>
+    <segment id="11" parent="40" relname="span">Las diferencias que deben ser tratadas en cualquier exposición teórica son sucintamente las siguientes: </segment>
+    <segment id="12" parent="67" relname="list">a) la escasez de prefijos en euskera frente a la abundancia de sufijos, </segment>
+    <segment id="46" parent="67" relname="list">y b) la constatación de que en las lenguas románicas no se da tal descompensación. 
+</segment>
+    <segment id="13" parent="48" relname="span">Nuestra hipótesis es que una característica sintáctica del euskera y de las lenguas románicas se extrapola hasta la morfología, </segment>
+    <segment id="14" parent="47" relname="contrast">de manera que en euskera, también en derivación, el núcleo de la estructura se ubica a la derecha, </segment>
+    <segment id="15" parent="47" relname="contrast">mientras que en las lenguas románicas va a la izquierda. </segment>
+    <segment id="16" parent="49" relname="span">Para una mejor comprensión, hay que tener presente que los prefijos de las lenguas románicas pueden actuar de dos formas: </segment>
+    <segment id="17" parent="16" relname="elaboration">unos como modificadores de un núcleo, y van a su izquierda (refer/rehacer, desfer/deshacer, predir/predecir), y otros que actúan como núcleo, ya que se colocan en el primer lugar y el complemento va a su derecha (eslomar-se/desplomarse, desfullar/deshojar). </segment>
+    <segment id="18" parent="52" relname="span">En el primer caso, el prefijo aporta una especificación del núcleo</segment>
+    <segment id="19" parent="51" relname="span"> (el derivado predecir es una concreción del núcleo decir: </segment>
+    <segment id="20" parent="21" relname="antithesis">decir con antelación,</segment>
+    <segment id="21" parent="50" relname="span"> pero decir al fin y al cabo);</segment>
+    <segment id="22" parent="53" relname="contrast"> en el segundo caso, mientras el núcleo está compuesto por el mismo prefijo,</segment>
+    <segment id="23" parent="53" relname="contrast"> el complemento es la base de derivación; </segment>
+    <segment id="24" parent="53" relname="elaboration">de tal modo que prehistoria no es una concreción del complemento base historia, sino algo diferente a la base (historia). </segment>
+    <segment id="25" parent="26" relname="span">El euskera, por su parte, sólo dispone de la primera forma, tal y como se puede comprobar desde dos ángulos de vista. </segment>
+    <segment id="27" parent="57" relname="span">En primer lugar, dispone del prefijo prestado des-, que dispone de las dos posibilidades que también tiene en las lenguas románicas,</segment>
+    <segment id="28" parent="27" relname="elaboration"> en el derivado desegin, actúa como modificador del núcleo-base egin (antónimo de hacer),</segment>
+    <segment id="29" parent="30" relname="circumstance"> pero cuando queremos buscar un ejemplo del modelo complemento del prefijo/núcleo de la base (deshojar) desostatu</segment>
+    <segment id="30" parent="38" relname="span"> nos encontramos que no está bien formado. </segment>
+    <segment id="31" parent="58" relname="elaboration">Nótese que los prefijos ber-/bir- &quot;re&quot; y ez- &quot;in-/des-&quot; también actúan de la misma forma. 
+</segment>
+    <segment id="32" parent="65" relname="list">En cuanto a las conclusiones lexicográficas, debemos subrayar en primer lugar en esta ponencia las dificultades para formar palabras como desostatu. </segment>
+    <segment id="33" parent="64" relname="span">En segundo término, dejaríamos bien patente que el prefijo-núcleo/base-complemento de las lenguas románicas y del inglés tiene su correspondiente en euskera en base-complemento/sufijo-núcleo; </segment>
+    <segment id="34" parent="63" relname="span">lo que supone una aportación importante a la lexicografía actual,</segment>
+    <segment id="35" parent="41" relname="antithesis"> más allá de las formaciones del tipo: des1 hoja2 r ??hosto2 gabe1 tu, debemos tener presente la opción hostoak2 galdu/kendu1, </segment>
+    <segment id="36" parent="41" relname="span">pero especialmente las formas pozoin-du &quot;en-venenar&quot;, bigun-du &quot;reblandecerse&quot;, lerro-ka-tu &quot;a-linear&quot;, irin-ez-ta-tu &quot;en-harinar&quot;, lur-rera-tu &quot;a-terrizar&quot;, que deberían estandarizarse como los correspondientes comunes de los prefijos a-, des-, en-, es-, in- o re-, </segment>
+    <segment id="37" parent="36" relname="purpose">a fin de poder disponer de más y mejores recursos.
+</segment>
+<group id="38" type="span" parent="58" relname="span" />
+<group id="41" type="span" parent="39" relname="span" />
+<group id="6" type="span" parent="43" relname="sequence" />
+<group id="43" type="multinuc" parent="44" relname="span" />
+<group id="44" type="span" parent="45" relname="elaboration" />
+<group id="45" type="span" parent="59" relname="span" />
+<group id="47" type="multinuc" parent="13" relname="circumstance" />
+<group id="48" type="span" parent="71" relname="span" />
+<group id="52" type="span" parent="55" relname="list" />
+<group id="53" type="multinuc" parent="54" relname="span" />
+<group id="54" type="span" parent="55" relname="list" />
+<group id="55" type="multinuc" parent="49" relname="elaboration" />
+<group id="57" type="span" parent="38" relname="antithesis" />
+<group id="62" type="multinuc" parent="48" relname="elaboration" />
+<group id="64" type="span" parent="65" relname="list" />
+<group id="65" type="multinuc" parent="66" relname="list" />
+<group id="66" type="multinuc" parent="59" relname="elaboration" />
+<group id="70" type="span" parent="4" relname="result" />
+<group id="40" type="span" parent="72" relname="span" />
+<group id="71" type="span" parent="40" relname="interpretation" />
+<group id="72" type="span" parent="66" relname="list" />
+<group id="49" type="span" parent="56" relname="span" />
+<group id="56" type="span" parent="62" relname="contrast" />
+<group id="50" type="span" parent="19" relname="result" />
+<group id="51" type="span" parent="18" relname="elaboration" />
+<group id="58" type="span" parent="60" relname="span" />
+<group id="60" type="span" parent="25" relname="elaboration" />
+<group id="39" type="span" parent="34" relname="elaboration" />
+<group id="63" type="span" parent="33" relname="interpretation" />
+<group id="67" type="multinuc" parent="11" relname="elaboration" />
+<group id="26" type="span" parent="62" relname="contrast" />
+<group id="59" type="span" parent="61" relname="span" />
+<group id="61" type="span" parent="68" relname="span" />
+<group id="68" type="span" />
+  </body>
+</rst>

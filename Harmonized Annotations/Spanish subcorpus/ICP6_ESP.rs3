@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="37" relname="preparation">
+El Instituto Cervantes de Pekín
+</segment>
+    <segment id="2" parent="30" relname="span">El día 14 de julio de 2006 el Instituto Cervantes asumió el famoso compromiso, esbozado por Miguel de Cervantes, en el prólogo de la segunda parte del Quijote: la dedicatoria al Conde de Lemos.</segment>
+    <segment id="3" parent="2" relname="elaboration"> Ese “colegio español”, que reclamaba con urgencia &quot;el grande emperador de la China&quot; en una carta &quot;en lengua chinesca&quot; abrió sus puertas en el céntrico barrio de Chaoyang, en el corazón de Pekín. Sus 3.200 m2 están repartidos entre cuatro plantas en un moderno edificio, bautizado “Edificio Instituto Cervantes” y sus instalaciones incluyen un auditorio, una sala de exposiciones, una biblioteca, veinte aulas y un aula multimedia. 
+</segment>
+    <segment id="6" parent="31" relname="span">Desde la inauguración del centro, que contó con la presencia de Sus Altezas Reales los Príncipes de Asturias, la labor prioritaria ha sido consolidar el posicionamiento en la ciudad y en el país como referente para la enseñanza del español, como espacio de encuentro de la cultura en español.</segment>
+    <segment id="7" parent="6" relname="result"> Para ello, se ha considerado importante dar continuidad a una programación cultural que haga coexistir equilibradamente tradición y modernidad, así como una oferta variada de cursos y actividades cuyo objetivo es atraer y fidelizar a un público heterogéneo. </segment>
+    <segment id="8" parent="21" relname="span">Pero la presencia del Instituto Cervantes en China se entiende no sólo como vehículo para difundir la lengua y la cultura en español, sino también como plataforma abierta al diálogo con personas e instituciones de este país que nos acoge,</segment>
+    <segment id="9" parent="8" relname="result"> contribuyendo así a fomentar el conocimiento y enriquecimiento mutuo. 
+</segment>
+    <segment id="10" parent="27" relname="span">Nuestra Biblioteca, denominada “Antonio Machado”, en honor al gran poeta sevillano se ha convertido en una pujante referencia para un público joven que demanda atención personalizada y un entorno informativo adecuado a sus necesidades e intereses sobre lo español  y lo hispano.</segment>
+    <segment id="11" parent="26" relname="list"> Los fondos bibliográficos disponen de una gran representación de lenguas peninsulares, además del gran protagonismo que ocupa el fondo audiovisual y multimedia.</segment>
+    <segment id="12" parent="26" relname="list"> También cabe destacar la colección “Machadiana” y “Sinológica”.
+</segment>
+    <segment id="13" parent="34" relname="list">El Aula Multimedia es un servicio complementario, de gran utilidad para los alumnos y como centro de difusión y gestión del Aula Virtual del Español (AVE), que se está desarrollando no sólo en Pekín, sino en todo el país. 
+</segment>
+    <segment id="14" parent="34" relname="list">El Instituto Cervantes de Pekín convoca dos veces al año los DELE (Diploma del Español como Lengua Extranjera) e imparte, como es habitual en todos los centros de la red, cursos de formación de profesores de Español como Lengua Extranjera (ELE).
+</segment>
+    <segment id="18" parent="22" relname="list">El Instituto Cervantes contribuye a la dotación de la Biblioteca “Miguel de Cervantes”, sita en el Consulado General de España en Shanghai</segment>
+    <segment id="19" parent="22" relname="list"> y colabora activamente en un programa de actividades culturales y docentes en colaboración con instituciones culturales y educativas de otros puntos del país.
+</segment>
+<group id="21" type="span" parent="35" relname="span" />
+<group id="22" type="multinuc" parent="34" relname="list" />
+<group id="26" type="multinuc" parent="10" relname="elaboration" />
+<group id="27" type="span" parent="34" relname="list" />
+<group id="30" type="span" parent="36" relname="background" />
+<group id="34" type="multinuc" parent="35" relname="elaboration" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="38" type="span" />
+<group id="31" type="span" parent="21" relname="antithesis" />
+  </body>
+</rst>

@@ -1,0 +1,73 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="25" relname="preparation">
+Catálogo bibliográfico en línea adaptado para dispositivos móviles (MOPAC) 
+</segment>
+    <segment id="2" parent="17" relname="span">Es cada vez más frecuente que los usuarios se valgan de sus propios teléfonos inteligentes</segment>
+    <segment id="3" parent="16" relname="list"> para acceder a contenidos útiles en su entorno laboral, académico o de investigación,</segment>
+    <segment id="4" parent="16" relname="list"> leer</segment>
+    <segment id="5" parent="16" relname="list"> y responder a los últimos correos electrónicos,</segment>
+    <segment id="6" parent="28" relname="disjunction"> o participar en los perfiles de la biblioteca en las redes sociales.
+</segment>
+    <segment id="7" parent="22" relname="span">La Red de Bibliotecas del Instituto Cervantes (RBIC) se incorpora a esta filosofía de servicios relacionados con la movilidad de los contenidos gracias  al MOPAC,  una interfaz expresamente diseñada para dispositivos móviles (iPhone, Android, tablets e iPads), de uso sencillo, rápido y ágil.
+</segment>
+    <segment id="8" parent="20" relname="span">Utilizar los recursos electrónicos, consultar el catálogo o ver el estado de los préstamos que tiene activos el usuario en tiempo real desde cualquier lugar y en cualquier momento mediante la tecnología móvil, es ya una realidad en la Red de Bibliotecas.
+</segment>
+    <segment id="9" parent="18" relname="disjunction">Además de esto, en su espacio personal del MOPAC, el usuario puede hacer una reserva</segment>
+    <segment id="10" parent="18" relname="disjunction"> o renovar un préstamo,</segment>
+    <segment id="11" parent="19" relname="list"> comunicarse con el responsable de la biblioteca o dejar su comentario en las referencias bibliográficas de los libros que ha leído o de las películas que ha visto,</segment>
+    <segment id="12" parent="19" relname="enablement"> y todo desde su teléfono móvil.
+</segment>
+    <segment id="13" parent="21" relname="list">La versatilidad del MOPAC permite enriquecer sus prestaciones con la incorporación de otros servicios y  recursos electrónicos de valor añadido para socios y que ofrecen sitios web para móviles, como los servicios de gestión de referencias bibliográficas, de préstamo interbibliotecario y suministro de documentos, o de consulta de recursos electrónicos en red.</segment>
+    <segment id="14" parent="21" relname="list"> Igualmente, se puede acceder a la descarga de una selección de aplicaciones específicas orientadas para el aprendizaje del español como lengua extranjera.
+</segment>
+    <segment id="15" parent="23" relname="summary">El MOPAC es una iniciativa que tiene como objetivo situar a las bibliotecas del Instituto Cervantes lo más cerca posible del usuario, a la vez que les permite cumplir con su misión de facilitar el acceso a la información a través de la tecnología.
+</segment>
+<group id="16" type="multinuc" parent="28" relname="disjunction" />
+<group id="17" type="span" parent="24" relname="background" />
+<group id="18" type="multinuc" parent="19" relname="list" />
+<group id="20" type="span" parent="27" relname="span" />
+<group id="21" type="multinuc" parent="20" relname="elaboration" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" />
+<group id="27" type="span" parent="7" relname="elaboration" />
+<group id="28" type="multinuc" parent="2" relname="purpose" />
+<group id="19" type="multinuc" parent="29" relname="span" />
+<group id="29" type="span" parent="8" relname="elaboration" />
+  </body>
+</rst>

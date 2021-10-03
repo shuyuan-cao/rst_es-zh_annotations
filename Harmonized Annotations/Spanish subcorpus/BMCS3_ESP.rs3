@@ -1,0 +1,78 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="31" relname="preparation">
+TIPOS DE CURSOS
+</segment>
+    <segment id="2" parent="4" relname="list">Nuestros programas incluyen cursos generales de español de 60 horas, incluidos cursos VIP (de un alumno), cursos intensivos, regulares y de fin de semana. </segment>
+    <segment id="3" parent="4" relname="list">También ofrecemos, según demanda, cursos especiales de gramática, conversación, cultura, negocios, cursos para adolescentes y cursos de preparación al DELE y al CLIC.
+</segment>
+    <segment id="6" parent="20" relname="preparation">Cursos regulares
+</segment>
+    <segment id="7" parent="20" relname="span">Los cursos regulares comprenden un calendario de 5 horas semanales durante 3 meses, distribuidas en dos clases de dos horas y media, normalmente los lunes y miércoles o los martes y jueves. </segment>
+    <segment id="8" parent="5" relname="span">Suponen la mejor oferta para los estudiantes que desean desarrollar su autonomía de aprendizaje,</segment>
+    <segment id="9" parent="8" relname="elaboration"> ya que durante los días que no hay clase se pueden hacer multitud de tareas en casa, entre las que se incluyen las del Aula Virtual de Español, nuestra plataforma de Internet.
+</segment>
+    <segment id="10" parent="23" relname="preparation">Cursos de fin de semana
+</segment>
+    <segment id="11" parent="22" relname="span">Para aquellos estudiantes que no disponen de tiempo libre durante los días laborales, esta es la modalidad más adecuada. </segment>
+    <segment id="12" parent="11" relname="evidence">Como los cursos regulares, son también de 5 horas semanales, pero concentradas en un sólo día: sábados o domingos.</segment>
+    <segment id="13" parent="22" relname="elaboration"> En estos cursos también es importante desarrollar la autonomía de aprendizaje mediante tareas que el profesor manda para casa.
+</segment>
+    <segment id="14" parent="28" relname="preparation">Cursos intensivos
+</segment>
+    <segment id="15" parent="25" relname="list">Si optas por un aprendizaje lo más parecido posible a la inmersión, </segment>
+    <segment id="16" parent="25" relname="list">y necesitas mejorar tu nivel de español rápidamente, </segment>
+    <segment id="17" parent="26" relname="span">los cursos intensivos son una buena opción. </segment>
+    <segment id="18" parent="27" relname="span">Consisten en clases de 4 horas diarias, desarrolladas durante 3 semanas (de lunes a viernes). </segment>
+    <segment id="19" parent="27" relname="elaboration">Como en todos los tipos de cursos, las sesiones de clase están llenas de actividades variadas para que te sea fácil vivir el español.
+</segment>
+<group id="4" type="multinuc" parent="31" relname="span" />
+<group id="5" type="span" parent="7" relname="evaluation" />
+<group id="25" type="multinuc" parent="17" relname="condition" />
+<group id="26" type="span" parent="18" relname="evaluation" />
+<group id="31" type="span" parent="32" relname="span" />
+<group id="32" type="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="30" relname="list" />
+<group id="27" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="30" relname="list" />
+<group id="30" type="multinuc" parent="33" relname="span" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="30" relname="list" />
+<group id="33" type="span" parent="4" relname="interpretation" />
+  </body>
+</rst>

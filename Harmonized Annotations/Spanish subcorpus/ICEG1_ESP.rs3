@@ -1,0 +1,71 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="preparation">
+Presentación
+</segment>
+    <segment id="2" parent="5" relname="span">El Instituto Confucio de la Universidad de Granada (ICUGR) es una institución no lucrativa, creado gracias a la colaboración entre la Universidad de Granada y la Universidad de Pekín a instancias de la Oficina Nacional de Enseñanza del Chino como Lengua Extranjera (Hanban), cuyo principal objetivo es promocionar el estudio de la lengua y la cultura chinas y desarrollar en nuestra ciudad y en todo el ámbito de actuación de la Universidad, aquellas actividades que sirvan a este fin, por medio de cursos del idioma de diferentes niveles, organización de ciclos de cine, seminarios, conferencias, talleres, etc.
+</segment>
+    <segment id="3" parent="23" relname="list">El ICUGR retoma el esfuerzo de la Universidad de Granada como pionera en España de los estudios sobre China, que desde 1987 ha ido multiplicando su oferta de cursos en materias relacionadas con la historia, la literatura, el pensamiento, etc. de este país, y se propone cubrir la creciente demanda de conocimientos sobre la lengua y la cultura chinas que reclama hoy en día nuestra sociedad. Todas las actividades se desarrollarán en colaboración con otras instancias de la Universidad de Granada, y especialmente con el Seminario de Estudios Asiáticos de la UGR, así como con otros IC nacionales e internacionales.
+</segment>
+    <segment id="6" parent="22" relname="span">El Instituto Confucio de la Universidad de Granada (ICUGR) tiene su sede en la Avenida de la Constitución nº18, Edif. Elvira (bajo). </segment>
+    <segment id="7" parent="6" relname="elaboration">Su biblioteca contendiene los libros donados por el Hanban y aquellas nuevas adquisiciones que a lo largo del tiempo se vayan incorporando.
+</segment>
+    <segment id="8" parent="19" relname="span">Entre los objetivos concretos del Instituto Confucio están:
+</segment>
+    <segment id="9" parent="18" relname="list">• La enseñanza de lengua china en distintos niveles y para cubrir necesidades diversas y, específicamente, cursos de preparación de chino de negocios.
+</segment>
+    <segment id="10" parent="18" relname="list">• La formación y perfeccionamiento de docentes de lengua china.
+</segment>
+    <segment id="11" parent="18" relname="list">• La organización anual del examen de nivel exigido por el Ministerio de Educación Chino, Hanyu shuiping kaoshi (HSK), para acceder a los estudios universitarios en China.
+</segment>
+    <segment id="12" parent="18" relname="list">• La promoción, en el más amplio sentido, de la cultura china, a través de conferencias, seminarios, y todo tipo de actividades lúdicas y culturales.
+</segment>
+    <segment id="13" parent="18" relname="list">• Ser centro de información e intercambio sobre cultura y la sociedad chinas para todos aquellos que tengan interés en el área.
+</segment>
+    <segment id="14" parent="18" relname="list">• Proporcionar materiales de todo tipo para el estudio y la difusión de la lengua y la cultura chinas.
+</segment>
+    <segment id="15" parent="17" relname="span">El Instituto Confucio de la Universidad de Granada (ICUGR) está formado por un completo equipo de profesionales españoles y chinos que trabajan diariamente</segment>
+    <segment id="16" parent="15" relname="purpose"> para ofrecer los mejores estándares de educación y organización.
+</segment>
+<group id="17" type="span" parent="5" relname="elaboration" />
+<group id="18" type="multinuc" parent="8" relname="elaboration" />
+<group id="22" type="span" parent="23" relname="list" />
+<group id="19" type="span" parent="23" relname="list" />
+<group id="23" type="multinuc" parent="2" relname="elaboration" />
+<group id="5" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="20" relname="span" />
+<group id="20" type="span" />
+  </body>
+</rst>

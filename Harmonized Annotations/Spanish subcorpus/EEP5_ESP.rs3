@@ -1,0 +1,50 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="preparation">﻿I Foro de la Comunicación entre España y China
+</segment>
+    <segment id="2" parent="10" relname="span">El Ministro de Energía, Industria y Turismo, José Manuel Soria y el Embajador de la República Popular China en España, Lyu Fan inauguraron ayer el &quot;I Foro de la Comunicación entre España y China&quot; en Madrid.</segment>
+    <segment id="3" parent="15" relname="span"> El foro ha reunido a autoridades, asociaciones y empresarios de España y China</segment>
+    <segment id="4" parent="5" relname="span"> para tratar la importancia de la comunicación para generar confianza entre ambos países</segment>
+    <segment id="6" parent="4" relname="purpose"> y reforzar los intercambios económicos y culturales.</segment>
+    <segment id="7" parent="12" relname="span"> “Conocer a China y que China conozca a España&quot;.</segment>
+    <segment id="8" parent="7" relname="interpretation"> En la jornada de ayer se presentaron casos prácticos sobre intercambios bilaterales entre España y China con la experiencia del consejero delegado de Cepsa, Pedro Miró, y la del director general de Air China España, Peter Han, entre otros.</segment>
+<group id="12" type="span" parent="10" relname="elaboration" />
+<group id="15" type="span" parent="2" relname="elaboration" />
+<group id="10" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+<group id="5" type="span" parent="3" relname="purpose" />
+  </body>
+</rst>

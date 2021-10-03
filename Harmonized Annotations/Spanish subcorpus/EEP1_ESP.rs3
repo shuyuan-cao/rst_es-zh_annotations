@@ -1,0 +1,44 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="6" relname="preparation">﻿Empresa española Aritex colabora en fabricación C919
+</segment>
+    <segment id="2" parent="4" relname="span">La empresa española Aritex ha colaborado con la Corporación de Aeronaves Comerciales de China (COMAC) en la fabricación del C919, primer avión comercial diseñado y fabricado por China. </segment>
+    <segment id="3" parent="2" relname="elaboration">La empresa española se ha encargado del montaje de la caja central del ala, la estructura que sostiene las alas al fuselaje del aparato. </segment>
+    <segment id="5" parent="4" relname="elaboration">Aritex es una empresa que trabaja en el sector aeronáutico y el de la automoción, en los que colabora con las empresas más destacadas. La empresa cuenta con una planta en Shanghai.</segment>
+<group id="4" type="span" parent="6" relname="span" />
+<group id="6" type="span" parent="7" relname="span" />
+<group id="7" type="span" />
+  </body>
+</rst>

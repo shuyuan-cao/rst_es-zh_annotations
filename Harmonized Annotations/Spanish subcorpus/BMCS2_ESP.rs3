@@ -1,0 +1,74 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="27" relname="preparation">﻿PROFESORES Y MÉTODOS
+</segment>
+    <segment id="2" parent="19" relname="list">Todos nuestros profesores son nativos,</segment>
+    <segment id="3" parent="19" relname="list"> han recibido una formación específica en la enseñanza de español como lengua extranjera (ELE)</segment>
+    <segment id="4" parent="19" relname="list"> y tienen experiencia docente en China.</segment>
+    <segment id="5" parent="19" relname="elaboration"> Además, y no menos importante, destacan por su paciencia, simpatía y pasión por la enseñanza.
+</segment>
+    <segment id="6" parent="25" relname="span">En el Instituto Cervantes, los alumnos son los protagonistas. </segment>
+    <segment id="7" parent="21" relname="preparation">El profesor no impone conocimientos: </segment>
+    <segment id="8" parent="21" relname="span">ayuda a sus alumnos a comunicarse en español desde el primer día, </segment>
+    <segment id="9" parent="8" relname="means">animándolos a que participen activamente en el aula. </segment>
+    <segment id="10" parent="23" relname="span">Los profesores cuentan siempre con el punto de vista de sus alumnos en la toma de decisiones de la clase,</segment>
+    <segment id="11" parent="10" relname="means"> fomentando la autonomía del estudiante mediante el uso de las estrategias de aprendizaje más adecuadas para cada uno.
+</segment>
+    <segment id="12" parent="33" relname="span">Metodología actual. 
+</segment>
+    <segment id="13" parent="29" relname="list">El material de enseñanza procede de España, </segment>
+    <segment id="14" parent="28" relname="list">es moderno</segment>
+    <segment id="15" parent="28" relname="list"> y está adaptado a las características de aprendizaje del estudiante chino.</segment>
+    <segment id="16" parent="31" relname="list"> El aprendizaje del léxico y de la gramática está acompañado del valor del uso comunicativo que los profesores nativos pueden y saben transmitir. </segment>
+    <segment id="17" parent="30" relname="span">A los libros de texto se suman multitud de actividades interesantes preparadas por el equipo de profesores, juegos, proyección de vídeos, canciones…</segment>
+    <segment id="18" parent="17" relname="result"> todo ello hace que aprender español con el Instituto Cervantes sea no sólo eficaz sino muy divertido.</segment>
+<group id="19" type="multinuc" parent="20" relname="span" />
+<group id="20" type="span" parent="34" relname="span" />
+<group id="25" type="span" parent="20" relname="means" />
+<group id="28" type="multinuc" parent="29" relname="list" />
+<group id="29" type="multinuc" parent="32" relname="span" />
+<group id="33" type="span" parent="27" relname="list" />
+<group id="27" type="multinuc" parent="26" relname="span" />
+<group id="23" type="span" parent="24" relname="list" />
+<group id="30" type="span" parent="31" relname="list" />
+<group id="31" type="multinuc" parent="29" relname="elaboration" />
+<group id="32" type="span" parent="12" relname="interpretation" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="24" relname="list" />
+<group id="24" type="multinuc" parent="6" relname="interpretation" />
+<group id="34" type="span" parent="27" relname="list" />
+<group id="26" type="span" />
+  </body>
+</rst>
