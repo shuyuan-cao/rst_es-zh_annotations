@@ -1,0 +1,58 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿﻿La terminología, la traducción y el discurso jurídico desde el punto de vista del euskera
+</segment>
+    <segment id="2">Para la traducción de textos jurídicos es totalmente necesario el estudio de la terminología</segment>
+    <segment id="3"> y en el caso del euskera esa necesidad es aún más acentuada, </segment>
+    <segment id="4">ya que en el ámbito jurídico nuestra lengua no se encuentra todavía en una buena situación. </segment>
+    <segment id="5">Así pues, durante estos últimos años el objetivo de nuestro trabajo ha sido lograr la confluencia en un mismo texto, por un lado, de las diferentes técnicas en el campo de la traducción (utilización de terminología adecuada, creación de nuevos términos), </segment>
+    <segment id="6">y, por otro lado, del conocimiento en profundidad de los sistemas jurídicos que el euskera tiene que asimilar (el Derecho español, el francés y el de las Comunidades Europeas). </segment>
+    <segment id="7">Una vez organizado todo ello correctamente en un mismo texto, conseguiríamos amoldar el &quot;discurso jurídico&quot; del euskera.
+</segment>
+    <segment id="8">Para poder alcanzar ese objetivo</segment>
+    <segment id="9"> en la Universidad de Deusto venimos traduciendo textos doctrinales del campo del Derecho desde 1994</segment>
+    <segment id="10"> y queremos expresar las dificultades que hemos tenido a lo largo de estos años y, así mismo, también los logros conseguidos,</segment>
+    <segment id="11"> si es que realmente los ha habido. </segment>
+    <segment id="12">Los ejes de nuestro estudio,</segment>
+    <segment id="13"> tal y como hemos indicado más arriba,</segment>
+    <segment id="14"> son los siguientes:</segment>
+    <segment id="15"> lograr un discurso jurídico correcto y de calidad, tanto desde el punto de vista del derecho como del lingüístico, </segment>
+    <segment id="16">utilizando la traducción y la terminología en la configuración de dicho discurso.
+</segment>
+  </body>
+</rst>

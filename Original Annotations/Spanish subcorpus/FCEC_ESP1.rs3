@@ -1,0 +1,77 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Carta de bienvenida
+</segment>
+    <segment id="2">Queridos amigos,
+</segment>
+    <segment id="3">Como Presidente de la Fundación Consejo España China, quiero presentaros esta entidad </segment>
+    <segment id="4">que pretende lograr un mejor conocimiento entre nuestras respectivas sociedades civiles.
+</segment>
+    <segment id="5">La Fundación cuenta con el apoyo del Ministerio de Asuntos Exteriores y de Cooperación </segment>
+    <segment id="6">para la consecución un objetivo compartido:</segment>
+    <segment id="7"> proyectar una imagen de España, que contribuya a que los actores civiles puedan desarrollar su labor en el mejor clima posible para llenar de contenido esas relaciones.
+</segment>
+    <segment id="8">Como responsable de una empresa presente en China desde hace tres décadas, es para mi una gran satisfacción presidir esta Fundación, en cuyo órgano de gobierno me acompañan las empresas, universidades, escuelas de negocio, entidades culturales, y otras instituciones españolas</segment>
+    <segment id="9"> que no solamente son importantes por su destacada actividad y presencia en China,</segment>
+    <segment id="10"> sino en atención a su compromiso por participar activamente en  esta reflexión permanente dirigida a la mejor promoción de nuestros intereses generales en dicho país.
+</segment>
+    <segment id="11">Para ello, creemos que tiene un papel esencial promover la atención de la Administración española hacia China,</segment>
+    <segment id="12"> y poder hacer llegar nuestras ideas y sugerencias de una manera práctica y cercana.</segment>
+    <segment id="13"> Este diálogo se canaliza a través de la pertenencia de varios Altos Cargos a nuestro Patronato.
+</segment>
+    <segment id="14">También lo es el acercar una imagen real de nuestro país a la sociedad china, país en el que España debe lograr posicionarse de una forma más robusta y nítida, alejada de tópicos. </segment>
+    <segment id="15">Se trata de una cuestión cuya importancia conocemos todos los que trabajamos en el exterior. </segment>
+    <segment id="16">Las oportunidades para España pasan porque China asocie a nuestra imagen el capital que representa nuestro idioma,  el excelente trabajo de nuestras empresas en muchos ámbitos, la profesionalidad de nuestras PYMES, el liderazgo global de nuestras escuelas de negocio y Universidades, y nuestra creatividad, innovación, y avances tecnológicos, por mencionar algunos aspectos. </segment>
+    <segment id="17">Esta tarea nos corresponde a todos</segment>
+    <segment id="18"> y es el mejor substrato para nuestra actividad exterior.
+</segment>
+    <segment id="19">Igualmente importante es conocer en profundidad la que hoy ya es la segunda economía, </segment>
+    <segment id="20">y quizá la más dinámica del mundo, situada además en el nuevo centro de gravedad que representa el eje Asia- Pacífico.</segment>
+    <segment id="21"> Los ojos del mundo miran a China,</segment>
+    <segment id="22"> y España también debe ser capaz de analizar en profundidad los constantes cambios que atraviesa este país y detectar las oportunidades a tiempo </segment>
+    <segment id="23"> para, en definitiva, estar más presentes y visibles en China.
+</segment>
+    <segment id="24">Sirvan estas líneas</segment>
+    <segment id="8"> para presentar esta web donde se introducen con más detalle las distintas actividades de esta Fundación.
+</segment>
+    <segment id="25">No quisiera despedirme sin agradecer a las muchas entidades que colaboran con la Fundación su confianza y visión compartida.
+</segment>
+    <segment id="26">Juan Lladó Arburúa.</segment>
+    <segment id="27"> Presidente de la Fundación Consejo España-China</segment>
+  </body>
+</rst>

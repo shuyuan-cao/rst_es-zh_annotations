@@ -1,0 +1,49 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Celebración del Concurso Puente a China 2015
+</segment>
+    <segment id="2">El sábado 18 de abril tuvo lugar la fase eliminatoria del Concurso Puente a China 2015 de Barcelona en la sala de actos de Golferichs Centre Cívic. </segment>
+    <segment id="3"> El concurso se divide en tres partes: una breve presentación en chino, una ronda de preguntas relacionadas con la cultura o la lengua chinas y una representación artística o cultural.
+</segment>
+    <segment id="4">Este año destacó la calidad de los participantes de la Categoría Amateur que contó las actuaciones de Núria Sheng y Miriam González, tercer premio, con una interpretación de violín y de artes marciales respectivamente; el grupo formado por Sofia , Júlia, Jana, Julen e Irene, segundo premio, que interpretaron una canción de cuna china, y Claudia Olmos, primer premio, que cantó un famoso tema chino.
+</segment>
+    <segment id="5">El jurado de esta edición estuvo formado por la Sra. Helena Casa-Tost, directora local de la Fundació Institut Confuci de Barcelona, la Sra. Zhou Yue, coordinadora de docencia de la Fundació Institut Confuci de Barcelona y la Sra. Lu Zebing, profesora de la Fundació Institut Confuci de Barcelona.
+</segment>
+  </body>
+</rst>

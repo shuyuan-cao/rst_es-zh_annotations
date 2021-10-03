@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Aula Virtual de Español (AVE)
+</segment>
+    <segment id="2">El Aula Virtual de Español (AVE) es un entorno virtual diseñado por el Instituto Cervantes para el aprendizaje y la enseñanza de español a través de Internet. </segment>
+    <segment id="3">La interactividad y la gran variedad de contenidos multimedia de los cursos han convertido al AVE en la mejor herramienta de aprendizaje del español, </segment>
+    <segment id="4">pudiendo adaptarse a distintos ritmos de aprendizaje y perfiles de alumnos. </segment>
+    <segment id="5">Estos son las distintas modalidades de cursos que puedes encontrar
+</segment>
+    <segment id="6">En el aula multimedia de la Biblioteca Miguel de Cervantes puedes probar gratis los distintos CURSOS DE AVE:
+</segment>
+    <segment id="7">• Cursos de español general.</segment>
+    <segment id="8"> Comprenden los niveles A1, A2, B1, B2 y C1 del Marco común europeo de referencia para las lenguas. </segment>
+    <segment id="9">Puedes acceder a una selección de actividades en Aveteca. </segment>
+    <segment id="10">Para una visión general del funcionamiento de AVE, puedes consultar el vídeo-guía en varios idiomas: en español, en chino, en inglés... </segment>
+    <segment id="11">Si ya tienes conocimientos de español, </segment>
+    <segment id="12">hay un test de clasificación que te situará en el curso más adecuado a tus conocimientos. </segment>
+    <segment id="13">Para acceder a la prueba, visita la página: http://ave.cervantes.es/prueba_nivel/registro/test_de_clasificacion.php
+</segment>
+    <segment id="14">• ¡Hola, amigos!</segment>
+    <segment id="15"> Curso en línea para niños y jóvenes, organizado en tres niveles de 9 unidades, que cubre los niveles A1 y A2 del Marco común europeo de referencia para las lenguas.
+</segment>
+    <segment id="16">• Curso de formación de tutores:</segment>
+    <segment id="17"> destinado a profesores de español como lengua extranjera que van a emplear profesionalmente el AVE en cualquiera de sus modalidades de explotación.</segment>
+    <segment id="18"> A través de sus actividades y módulos teóricos, </segment>
+    <segment id="19">introduce a los profesores en los principios y las estrategias básicas de la formación virtual aplicados específicamente al entorno del AVE. 
+</segment>
+    <segment id="20">LOS MATERIALES DIDÁCTICOS CONTIENEN:
+</segment>
+    <segment id="21">• Materiales audiovisuales en 150 vídeos, con fragmentos de películas, programas informativos, culturales, documentales, etc.
+</segment>
+    <segment id="22">• Actividades interactivas y multimedia, con las que aprender español a través de la literatura, el cine, la música, la danza y el folclore.
+</segment>
+    <segment id="23">• Las más modernas herramientas de comunicación (chat, foro, blog, wiki y correo electrónico), que permiten dinámicas de grupo entre personas desde cualquier lugar del mundo.
+</segment>
+    <segment id="24">• El sistema de seguimiento automático y otras herramientas de evaluación, que facilitan el trabajo de alumnos y tutores.
+</segment>
+    <segment id="25">• Material didáctico idóneo para el autoaprendizaje.
+</segment>
+    <segment id="26">Para cualquier consulta, escribe un email a prof1sha@cervantes.es.
+</segment>
+  </body>
+</rst>

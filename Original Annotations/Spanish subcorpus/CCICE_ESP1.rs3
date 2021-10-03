@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Norteamérica se convierte en el tercer mercado de Mapfre
+</segment>
+    <segment id="2">En 2015, por primera vez, la región de Norteamérica se convierte en el tercer feudo por primas de Mapfre,</segment>
+    <segment id="3"> desplazando en esa posición a Latam Sur.
+</segment>
+    <segment id="4">Mapfre recibe ya mayores ingresos por contratación de pólizas de Norteamérica que engloba la actividad en EEUU, como principal exponente, y Puerto Rico.
+</segment>
+    <segment id="5">Los resultados a septiembre constatan que Mapfre generó primas por valor de 2.103,1 millones de euros en el área de Norteamérica, frente a los 1.822,5 millones de Latam Sur.
+</segment>
+    <segment id="6">Hace un año, la situación era inversa:</segment>
+    <segment id="7"> la facturación de Latam Sur (2.095,2 millones) excedía en más de 500 millones a la de Norteamérica (1.573,4 millones).
+</segment>
+    <segment id="8">Así, en Norteamérica las primas se elevaron un 33,7% de enero a septiembre, respecto a idéntico periodo de 2014.</segment>
+    <segment id="9"> Por el contrario, Latam Sur observó cómo esta partida caía un 13% en ese lapso.</segment>
+  </body>
+</rst>

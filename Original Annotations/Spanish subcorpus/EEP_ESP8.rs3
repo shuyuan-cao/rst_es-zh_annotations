@@ -1,0 +1,49 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Concierto Capella de Ministrers en NCPA el 3 de diciembre
+</segment>
+    <segment id="2">Don Quijote, la novela española escrita por Miguel de Cervantes y publicada en dos volúmenes en 1605 y 1615, respectivamente, es considerada el trabajo más influyente del Siglo de Oro español y de todo el canon de la literatura española. </segment>
+    <segment id="3">En toda la obra de Miguel de Cervantes se pueden encontrar un gran número de referencias a tradiciones musicales, al baile y a la música española del siglo XVI y principios del XVII. </segment>
+    <segment id="4">Toda su obra es un compendio de elementos musicales que intensifica la acción teatral e ilustra las escenas dramáticas y los personajes, muchos de ellos músicos, incluido el mismo Don Quijote. 
+</segment>
+    <segment id="5">Desde su creación el año 1987, el grupo Capella de Ministrers, bajo la dirección de Carles Magraner, ha desarrollado una importante tarea investigadora y musicológica en favor del patrimonio musical español, desde el medioevo hasta el siglo XIX. </segment>
+    <segment id="6">El resultado, transformado en testimonio musical, conjuga a la perfección tres factores clave: el rigor histórico, la sensibilidad musical y, muy especialmente, un incontenible deseo de comunicarnos y hacernos partícipes de estas experiencias.
+</segment>
+  </body>
+</rst>

@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Actividades culturales
+</segment>
+    <segment id="2">Además de nuestros cursos de lengua española, el Instituto Cervantes de Pekín se ocupa de la difusión de la cultura española e hispanoamericana.</segment>
+    <segment id="4"> Ofrecemos un amplio programa de actividades culturales, como exposiciones, conferencias, proyecciones de películas, seminarios, mesas redondas, conciertos o representaciones escénicas.</segment>
+    <segment id="3"> Para todo ello, contamos con la colaboración de instituciones, empresas y organismos públicos y privados de España, Hispanoamérica, y por supuesto, China.
+</segment>
+    <segment id="5">Ofrecemos un lugar de encuentro para especialistas de varios campos</segment>
+    <segment id="6"> y por nuestro centro pasan escritores, cineastas, artistas, investigadores, científicos, arquitectos o historiadores</segment>
+    <segment id="7"> para debatir sobre todo tipo de manifestaciones culturales.
+</segment>
+    <segment id="8">Asistir a una actividad
+</segment>
+    <segment id="9">Si bien el Instituto Cervantes de Pekín organiza y colabora a menudo con actividades y festivales que se desarrollan en otras instalaciones,</segment>
+    <segment id="10"> la mayoría de los actos culturales tienen lugar en la sala de exposiciones y en el salón de actos del Instituto Cervantes.
+</segment>
+    <segment id="11">Los actos son en su mayoría gratuitos</segment>
+    <segment id="12"> pero para las actividades que se realizan en nuestro auditorio se recomienda acudir unos minutos antes del comienzo,</segment>
+    <segment id="13"> ya que el aforo de la sala es limitado a 90 personas.
+</segment>
+    <segment id="14">La sala de exposiciones está abierta todos los días de la semana, de 10:00h a 19:00h.
+</segment>
+    <segment id="15">Inscribirse en la lista de correo
+</segment>
+    <segment id="16">Si desea recibir por correo electrónico nuestro boletín periódico de actividades culturales,</segment>
+    <segment id="17"> puede hacerlo de siguiente forma:
+</segment>
+    <segment id="18">Enviando un mensaje con el asunto “Boletín Cultural” a la siguiente dirección cult1pek@cervantes.es
+</segment>
+  </body>
+</rst>

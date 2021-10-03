@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿﻿Tendencias generales de la normalización en la terminología cientificotécnica de la lengua serbia: análisis crítico de la situación
+</segment>
+    <segment id="2">La construcción terminológica de cualquier área científica es un proceso largo y laborioso. </segment>
+    <segment id="3">En décadas precedentes se ha puesto de manifiesto, </segment>
+    <segment id="4">y así lo han atestiguado muchos investigadores de la terminología científica serbia, </segment>
+    <segment id="5">una tendencia a importar préstamos de unidades estructurales tanto léxicas como otras mayores del inglés a una serie de registros científicos específicos, </segment>
+    <segment id="6">en lugar de optar por la traducción, el calco, etc. </segment>
+    <segment id="7">Todo ello está estrechamente relacionado con el hecho de que se haya llegado a un acuerdo entre científicos serbios de distintas tendencias en el sentido de reconocer al inglés el estatus de única lengua de comunicación científica de las últimas décadas.
+</segment>
+    <segment id="8">En esta ponencia intentamos evaluar críticamente la tendencia señalada sobre estas líneas, tanto desde un punto de vista lingüístico como sociolingüístico. </segment>
+    <segment id="9">Empleamos un enfoque abierto y multidisciplinar desarrollado por Bugarski (1988; 1996) y adaptado a los fines de esta ponencia, </segment>
+    <segment id="13">para contrastarlo con una serie de datos provenientes de varios campos científicos como la ingeniería, el control de calidad, la gestión de calidad, la informática, la economía etc.</segment>
+    <segment id="10"> Los datos con los que contamos (así como la opinión de expertos de una serie de áreas) indican la necesidad de establecer una jerarquía para la evaluación de términos. </segment>
+    <segment id="11">Jerarquía que deberá contar con una plena aceptación en el campo científico del que se trate. </segment>
+    <segment id="12">Esta jerarquía deberá basarse en gran medida en criterios extralingüísticos como la cooperación internacional y la comunicación, </segment>
+    <segment id="13">de acuerdo a los cuales en el código lingüístico llamado &quot;moderna variedad científica del serbio&quot; se da prioridad a los préstamos del inglés sobre la traducción y el calco estructural.</segment>
+  </body>
+</rst>

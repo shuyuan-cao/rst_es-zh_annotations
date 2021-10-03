@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿La Secretaria de Estado de Investigación, Desarrollo e Innovación ha visitado Pekín los pasados días 25 a 27 de octubre
+</segment>
+    <segment id="2">La Secretaria de Estado de Investigación, Desarrollo e Innovación, Carmen Vela, ha visitado Pekín los pasados días 25 a 27 de octubre con motivo de la celebración de la 8ª Comisión mixta hispano china de ciencia y tecnología. </segment>
+    <segment id="3">La SEIDI estaba acompañada por responsables de su Gabinete, de la DG de Relaciones Culturales y Científicas de AECID y del Instituto español de Oceanografía, así como funcionarios de la Embajada y del CDTI de Shangai.
+</segment>
+    <segment id="4">La SEIDI fue recibida por el Ministro de Ciencia y Tecnología de China, Wan Gang quien destacó el buen estado de la cooperación bilateral y los buenos resultados alcanzados en programas como CHINEKA para el fomento de la colaboración entre empresas tecnológicas. </segment>
+    <segment id="5">Los temas más destacados durante la comisión mixta fueron la colaboración en materia de infraestructuras, en concreto, el acuerdo existente entre ALBA Synchroton y Synchroton Shangai y la cooperación en materia astrofísica con el Gran Telescopio de Canarias (GTC). </segment>
+    <segment id="6">Se abordó además la colaboración en investigación oceánica, la cooperación multidisciplinar entre CSIC y la Academia china de las Ciencias.
+</segment>
+    <segment id="7">Se acordó establecer una hoja de ruta</segment>
+    <segment id="8"> para identificar áreas estratégicas de interés mutuo y avanzar en proyectos concretos hasta la próxima Comisión mixta que se celebrará en 2017 en España.
+</segment>
+    <segment id="9">El programa de su visita a China incluyó visitas al Observatorio Astronómico Nacional de la Academia china de las Ciencias, a la Administración Estatal de Oceanografía y a la China Certification and Inspection Group,</segment>
+    <segment id="10"> y en las que se abordaron en detalle temas en materia oceanográfica, astrofísica y de energías renovables respectivamente.</segment>
+  </body>
+</rst>

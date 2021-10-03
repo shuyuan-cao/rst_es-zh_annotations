@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿﻿Metodología del vaciado de terminología vasca de textos legales traducidos
+</segment>
+    <segment id="2">Mediante la presente comunicación se pretende dar a conocer la metodología utilizada para la localización y análisis de la terminología jurídica en euskera en un corpus completo de un campo determinado. </segment>
+    <segment id="3">Prescindiendo de la metodología empleada habitualmente en el tratamiento de la terminología,</segment>
+    <segment id="4"> hemos basado nuestra investigación en tres pilares: los recursos informáticos, la lingüística del corpus y la traductología. </segment>
+    <segment id="5">Como quiera que la ley está en la base del derecho, </segment>
+    <segment id="6">y dada la importancia que tiene la legislación en la terminología del derecho, </segment>
+    <segment id="7">hemos tomado como marco de la investigación la totalidad de la producción legal del Parlamento Vasco. </segment>
+    <segment id="8">Habida cuenta de que las versiones en euskera son traducciones de las originales en castellano,</segment>
+    <segment id="9"> nos hemos basado en estas últimas</segment>
+    <segment id="10"> para luego poder encontrar los equivalentes vascos, </segment>
+    <segment id="11">en la seguridad de que la terminología jurídica en castellano está suficientemente consolidada y recopilada en sus correspondientes diccionarios. </segment>
+    <segment id="12">Tras obtener el soporte informático con la totalidad de los textos en ambos idiomas, </segment>
+    <segment id="13">hemos procedido a confrontar y paralelizar las dos versiones, </segment>
+    <segment id="14">a fin de identificar numéricamente los párrafos que tengan el mismo contenido. </segment>
+    <segment id="15">Seguidamente, mediante una aplicación específica, hemos establecido conexiones entre las apariciones de los términos principales del listado en castellano previamente elaborado, el párrafo de contexto y el párrafo de idéntica numeración de la versión vasca. </segment>
+    <segment id="16">A continuación, hemos localizado en los párrafos en euskera el segmento que alberga el contenido equivalente del término castellano, </segment>
+    <segment id="17">y todo ello lo hemos trasladado a una base de datos relacional. </segment>
+    <segment id="18">De tal manera podremos conocer los términos que aparecen y los que no aparecen, a qué campo del Derecho pertenecen, el grado de consolidación que tienen los términos vascos, cuáles son las estructuras sintácticas de los segmentos vascos equivalentes de los términos en castellano, etc. </segment>
+    <segment id="19">Asimismo, esa fraseología que resulta tan transcendente en las hablas de finalidades específicas podrá ser tratada igualmente a través de la presente metodología. </segment>
+  </body>
+</rst>

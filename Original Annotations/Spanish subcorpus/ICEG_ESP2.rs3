@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Talleres
+</segment>
+    <segment id="2">La difusión de la cultura china es uno de los principales objetivos del Instituto Confucio de la Universidad de Granada. </segment>
+    <segment id="3">La planificación y organización de los talleres se lleva a cabo a lo largo del año académico</segment>
+    <segment id="4"> para ir cubriendo la mayoría de los aspectos fundamentales de la cultura china.
+</segment>
+    <segment id="5">Gracias al dinamismo, interacción y diálogo de los talleres, los alumnos podrán observar, conocer y practicar diferentes temas de la cultura china. </segment>
+    <segment id="6">Durante el año académico se celebrarán talleres diversos</segment>
+    <segment id="7"> para complementar</segment>
+    <segment id="8"> y ampliar los conocimientos sociales y culturales de China. </segment>
+    <segment id="9">Visite la Memoria de los Talleres</segment>
+    <segment id="10"> para conocer todas los talleres que hemos realizado en el Instituto Confucio de la Universidad de Granada.
+</segment>
+  </body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿﻿Dimensión social de la normalización terminológica
+</segment>
+    <segment id="2">En la sociedad actual se dan dos tendencias aparentemente contradictorias. </segment>
+    <segment id="3">Por un lado, la necesidad creciente de armonización a nivel internacional, motivada por las interrelaciones e intercambios continuos de tipo económico, político y sociocultural, </segment>
+    <segment id="4">y, por otro, el reconocimiento de la diversidad, con la consiguiente afirmación de la individualidad, que se manifiesta en todos los ámbitos de la vida humana.
+</segment>
+    <segment id="5">La terminología, actividad eminentemente social, debe conjugar también estas tendencias generales, a las que se añaden otras, como el progreso vertiginoso de las tecnologías, la evolución de las ciencias hacia la interdisciplinariedad y la hiperespecialización, o la inmediatez del intercambio de información característico de la sociedad de la información. </segment>
+    <segment id="6">Todos estos factores, además de provocar un aumento cuantivativo de la terminología especializada, han implicado una ampliación de la perspectiva del trabajo en terminología, </segment>
+    <segment id="7">que si bien la ha enriquecido,</segment>
+    <segment id="8"> al mismo tiempo ha puesto en cuestión algunos de sus conceptos básicos, como la univocidad nocióndenominación, el concepto de dominio de especialidad o el papel mismo de la normalización en terminología.
+</segment>
+    <segment id="9">Aunque los principios básicos de la normalización, como el consenso entre los sectores sociales implicados, mantienen hoy plena validez en la garantía de la comunicación especializada, </segment>
+    <segment id="10">en el trabajo terminológico práctico a veces se neglige la estrecha vinculación</segment>
+    <segment id="11"> que debe existir entre normalización y sociedad. </segment>
+    <segment id="12">El peligro de que esto ocurra es que se rompa el equilibrio necesario entre un cierto grado de arbitrariedad, inevitable para el consenso, y el uso real de la terminología por parte de los especialistas.</segment>
+    <segment id="13"> En ese caso, la normalización no sólo dejaría de ser eficaz,</segment>
+    <segment id="14"> sino que no cumpliría sus finalidades.
+</segment>
+    <segment id="15">En esta comunicación, a partir de la experiencia en trabajos de normalización de terminología catalana, </segment>
+    <segment id="16">se planteará la necesidad social de la normalización terminológica, </segment>
+    <segment id="17">se comentarán algunas de las dificultades con que se enfrenta</segment>
+    <segment id="18"> y se apuntarán ideas para su enfoque dentro de la sociedad actual.
+</segment>
+  </body>
+</rst>

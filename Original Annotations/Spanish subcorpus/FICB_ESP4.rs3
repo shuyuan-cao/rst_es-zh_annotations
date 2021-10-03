@@ -1,0 +1,66 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Exposición de fotos sobre Tíbet en Barcelona
+</segment>
+    <segment id="2">Con el objetivo de difundir la cultura china, </segment>
+    <segment id="3">mostrar la belleza de los parajes tibetanos y profundizar en el conocimiento que del Tíbet tiene la población catalana y china residente en Barcelona, </segment>
+    <segment id="4">se celebra la primera exposición anual de la serie “Exposición Fotográfica sobre las Minorías Étnicas Chinas” dedicada al Tíbet. </segment>
+    <segment id="5">La muestra fotográfica, que organiza la Federación d&apos;Asociaciones chinas de Cataluña, </segment>
+    <segment id="6">retrata la cultura tibetana a través de la mirada de conocidos fotógrafos chinos, que muestran el desarrollo de las últimas décadas, la gastronomía o el entorno natural de este territorio.
+</segment>
+    <segment id="7">Datos sobre la exposición
+</segment>
+    <segment id="8">Del 27 al 30 de octubre de 2015
+</segment>
+    <segment id="9">Vestíbulo del Edificio Histórico de la Universidad de Barcelona 
+</segment>
+    <segment id="10">Gran Via de les Corts Catalanes, 585 08007 Barcelona (mapa)
+</segment>
+    <segment id="11">Organiza
+</segment>
+    <segment id="12">Federación de Asociaciones Chinas de Cataluña
+</segment>
+    <segment id="13">Colabora
+</segment>
+    <segment id="14">• Asociación General de Comerciantes Chinos de Barcelona
+</segment>
+    <segment id="15">• Asociación de Empresarios de Fujian en Cataluña
+</segment>
+    </body>
+</rst>

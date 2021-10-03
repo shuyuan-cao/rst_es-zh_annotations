@@ -1,0 +1,113 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿﻿El vaciado terminológico automático y su aplicación para el euskera 
+</segment>
+    <segment id="2">1. Introducción
+</segment>
+    <segment id="3">En los últimos años se están desarrollando en varias lenguas instrumentos</segment>
+    <segment id="4"> para efectuar vaciados terminológicos automáticos de textos técnicos, </segment>
+    <segment id="5">si bien todavía se hace necesaria la intervención humana</segment>
+    <segment id="6"> para hacer la última selección de los términos elegidos automáticamente. </segment>
+    <segment id="7">Como ejemplo de lo anterior pueden citarse los siguientes instrumentos: LEXTER (Bourigault, 92), AT &amp; Tko Terminght (Church &amp; Dagan, 94) TERMS de IBM (Justeson &amp; Katz, 95) NPtool (Arpper, 95). 
+</segment>
+    <segment id="8">Pueden dividirse en dos grandes grupos las áreas de aplicación: área de indexación de la información y área de confección de glosarios terminológicos. </segment>
+    <segment id="9">Además, en las áreas en las que la terminología evoluciona de modo dinámico, como por ejemplo la informática,</segment>
+    <segment id="10"> sin ese tipo de instrumental resulta prácticamente imposible llevar a cabo un trabajo terminológico efectivo.
+</segment>
+    <segment id="11">Si pretendemos desarrollar un instrumento similar para el euskera, </segment>
+    <segment id="12">toparemos con mayores inconvenientes debido a estas razones: </segment>
+    <segment id="13">el proceso unificador de la lengua no ha concluido, las investigaciones efectuadas son limitadas</segment>
+    <segment id="14"> y, por último, el euskara es una lengua aglutinante.
+</segment>
+    <segment id="15">2. Vaciado terminológico
+</segment>
+    <segment id="16">Es una ardua labor conseguir una definición formal y completa de un término</segment>
+    <segment id="17"> y en eso consiste precisamente un apartado importante del trabajo:</segment>
+    <segment id="18"> definir las características de los términos. </segment>
+    <segment id="19">Para conseguir del corpus términos técnicos</segment>
+    <segment id="20"> se suelen combinar las técnicas NLP (basadas en el conocimiento lingüístico) y las técnicas estadísticas.
+</segment>
+    <segment id="21">2.1. Técnicas lingüísticas
+</segment>
+    <segment id="22">Las técnicas lingüísticas se emplean fundamentalmente</segment>
+    <segment id="23"> para efectuar la selección inicial de los términos. </segment>
+    <segment id="24">Como se suelen emplear modelos morfosintácticos,</segment>
+    <segment id="25"> resulta conveniente tener analizado el texto o, por lo menos, etiquetado. </segment>
+    <segment id="26">La calidad de la herramienta lingüística condicionará en gran medida por lo menos los resultados de la misma. </segment>
+    <segment id="27">De todos modos, en algunos proyectos no se efectúa ni análisis morfológico ni sintáctico. (Su et al., 96).
+</segment>
+    <segment id="28">La lematización está ligada al análisis morfológico y a la desambiguación. </segment>
+    <segment id="29">En las lenguas de flexión compleja, el tratar solamente el aspecto formal de las palabras acarreará malos resultados</segment>
+    <segment id="30"> y será necesaria la lematización. </segment>
+    <segment id="31">El conocimiento lingüístico también es primordial en la normalización terminológica; </segment>
+    <segment id="32">ya que como algunos términos pueden formar parte de otras unidades más largas, </segment>
+    <segment id="33">se ha de efectuar una discriminación entre ellos.
+</segment>
+    <segment id="34">2.2. Técnicas estadísticas
+</segment>
+    <segment id="35">En la mayoría de los proyectos, los métodos estadísticos se han venido empleando para reducir los supuestos términos que siguen el modelo lingüístico. </segment>
+    <segment id="36">Los métodos aplicados varían mucho en función del proyecto, </segment>
+    <segment id="37">por lo que lo más simple sería pedir una frecuencia absoluta mínima (Justeson &amp; Katz, 95), </segment>
+    <segment id="38">si bien, en general, se combinan numerosas fórmulas probabilísticas.
+</segment>
+    <segment id="39">2.3. Resultados
+</segment>
+    <segment id="40">Los resultados que se obtienen no son aún los que se precisarían</segment>
+    <segment id="41"> para efectuar un vaciado absolutamente automático. </segment>
+    <segment id="42">Se ha de encontrar el equilibrio entre la cobertura (recall) y la precisión (precision). </segment>
+    <segment id="43">En ese equilibrio se le otorga preferencia a la cobertura, </segment>
+    <segment id="44">siempre que haya una persona que lleve a cabo la reducción terminológica. </segment>
+    <segment id="45">Para obtener una cobertura del 95% se suele reducir la precisión al 50%, </segment>
+    <segment id="46">y para que la precisión ronde el 85%, la cobertura no se reduce ni al 35% siquiera.
+</segment>
+    <segment id="47">3. Aplicación al euskera
+</segment>
+    <segment id="48">El grupo IXA tiene la intención de desarrollar una herramienta de este tipo para el euskera. </segment>
+    <segment id="49">Para ello, ya está preparado el analizador morfológico (Alegria et al., 96), </segment>
+    <segment id="50">el lematizador/etiquetador está a punto de finalizarse (Aduriz et al., 96) y también estamos trabajando la sintaxis del nivel superficial.
+</segment>
+    <segment id="51">Mientras se preparan dichas herramientas, </segment>
+    <segment id="52">habremos de trabajar sobre la modelización de los términos técnicos, </segment>
+    <segment id="53">es decir, hemos de reducir las características de los mismos. </segment>
+    <segment id="54">Con tal fin, basándonos en los diccionarios técnicos existentes y empleando técnicas estadísticas, </segment>
+    <segment id="55">se han de conseguir modelos principales. </segment>
+    <segment id="56">Aunque aún no contamos con resultados, </segment>
+    <segment id="57">intuimos que el modelo será más amplio que el del sintagma nominal. </segment>
+    <segment id="58">Por otra parte, en la elección de términos técnicos, el caso de declinación interna puede resultar decisivo.</segment>
+  </body>
+</rst>

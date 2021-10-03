@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Inditex elige China para implantar sus primeras tiendas eco-eficientes
+</segment>
+    <segment id="2">La última de las iniciativas de Inditex en China ha sido el anuncio de que este país será el primer mercado en el mundo en establecer el modelo de tienda eco-eficiente que permite ahorros de gasto de agua y emisiones- en todos sus establecimientos en 2018, dos años antes que en el resto de países. </segment>
+    <segment id="3">El anuncio se ha producido en el marco del encuentro institucional que han tenido el presidente de Inditex, con el ministro chino de Protección Medioambiental en Pekín.
+</segment>
+    <segment id="4">En la reunión también abordaron la inversión que realiza el grupo textil en granjas de algodón orgánico en el país.
+</segment>
+    <segment id="5">China es el segundo país con más tiendas de Inditex en el mundo, con 514 unidades al cierre del primer semestre, tan sólo superado por España, donde cuenta con 1.824 establecimientos. </segment>
+    <segment id="6">En lo que va de año, el dueño de Zara ha inaugurado 46 establecimientos en el país</segment>
+    <segment id="7"> y está prevista la apertura de otras siete tiendas.
+</segment>
+  </body>
+</rst>

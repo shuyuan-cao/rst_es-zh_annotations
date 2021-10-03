@@ -1,0 +1,66 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Cursos de español
+</segment>
+    <segment id="2">Instituto Cervantes de Pekín, Centro Cultural Español, se encuentra en el céntrico distrito de Chaoyang.</segment>
+    <segment id="3"> Estudiar español en nuestro instituto no es solo aprender el idioma,</segment>
+    <segment id="4"> sino que también da la oportunidad de conocer</segment>
+    <segment id="5"> y descubrir las diferentes culturas del mundo hispánico.
+</segment>
+    <segment id="6">El Instituto Cervantes de Pekín ofrece cursos de español y de las otras tres lenguas cooficiales de España (catalán, gallego y euskera):
+</segment>
+    <segment id="7">• Cursos regulares 2600RMB
+</segment>
+    <segment id="8">• Cursos superintensivos 2600RMB
+</segment>
+    <segment id="9">• Cursos fines de semana 2600RMB
+</segment>
+    <segment id="10">　　(información actualizada en agosto 2015)
+</segment>
+    <segment id="11">Todos nuestros profesores tienen el español como lengua materna</segment>
+    <segment id="12"> y cuentan con formación y experiencia en la enseñanza del español para extranjeros.
+</segment>
+    <segment id="13">El Instituto Cervantes, además, dispone de la Biblioteca Antonio Machado, que ofrece una amplia selección de literatura española y latinoamericana, películas, música, revistas y periódicos del mundo hispanohablante.</segment>
+    <segment id="14"> Nuestros estudiantes tienen acceso gratuito a todos los fondos</segment>
+    <segment id="15"> y disponen de un servicio de préstamo de libros, CDs y DVDs.
+</segment>
+    <segment id="16">Asimismo, nuestros estudiantes tienen la posibilidad de participar cada semana en actividades culturales relacionadas con la cultura hispanohablante: proyección de películas, exposiciones, conciertos...
+</segment>
+  </body>
+</rst>

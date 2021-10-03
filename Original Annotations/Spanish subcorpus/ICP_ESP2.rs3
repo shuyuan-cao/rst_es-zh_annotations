@@ -1,0 +1,68 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Exposición: ¿Cazadores de tendencias? Los nombres esenciales de la moda española
+</segment>
+    <segment id="2">La exposición ¿Cazadores de Tendencias? se inaugura el jueves 24 de septiembre a las 18:30 horas con la presencia del comisario y de miembros destacados de la moda española y china.
+</segment>
+    <segment id="3">De Madrid a Pekín, los cazadores de tendencias se han convertido en símbolo de modernidad y en un componente básico de la marca país.</segment>
+    <segment id="4"> Este concepto, en otrora propiedad de los estudios privados, forma parte hoy del lenguaje coloquial.</segment>
+    <segment id="5"> Siempre ha habido moda</segment>
+    <segment id="6"> y, como tal, siempre ha habido cazadores de tendencias,</segment>
+    <segment id="7"> pero hoy las tendencias las sugiere la calle.</segment>
+    <segment id="8"> En medio de este proceso de democratización de la moda, el comisario Pedro Mansilla seleccionó cuidadosamente 67 tendencias cazadas, con sus 67 nombres propios y sus 67 méritos</segment>
+    <segment id="9"> y confeccionó la exhibición ¿Cazadores de Tendencias? Los nombres esenciales de la moda española, a partir del 24 de septiembre en exclusiva en el Instituto Cervantes de Pekín.
+</segment>
+    <segment id="10">La exposición, parte de la Beijing Design Week, ofrece una mirada intimista al último siglo de moda española</segment>
+    <segment id="11"> y ha sido elaborada desde el consenso con todos sus protagonistas.</segment>
+    <segment id="12"> Así, ¿Cazadores de Tendencias? presenta 67 diseñadores españoles a través de una fotografía emblemática y un texto que ayuda a entender la filosofía y la obra de sus protagonistas.</segment>
+    <segment id="13"> Como complemento, se proyecta el vídeo Moda con firma, que ofrece un panorama de la actualidad del sector de la moda en España.</segment>
+    <segment id="14"> El vídeo ha sido producido por Canal Decasa y dirigido por Mansilla.
+</segment>
+    <segment id="15">¿Cazadores de Tendencias? se inaugura el jueves 24 de septiembre a las 18:30 horas con la presencia del propio Mansilla, profesor, sociólogo, crítico de moda y colaborador en muchos de los más importantes medios de comunicación españoles.</segment>
+    <segment id="16"> Junto al comisario, la inauguración contará con la prestigiosa promotora del diseño chino Hong Huang, conocida internacionalmente como la respuesta china a Anna Wintour, la influyente editora de Vogue.</segment>
+    <segment id="17"> Hong, responsable de la popular revista I-Look, no solo promueve de forma incansable el trabajo de los diseñadores locales,</segment>
+    <segment id="18">sino que ha ideado plataformas</segment>
+    <segment id="19">para ayudarles a ganar experiencia</segment>
+    <segment id="20">en el disputado mercado de la moda.</segment>
+    <segment id="21">La exposición, organizada con la colaboración de Centro Cibeles, Lunwerg y la Embajada de España en China,</segment>
+    <segment id="22">estará abierta hasta finales de año,</segment>
+    <segment id="23">un período en el que el Instituto Cervantes de Pekín se volcará en el mundo de la moda y el diseño con talleres, conferencias y eventos.</segment>
+    <segment id="24">¿Cazadores de Tendencias? se inauguró en Madrid en 2013.</segment>
+    <segment id="25"> Tras el éxito obtenido en la capital española, parte de la exposición se presentó en Praga, Milán y Tel-Aviv, entre otras.</segment>
+  </body>
+</rst>

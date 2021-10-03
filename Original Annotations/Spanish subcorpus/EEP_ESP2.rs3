@@ -1,0 +1,54 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿El embajador de España inauguró en Shanghai la exposición Media Dalí
+</segment>
+    <segment id="2">El 4 de noviembre el Embajador de España, Manuel Valencia, inauguró en Shangai la exposición Media Dalí en el espacio Shanghai Chi K11Art Space, situado en el Centro comercial Art Mall’s B3 de Shanghai. </segment>
+    <segment id="3"> La exposición ha sido comisariada y coproducida por la Fundación Gala-Salvador Dalí y la Fundación K11(KAF) del magnate chino Adrian Cheng.
+</segment>
+    <segment id="4">La exposición  consta de 250 piezas:</segment>
+    <segment id="5"> 12 pinturas y 2 dibujos originales de Salvador Dalí, así como 205 revistas, periódicos de época y anuncios, y 30 objetos procedentes del taller del artista que reflejan la relación de Dali con los medios de comunicación y su influencia en su obra como fuente de inspiración.
+</segment>
+    <segment id="6">En el acto también intervinieron Montse Aguer, comisaria de la exposición y directora del Centro de Estudios Dalinianos, Hsu Fenlan, co‐comisaria, Joan Manuel Sevillano, gerente de la Fundació Dalí y Adrián Cheng fundador y Presidente de Honor de la K 11. </segment>
+    <segment id="7">Se estima que a la inauguración han asistido alrededor de 4.000</segment>
+    <segment id="8"> y hasta el 15 de febrero de 2016, fecha de su clausura se espera superar los 350.000 visitantes, </segment>
+    <segment id="7">cifra que cosechó la muestra de Jean Monet que se organizó el pasado año en esos mismos espacios. </segment>
+    <segment id="9">La muestra está acompañada por dos exposiciones complementarias de artistas chinos centradas en la influencia histórica del surrealismo en China en los 90 y su permanencia en la escena emergente actual.
+</segment>
+    <segment id="10">La Fundación Dalí acaba de estrenar un sitio web totalmente adaptado al público chino: https://www.salvadordalimuseum.cn/  </segment>
+  </body>
+</rst>

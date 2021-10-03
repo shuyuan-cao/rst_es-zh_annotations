@@ -1,0 +1,56 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Formación de profesores de chino
+</segment>
+    <segment id="2">El pasado domingo 25 de octubre de 2015 tuvo lugar el curso de formación para profesores de chino en Cataluña, organizado por la FICB en la Universidad de Barcelona </segment>
+    <segment id="3">y al que asistieron más de 70 profesores de chino de toda Cataluña. </segment>
+    <segment id="4">La jornada contó con un programa de ponencias por la mañana y por la tarde.
+</segment>
+    <segment id="5">La sesión de la mañana se inició con la bienvenida, a todos los asistentes, del Dr. Chang Shiru, director chino de la FICB, </segment>
+    <segment id="6">que dio paso a la presentación del Dr. Song Jihua de la Universidad Normal de Beijing</segment>
+    <segment id="7"> que ofreció una demostración del método multimedia “Great Wall Chinese”. </segment>
+    <segment id="8">La Dra. Helena Casas-Tost, directora local de la FICB y profesora de lengua china en la Facultad de Traducción e Interpretación de la UAB, trató las características de la enseñanza de la lengua china de los estudiantes</segment>
+    <segment id="9"> y ofreció valiosos consejos</segment>
+    <segment id="10"> para implicar al alumno en el aprendizaje del chino.
+</segment>
+    <segment id="11">La sesión de la tarde contó con las participaciones del Sr. Joaquín Mataró, director de La Salle Girona, quien presentó la experiencia del proyecto “Lengua y cultura chinas” en La Salle Girona. </segment>
+    <segment id="12">La profesora de chino de La Salle Girona, la Sra. Hong Haifeng, compartió su experiencia y métodos docentes para jóvenes y adolescentes. </segment>
+    <segment id="13">Como conclusión de la formación, los asistentes compartieron dudas y experiencias. </segment>
+    <segment id="14">Todos los asistentes recibieron los certificados de participación de Hanban y de la FICB.</segment>
+  </body>
+</rst>

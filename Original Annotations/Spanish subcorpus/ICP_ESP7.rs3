@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Catálogo bibliográfico en línea adaptado para dispositivos móviles (MOPAC) 
+</segment>
+    <segment id="2">Es cada vez más frecuente que los usuarios se valgan de sus propios teléfonos inteligentes</segment>
+    <segment id="3"> para acceder a contenidos útiles en su entorno laboral, académico o de investigación,</segment>
+    <segment id="4"> leer</segment>
+    <segment id="5"> y responder a los últimos correos electrónicos,</segment>
+    <segment id="6"> o participar en los perfiles de la biblioteca en las redes sociales.
+</segment>
+    <segment id="7">La Red de Bibliotecas del Instituto Cervantes (RBIC) se incorpora a esta filosofía de servicios relacionados con la movilidad de los contenidos gracias  al MOPAC,  una interfaz expresamente diseñada para dispositivos móviles (iPhone, Android, tablets e iPads), de uso sencillo, rápido y ágil.
+</segment>
+    <segment id="8">Utilizar los recursos electrónicos, consultar el catálogo o ver el estado de los préstamos que tiene activos el usuario en tiempo real desde cualquier lugar y en cualquier momento mediante la tecnología móvil, es ya una realidad en la Red de Bibliotecas.
+</segment>
+    <segment id="9">Además de esto, en su espacio personal del MOPAC, el usuario puede hacer una reserva</segment>
+    <segment id="10"> o renovar un préstamo,</segment>
+    <segment id="11"> comunicarse con el responsable de la biblioteca o dejar su comentario en las referencias bibliográficas de los libros que ha leído o de las películas que ha visto,</segment>
+    <segment id="12"> y todo desde su teléfono móvil.
+</segment>
+    <segment id="13">La versatilidad del MOPAC permite enriquecer sus prestaciones con la incorporación de otros servicios y  recursos electrónicos de valor añadido para socios y que ofrecen sitios web para móviles, como los servicios de gestión de referencias bibliográficas, de préstamo interbibliotecario y suministro de documentos, o de consulta de recursos electrónicos en red.</segment>
+    <segment id="14"> Igualmente, se puede acceder a la descarga de una selección de aplicaciones específicas orientadas para el aprendizaje del español como lengua extranjera.
+</segment>
+    <segment id="15">El MOPAC es una iniciativa que tiene como objetivo situar a las bibliotecas del Instituto Cervantes lo más cerca posible del usuario, a la vez que les permite cumplir con su misión de facilitar el acceso a la información a través de la tecnología.
+</segment>
+  </body>
+</rst>

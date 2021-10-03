@@ -1,0 +1,56 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+IV Congreso Internacional de Turismo Asiático
+</segment>
+    <segment id="2">La IV edición del Congreso Internacional de Turismo Asiático se celebró en Barcelona los días 23 y 24 de noviembre de 2015, bajo el subtitulo “Turismo asiático, turismo de calidad”.
+</segment>
+    <segment id="3">Durante el congreso se analizaron, a través de expertos internacionales de reconocido prestigio, aspectos fundamentales</segment>
+    <segment id="4"> para conocer las tendencias del turismo asiático hacia Europa, </segment>
+    <segment id="5">de forma que las empresas del sector y las agencias de promoción turística puedan adaptar mejor sus productos</segment>
+    <segment id="6"> con el fin de atraer a más turistas de esta región.
+</segment>
+    <segment id="7">En la primera jornada del congreso se celebró una sesión plenaria con diferentes mesas redondas y en el segundo día se impartieron, como novedad de esta edición, diversos talleres de formación.
+</segment>
+    <segment id="8">El profesor Chang Shiru, director de la Fundació Institut Confuci de Barcelona, inauguró la segunda jornada</segment>
+    <segment id="9"> y aprovechó la ocasión</segment>
+    <segment id="10"> para reconocer la importancia de este congreso</segment>
+    <segment id="11"> para dar respuestas al sector turístico.
+</segment>
+  </body>
+</rst>

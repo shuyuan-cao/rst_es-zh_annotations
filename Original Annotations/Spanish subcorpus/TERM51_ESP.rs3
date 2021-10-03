@@ -1,0 +1,88 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+La problemática de la terminología geográfica dentro de los trabajos de normalización toponímica
+</segment>
+    <segment id="2">La comunicación que deseo presentar en el Congreso Internacional de Terminología se basa en el contenido de un informe solicitado por la Dirección de Estudios e Información de la Viceconsejería de Política Lingüística del Gobierno Vasco que fue presentado en la primera reunión que celebra la Comisión Especial de Toponimia del Consejo Asesor del Euskera el pasado mes de noviembre en Donostia-San Sebastián.
+</segment>
+    <segment id="3">La necesidad de normalizar la terminología geográfica, en concreto, la de aquella terminología asociada a la toponimia surge durante la ejecución de los trabajos de normalización toponímica da la C.A.P.V. llevados a cabo por el Instituto DEIKER de la Universidad de Deusto a lo largo de estos últimos diez años.</segment>
+    <segment id="4"> La precaria situación en que se encuentra la normalización geográfica en la C.A.P.V. y Navarra se refleja en la anarquía en el empleo del léxico geográfico que podemos observar a diario en nuestro entorno: los mapas, la rotulación viaria, los libros de texto, los medios de comunicación, etc..., </segment>
+    <segment id="5">cada uno emplea la terminología geográfica según sus propios criterios</segment>
+    <segment id="6"> dando lugar a una situación confusa e incoherente.
+</segment>
+    <segment id="7">La terminología geográfica y la elaboración de glosarios fueron objeto de recomendación durante la Primera Conferencia de las Naciones Unidas sobre la normalización de nombres geográficos (Genova, 1967).
+</segment>
+    <segment id="8">La recomendación 19A se refería al estudio de la naturaleza de las</segment>
+    <segment id="9"> &quot;Se recomienda emprender un estudio sobre la naturaleza de las entidades geográficas que lleven nombre en una región determinada, así como sobre los diversos
+sentidos de las palabras empleadas para designar estas entidades... &quot;
+</segment>
+    <segment id="10">Antes de detallar los distintos aspectos que trataremos en la comunicación</segment>
+    <segment id="11"> definiremos el concepto de topónimo en relación con el término geográfico.
+</segment>
+    <segment id="12">Por definición, el topónimo o nombre geográfico es un &quot;nombre propio compuesto por un elemento específico y, la mayor parte de las veces, por un elemento común o genérico. </segment>
+    <segment id="13">Este último identifica de manera general la naturaleza de la entidad geográfica </segment>
+    <segment id="14">mientras que el elemento específico lo identifica de manera particular&quot;
+</segment>
+    <segment id="15">Por ejemplo, Peña de Anboto, Avenida Ramón y Cajal, Río Ibaizabal, Alto de la Horca... </segment>
+    <segment id="16">La propia definición del topónimo nos conduce a valorar la importancia del término geográfico</segment>
+    <segment id="17"> y más aún si tenemos en cuenta que en los trabajos de normalización toponímica se proponen dos versiones (euskera y castellano).</segment>
+    <segment id="18"> Ello significa, a grandes
+rasgos, que el elemento genérico puede ser traducido</segment>
+    <segment id="19"> mientras que el elemento específico debe permanecer inalterable. </segment>
+    <segment id="20">Así por ejemplo, los topónimos anteriores se normalizarían, según la versión en euskera, como Anbotoko atxa, Ramón y Cajal etorbidea (?), Ibaizabal, La Horca gaina (?).
+</segment>
+    <segment id="21">A continuación señalaremos algunos puntos de reflexión en torno al tema que nos ocupa:
+</segment>
+    <segment id="22">1.- Desconocemos el significado exacto de muchos elementos genéricos: &quot;alto&quot;, &quot;gaina&quot; (puerto, monte, cima...).
+</segment>
+    <segment id="23">2.- La adjudicación del término geográfico &quot;normalizado&quot; se realiza de manera arbitraria; </segment>
+    <segment id="24">así por ejemplo, en el barrio de Deusto se encuentran dos &quot;avenidas&quot; que, en realidad, no deberían compartir el mismo término, Avenida Ramón y Cajal (Calle) y la Avenida Lehendakari Agirre &quot;Avenida&quot;.
+</segment>
+    <segment id="25">3.- La ausencia de una terminología geográfica normalizada: Por ejemplo, se traduce el término &quot;avenida&quot; como &quot;ibilbidea&quot;, &quot;etorbidea&quot;, &quot;pasealekua&quot; según el ayuntamiento correspondiente o el término &quot;pico&quot; como &quot;gallur&quot;, &quot;haitzorrotza&quot;, &quot;haizpunta&quot;, &quot;mokorra&quot;, &quot;mokoa&quot;, &quot;punta&quot;, &quot;tontorra&quot;... según el autor o entidad investigadora (DEIKER, Elhuyar, Gobierno de Navarra, Euskaltzaindia...).
+</segment>
+    <segment id="26">Tras esta presentación la comunicación giraría en torno a:
+</segment>
+    <segment id="27">1.- Análisis de la problemática desde el punto de vista de &quot;usuario de la terminología geográfica&quot;.
+</segment>
+    <segment id="28">2.- Importancia y necesidad de normalizar la terminología geográfica dentro de los trabajos de normalización toponímica. Se recogerán las recomendaciones de las Naciones Unidas y de distintos especialistas.
+</segment>
+    <segment id="29">3.- Resumen del tratamiento del que ha sido objeto el término geográfico dentro de los trabajos de normalización toponímica llevada a cabo por el Instituto DEIKER de la Universidad de Deusto.</segment>
+    <segment id="30">4- Conclusiones. Ruegos y preguntas
+</segment>
+  </body>
+</rst>

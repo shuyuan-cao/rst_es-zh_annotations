@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿PROFESORES Y MÉTODOS
+</segment>
+    <segment id="2">Todos nuestros profesores son nativos,</segment>
+    <segment id="3"> han recibido una formación específica en la enseñanza de español como lengua extranjera (ELE)</segment>
+    <segment id="4"> y tienen experiencia docente en China.</segment>
+    <segment id="5"> Además, y no menos importante, destacan por su paciencia, simpatía y pasión por la enseñanza.
+</segment>
+    <segment id="6">En el Instituto Cervantes, los alumnos son los protagonistas. </segment>
+    <segment id="7">El profesor no impone conocimientos: </segment>
+    <segment id="8">ayuda a sus alumnos a comunicarse en español desde el primer día, </segment>
+    <segment id="9">animándolos a que participen activamente en el aula. </segment>
+    <segment id="10">Los profesores cuentan siempre con el punto de vista de sus alumnos en la toma de decisiones de la clase,</segment>
+    <segment id="11"> fomentando la autonomía del estudiante mediante el uso de las estrategias de aprendizaje más adecuadas para cada uno.
+</segment>
+    <segment id="12">Metodología actual. 
+</segment>
+    <segment id="13">El material de enseñanza procede de España, </segment>
+    <segment id="14">es moderno</segment>
+    <segment id="15"> y está adaptado a las características de aprendizaje del estudiante chino.</segment>
+    <segment id="16"> El aprendizaje del léxico y de la gramática está acompañado del valor del uso comunicativo que los profesores nativos pueden y saben transmitir. </segment>
+    <segment id="17">A los libros de texto se suman multitud de actividades interesantes preparadas por el equipo de profesores, juegos, proyección de vídeos, canciones…</segment>
+    <segment id="18"> todo ello hace que aprender español con el Instituto Cervantes sea no sólo eficaz sino muy divertido.</segment>
+  </body>
+</rst>

@@ -1,0 +1,50 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿España se convierte en el sexto mayor mercado en inversión inmobiliaria
+</segment>
+    <segment id="2">España ha escalado hasta convertirse en el sexto mayor mercado de inversión inmobiliaria del mundo por delante de Francia, Canadá o China, según el último informe global publicado por la consultora CBRE. </segment>
+    <segment id="3">El pasado año, España ocupaba el puesto undécimo, cinco escalones por encima que en 2013, </segment>
+    <segment id="4">cuando estaba en el decimosexto lugar.
+</segment>
+    <segment id="5">Este ascenso se debe, básicamente, a la entrada de capital internacional, que ha representado el 31% de toda la inversión inmobiliaria realizada en España en los primeros seis meses del año. </segment>
+    <segment id="6">Hasta esta fecha, la inversión inmobiliaria en España alcanzó los 8.500 millones de euros</segment>
+    <segment id="7"> y los últimos datos hasta septiembre apuntan a los 10.800 millones.
+</segment>
+    <segment id="8">A nivel mundial, la inversión inmobiliaria alcanzó los 407.000 millones de dólares en la primera mitad del año (unos 377.646 millones de euros), el mejor semestre desde el anterior pico cíclico en 2007, cuando se sumaron 441.000 millones de dólares (cerca de 409.193 millones de euros).</segment>
+  </body>
+</rst>

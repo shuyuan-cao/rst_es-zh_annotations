@@ -1,0 +1,56 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">Un constructor terminológico automatizado para el chino
+</segment>
+    <segment id="2">La nueva terminología ha sido indicadora del rápido desarrollo, tanto en extensión como en profundidad, de cualquier campo que se encuentre en ebullición (sobre todo en las disciplinas científicas). </segment>
+    <segment id="3">Por consiguiente, toda disciplina que se encuentre de actualidad es bombardeada con problemas de estandarización terminológica. </segment>
+    <segment id="4">Es importante asegurarnos de que los términos acuñados son creados sistemáticamente, no son ambiguos ni en su significado ni en su uso y sí consecuentes con otros términos relacionados del mismo campo. </segment>
+    <segment id="5">De cualquier forma, en el caso de cualquiera de las lenguas más importantes en que la uniformidad no sea una norma (por ejemplo: el chino que se habla en China continental, en Taiwan y en Hong Kong), la unificación de los términos empleados en una disciplina depende de la existencia de un banco terminológico dentro de una organización donde el aportar una guía para el uso, recopilación y mantenimiento de nuevos términos debería ser uno de sus deberes cotidianos. </segment>
+    <segment id="6">Esta ponencia trata del cómo crear un acuñador terminológico automatizado y convertirlo en una parte integral del banco terminológico. </segment>
+    <segment id="7">El acuñador empleará bases de datos como por ejemplo corpora de definiciones de terminologías existentes, una base de reglas sintácticas, lexicones (técnicos y generales), una base de datos relativa a los morfemas (Yuan et al., manuscrito), reglas para la formación de palabras en chino (Lu 1975). </segment>
+    <segment id="8">Consistirá de un analizador gramático, un transformador basado en sílabas (con propósitos transliterativos) y un acuñador. </segment>
+    <segment id="9">Lo que pretendemos es básicamente seguir la idea expresada por Alshawi en su experiencia LDOCE y trabajar con definiciones de términos en inglés. </segment>
+    <segment id="10">Las palabras clave se extraen del análisis de estas definiciones</segment>
+    <segment id="11"> de manera que pueda llegarse a una traducción literal de las palabras clave del inglés al chino. </segment>
+    <segment id="12">Seguidamente, las traducciones de las palabras clave del chino son procesadas en el acuñador</segment>
+    <segment id="13"> haciendo uso de la base de datos relativa a los morfemas en chino y de las reglas para la formación de palabras en chino. </segment>
+    <segment id="14">El resultado será una serie de traducciones alternativas</segment>
+    <segment id="15"> para que personas expertas puedan escoger.
+</segment>
+  </body>
+</rst>

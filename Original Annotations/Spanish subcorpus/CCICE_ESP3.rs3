@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿El Tesoro intentará colocar hoy hasta 5.000 millones en una subasta de letras
+</segment>
+    <segment id="2">El Tesoro Público vuelve hoy a los mercados</segment>
+    <segment id="3"> para intentar colocar entre 4.000 y 5.000 millones en una subasta de letras a 6 y 12 meses, </segment>
+    <segment id="4">según consta en la página web del organismo adscrito al Ministerio de Economía.
+</segment>
+    <segment id="5">El organismo no emite este papel desde octubre, </segment>
+    <segment id="6">cuando colocó 4.121,37 millones</segment>
+    <segment id="7"> y volvió a ofrecer a los inversores intereses más bajos que en la anterior ocasión.
+</segment>
+    <segment id="8">El jueves, el Tesoro volverá a los mercados con una subasta de bonos y obligaciones en la que intentará colocar entre 3.000 y 4.000 millones. </segment>
+    <segment id="9">En total, espera captar entre 7.000 y 9.000 millones en toda la semana.
+</segment>
+    <segment id="10">En el mes de octubre el Tesoro colocó 14.399 millones en cuatro emisiones.</segment>
+  </body>
+</rst>

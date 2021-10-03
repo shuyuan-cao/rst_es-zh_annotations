@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+La fotógrafa española Marta Soul participa en Photo Beijing 2015
+</segment>
+    <segment id="2">La fotógrafa española Marta Soul expone por primera vez en China en el marco de Photo Beijing 2015. </segment>
+    <segment id="3">El proyecto “Welljob: Marta Soul y su España” es el último trabajo de Marta Soul 
+    <segment id="4">y refleja a mujeres en busca de las profesiones soñadas con el actual mercado laboral de Europa del Sur como telón de fondo. </segment>
+    <segment id="5">Esta exposición, comisariada por Susana Sanz, cofundadora de XD Culture Platform, y apoyada por la Embajada de España en Pekín, es una de las exposiciones individuales de artistas extranjeros que están presentes en Photo Beijing 2015.
+</segment>
+    <segment id="6">Organizado por el Ministerio de Cultura de la R. P. China y el Gobierno de la Municipalidad de Pekín, Photo Beijing es una de las ferias de fotografía más relevantes de China, la cual persigue convertirse en una plataforma internacional para la integración del mercado fotográfico. </segment>
+    <segment id="7">Esta tercera edición de Photo Beijing, bajo el título “La imagen del siglo”, busca promocionar el intercambio cultural a través de las exposiciones y los foros sobre fotografía. </segment>
+    <segment id="8">Photo Beijing permanecerá abierto al público hasta el próximo día 1 de noviembre en el Monumento del Milenio de China en Pekín.
+</segment>
+  </body>
+</rst>

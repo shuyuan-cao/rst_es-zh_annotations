@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿Celebración II Foro Ruta de la Seda en Madrid 
+</segment>
+    <segment id="2">Los días 28 y 29 de octubre se ha celebrado en Madrid el II Foro Ruta de la Seda, organizado por el Centro de Investigación para el Desarrollo del Consejo de Estado Chino, el Centro de Relaciones Internacionales y  Desarrollo Sostenible (CIRSD) y la Embajada de la República Popular China en Madrid así como el “Toledo International Center for Peace”. ​</segment>
+    <segment id="3">El Foro ha tenido como objetivo reforzar la iniciativa de la “Nueva Ruta de la Seda”</segment>
+    <segment id="11"> y específicamente impulsar el diálogo entre sociedades civiles, “think tanks”, empresas y organismos gubernamentales para “promover la prosperidad común de Asia y Europa”. </segment>
+    <segment id="4">Un resultado concreto de la reunión será la constitución de una red internacional de “think tanks” de la Ruta de la Seda.
+</segment>
+    <segment id="5">La iniciativa establece nexos para unir, por un lado, China, Asia Central, Rusia y Europa, y, por otro, China con el Mediterráneo a través del Golfo Pérsico. </segment>
+    <segment id="6">Para España, la iniciativa tiene un gran interés</segment>
+    <segment id="7"> para trasladar un mensaje de compromiso de nuestro país con el proyecto de la Nueva Ruta de la Seda y, en general, con el fortalecimiento de nuestras relaciones bilaterales con China.
+</segment>
+    <segment id="8">España ha sido escenario de una “prueba piloto” de la Nueva Ruta de la Seda, que es la ruta ferroviaria de 13.053 kilómetros que une la ciudad costera china de Yiwu, en la Provincia de Zhejiang, con Madrid.</segment>
+  </body>
+</rst>

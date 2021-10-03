@@ -1,0 +1,65 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+TIPOS DE CURSOS
+</segment>
+    <segment id="2">Nuestros programas incluyen cursos generales de español de 60 horas, incluidos cursos VIP (de un alumno), cursos intensivos, regulares y de fin de semana. </segment>
+    <segment id="3">También ofrecemos, según demanda, cursos especiales de gramática, conversación, cultura, negocios, cursos para adolescentes y cursos de preparación al DELE y al CLIC.
+</segment>
+    <segment id="6">Cursos regulares
+</segment>
+    <segment id="7">Los cursos regulares comprenden un calendario de 5 horas semanales durante 3 meses, distribuidas en dos clases de dos horas y media, normalmente los lunes y miércoles o los martes y jueves. </segment>
+    <segment id="8">Suponen la mejor oferta para los estudiantes que desean desarrollar su autonomía de aprendizaje,</segment>
+    <segment id="9"> ya que durante los días que no hay clase se pueden hacer multitud de tareas en casa, entre las que se incluyen las del Aula Virtual de Español, nuestra plataforma de Internet.
+</segment>
+    <segment id="10">Cursos de fin de semana
+</segment>
+    <segment id="11">Para aquellos estudiantes que no disponen de tiempo libre durante los días laborales, esta es la modalidad más adecuada. </segment>
+    <segment id="12">Como los cursos regulares, son también de 5 horas semanales, pero concentradas en un sólo día: sábados o domingos.</segment>
+    <segment id="13"> En estos cursos también es importante desarrollar la autonomía de aprendizaje mediante tareas que el profesor manda para casa.
+</segment>
+    <segment id="14">Cursos intensivos
+</segment>
+    <segment id="15">Si optas por un aprendizaje lo más parecido posible a la inmersión, </segment>
+    <segment id="16">y necesitas mejorar tu nivel de español rápidamente, </segment>
+    <segment id="17">los cursos intensivos son una buena opción. </segment>
+    <segment id="18">Consisten en clases de 4 horas diarias, desarrolladas durante 3 semanas (de lunes a viernes). </segment>
+    <segment id="19">Como en todos los tipos de cursos, las sesiones de clase están llenas de actividades variadas para que te sea fácil vivir el español.
+</segment>
+  </body>
+</rst>

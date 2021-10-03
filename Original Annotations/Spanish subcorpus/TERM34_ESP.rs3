@@ -1,0 +1,99 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+Relación de argumento/relación de campo: en busca de los equivalentes en euskera de los adjetivos referenciales
+</segment>
+    <segment id="2">Es sabida la magnitud de los problemas que acarrean los adjetivos referenciales a los traductores al euskera de cualquier tipo de texto. </segment>
+    <segment id="3">En múltiples ocasiones ha quedado en evidencia que para dar con los equivalentes en euskera de los adjetivos referenciales de las lenguas vecinas se han de seguir varios caminos diferentes (Ensunza, 1989; Loinaz, 1995), </segment>
+    <segment id="4">si bien, de alguna manera, la elección de los recursos que se han de emplear se deja en la mayoría de las casos en manos del buen juicio, intuición y el sentido estético del escritor/traductor.
+</segment>
+    <segment id="5">Los adjetivos referenciales siempre derivan del nombre</segment>
+    <segment id="6"> pero, muchas veces, se mezclan el origen y el carácter referencial</segment> 
+    <segment id="7">y entran en el mismo saco los adjetivos que son completamente predicativos con los adjetivos que sin duda alguna son absolutamente referenciales. </segment>
+    <segment id="8">Para el caso del inglés, ya en 1978 Levi dejó clara la necesidad de diferenciar dos tipos de adjetivos de derivados de sustantivo pero de características semánticas y sintácticas diferentes: &quot;nominal nonpredicating adjectives&quot; y &quot;denominal adjetives&quot;;</segment>
+    <segment id="9"> los últimos, derivados mediante sufijos tipo -y, -ful y -ous,</segment>
+    <segment id="10"> de modo que no sólo tomarán de los sufijos su categoría gramatical, sino también el carácter predicativo. </segment>
+    <segment id="11">Por el contrario, los que se englobarían en la clasificación de &quot;nominal nonpredicating adjectives&quot;, a pesar de ser por categoría adjetivos, tendrían un comportamiento similar al de los sustantivos: linguistic difficulties/language difficulties. </segment>
+    <segment id="12">En el caso del castellano, tal y como defendió Bosque en 1989, </segment>
+    <segment id="13">existen sufijos generativos que difícilmente derivan en adjetivos referenciales (-esco, -il, -oso, -ino) y otros que frecuentemente derivan en adjetivos referenciales (-al, -ar, -ario, -ico). </segment>
+    <segment id="14">En francés también se suelen emplear diferentes sufijos</segment>
+    <segment id="15"> para crear adjetivos referenciales y predicativos, </segment>
+    <segment id="16">y a consecuencia de ello cuentan con parejas del tipo familial-familier y infantil-infantin.
+</segment>
+    <segment id="17">De cualquier modo, entre los adjetivos de carácter realmente referencial también, por la relación que tienen con el nombre que modifican (Bosque, 1989 y 1992; Bosque y Picallo, 1994), se pueden diferenciar dos tipos:</segment>
+    <segment id="18"> por una parte los que modifican nombres de actividades o consecuencias y frecuentemente el adjetivo referencial es el argumento del nombre. </segment>
+    <segment id="19">Por ejemplo, decisión presidencial necesariamente será lo decidido por el presidente y extracción dental la acción de sacar un diente o una muela. </segment>
+    <segment id="20">Es evidente que en el último caso el adjetivo dental equivale al complemento directo del verbo extraer y que en euskera los sustantivos compuestos son formidables candidatos para ello (hortzateratzea). </segment>
+    <segment id="21">Por el contrario, difícilmente traduciremos decisión presidencial como presidente-erabaki</segment>
+    <segment id="22"> y, casi sin duda alguna, optaremos por presidentearen erabaki.</segment>
+    <segment id="23"> ¿Cuál es la razón de esta diferencia, &quot;el carácter de sujeto&quot; del modificador de los nombres compuestos o el &quot;carácter definido&quot; de ese elemento? 
+</segment>
+    <segment id="24">Por otra parte, cuando lo que modifican los adjetivos referenciales es el nombre (de un objeto sin estructura argumental), no se puede predecir la relación entre el nombre y el adjetivo;</segment>
+    <segment id="25"> en ese caso nos encontramos con la relación de ámbito o relación de propiedad que quienes se ocupan de elaborar los diccionarios definen con la perífrasis -ri dagokion. </segment>
+    <segment id="26">Por ejemplo, hilo dental es el hilo que se emplea para limpiar los dientes, en euskera, seguramente preferiríamos hortzetako haria a hortz-haria. </segment>
+    <segment id="27">Por último, para el conjunto denominado en el área de la fonética como consonante dental se emplea kontsonante horzkaria y no hortz-kontsonante.
+</segment>
+    <segment id="28">En resumen, la clasificación de las relaciones que puede darse entre los nombres y sus modificadores es universal: </segment>
+    <segment id="29">por una parte los modificadores con carácter de predicado y por otra los que tienen carácter referencial. </segment>
+    <segment id="30">Además, dentro de este último grupo se encuentran los modificadores de los argumentos del nombre y los que tienen una relación de propiedad o de campo con él.
+</segment>
+    <segment id="31">Dichas relaciones se pueden expresar a través de diferentes categorías gramaticales en una u otra lengua: a través de adjetivos, de sintagmas preposicionales o posposicionales, sustantivos compuestos, etc.</segment>
+    <segment id="32"> Por ejemplo, el adjetivo marginal en inglés tiene un uso referencial y predicativo respectivamente en los conjuntos marginal note y marginal case; </segment>
+    <segment id="33">en castellano, por el contrario, diferencian el uso referencial y el predicativo</segment>
+    <segment id="34"> empleando nota al margen y caso marginal. </segment>
+    <segment id="35">En el caso del euskera se pueden encontrar en el diccionario Elhuyar albo-ohar o marjinako ohar para su uso referencial, pero ejemplos del tipo bazterreko kasu para uso predicativo. </segment>
+    <segment id="36">De cualquier modo, en numerosas lenguas, existen adjetivos que cubren los tres espacios descritos. </segment>
+    <segment id="37">Para ilustrarlo</segment>
+    <segment id="38"> recordaremos el ejemplo de Levi: musical voice, musical criticism, musical comedy. 
+</segment>
+    <segment id="39">En este trabajo intentaremos fijar a través de qué recursos se pueden expresar en euskera cada una de esas relaciones universales y dónde pueden encontrarse los límites de cada recurso (actualmente por lo menos).</segment>
+    <segment id="40"> ¿Qué tipo de adjetivos se pueden crear a través de los sufijos generadores de adjetivos? </segment>
+    <segment id="41">Aunque muchos adjetivos referenciales se pueden dar en euskera a través de palabras compuestas,</segment>
+    <segment id="42"> está claro que ese método no ofrece formas para todos los adjetivos referenciales. </segment>
+    <segment id="43">¿Dónde se encuentra el límite?</segment>
+    <segment id="44"> ¿Dónde se encuentra la clave, en el carácter de predicado/no predicado, en relación argumental, de campo, posesiva o en otro aspecto?</segment>
+    <segment id="45"> ¿Tienen algún tipo de influencia las características definido/indefinido, animado/inanimado, contable/incontable? </segment>
+    <segment id="46">¿Influye en esa imposibilidad que el nombre modificado se trate de un nombre de acción, consecuencia u objeto?</segment>
+    <segment id="47"> ¿Cuáles son las condiciones que nos pueden llevar a no tener otro remedio que emplear el préstamo para traducir al euskera un adjetivo referencial de otras lenguas?</segment>
+    <segment id="48"> ¿Cuándo hemos empleado complementos del nombre en euskera</segment>
+    <segment id="49"> para sustituir a los adjetivos de otras lenguas?
+</segment>
+    <segment id="50">En resumen, el objetivo del presente trabajo consiste en conseguir una sistematización que nos ayudaría a encontrar de un modo bastante automático el equivalente en euskera de adjetivos referenciales de las lenguas vecinas.
+</segment>
+  </body>
+</rst>

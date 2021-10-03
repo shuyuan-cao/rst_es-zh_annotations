@@ -1,0 +1,72 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">
+La neología contrarreloj: Internet
+</segment>
+    <segment id="2">El propósito de esta comunicación es hacer una reflexión sobre los retos a que se está enfrentando la neología terminológica en la realidad actual, </segment>
+    <segment id="3">para lo cual vamos a abordar diversos aspectos que influyen en la creación neológica en el ámbito de Internet.
+</segment>
+    <segment id="4">Los términos referidos a Internet nacen</segment>
+    <segment id="5"> y se difunden</segment>
+    <segment id="6"> a una velocidad y con una amplitud tal que constituye una verdadera carrera contrarreloj en las distintas lenguas. </segment>
+    <segment id="7">Efectivamente, la formación de nuevos términos está sometida a un ritmo trepidante, paralelo al avance e innovación tecnológica en el sector de la informática y, en general, de las telecomunicaciones. </segment>
+    <segment id="8">Si bien este aspecto es común al progreso científico y técnico </segment>
+    <segment id="9"> y, por lo tanto, característico de la neología terminológica,</segment>
+    <segment id="10"> la especificidad del área tratada confiere a la neología que le es propia unas particularidades que cabe tener en cuenta. 
+</segment>
+    <segment id="11">En primer lugar, el canal por el que se dan a conocer los términos de Internet, la misma red, no sólo supone una rápida difusión de la terminología &quot;la información en Internet es de acceso (casi) inmediato&quot;, </segment>
+    <segment id="12">sino también un alcance muy vasto &quot;llega a cualquier parte del mundo&quot;. </segment>
+    <segment id="13">Es más, desde cualquier lugar los términos son recopilados, comentados y ponderados; </segment>
+    <segment id="14">de ahí, por ejemplo, los apartados que encontramos en muchos Webs en que se difunden glosarios de términos sobre Internet o en que se exponen propuestas denominativas que los usuarios pueden incluso votar. </segment>
+    <segment id="15">Esto nos lleva a una cuestión fundamental:</segment>
+    <segment id="16"> la terminología de Internet traspasa los límites del área de especialidad (a la que se circunscribe por definición el léxico científico y técnico)</segment>
+    <segment id="17"> e irrumpe en la lengua de uso general, </segment>
+    <segment id="18">siendo utilizada tanto por los usuarios heterogéneos de la red (de cualquier o ninguna especialidad) como por las personas que leen la prensa o están atentas a los medios de comunicación. 
+</segment>
+    <segment id="19">¿Qué tipo de terminología se está creando?</segment>
+    <segment id="20"> ¿Qué sistemas de creación léxica predominan?</segment>
+    <segment id="21"> Un único denominador común existe para todas las lenguas: </segment>
+    <segment id="22">los términos se generan en inglés y penetran como préstamos en aquellas. </segment>
+    <segment id="23">¿Cómo responden las lenguas receptoras?</segment>
+    <segment id="24"> ¿Cómo tratan la terminología de Internet?</segment>
+    <segment id="25"> ¿Son términos todos los que lo parecen,</segment>
+    <segment id="26"> responden a necesidades reales de denominación, </segment>
+    <segment id="27">o abundan las creaciones léxicas sensacionalistas y efímeras?
+</segment>
+  </body>
+</rst>
