@@ -1,0 +1,104 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿　　文字关联或语意关联：寻找巴斯克语中对等的关系形容词
+</segment>
+    <segment id="2">　　众所周知，在任何一类文件中，关系形容词都为巴斯克语译者带来了很多麻烦。</segment>
+    <segment id="3">在很多情况下，要找到巴斯克语对应临近语种的关系形容词，需要经过多个步骤（Ensunza，1989；Loinaz，1995）。</segment>
+    <segment id="4">尽管如此，从某种程度上来说，选择何种办法很大程度上仍取决于作者或者译者良好的判断力、直觉以及审美。
+</segment>
+    <segment id="5">　　关系形容词通常由名词衍生而来，</segment>
+    <segment id="6">但是多数情况下会将词源和关系特征相结合，将完全作为表语使用的形容词与毫无疑问作为关系描述的形容词混为一谈。</segment>
+    <segment id="7">在英语中，1978年利维（Levi）就明确表示需要将从名词引申出的两类形容词进行区分，</segment>
+    <segment id="8">根据语义学和句法特征的不同，分为“名词非表语性形容词”以及“由名词而来的形容词”。</segment>
+    <segment id="9">后者通过 -y、-ful和-ous一类的后缀派生而来，</segment>
+    <segment id="10">因此不仅采用了这些后缀的语法范畴，</segment>
+    <segment id="11">还使用了其表语叙述的特性。</segment>
+    <segment id="12">相反，在“名词非表语性形容词”一类中，尽管采用了形容词的定义，</segment>
+    <segment id="13">但是与名词发挥的作用类似，比如：linguistic difficulties（语言上的困难）/language difficulties（语言困难）。</segment>
+    <segment id="14">在西班牙语中，根据博斯克（Bosque）于1989年提出的定义，</segment>
+    <segment id="15">有一系列后缀很难派生出关系形容词（-esco、-il、-oso、-ino），</segment>
+    <segment id="16">还有一些则经常派生出关系形容词（-al、-ar、-ario、-ico）。</segment>
+    <segment id="17">在法语中，同样也经常使用不同的后缀来构成关系形容词或表语形容词，</segment>
+    <segment id="18">因此，法语中有一类单词可成对出现，比如familial-familier和infantil-infantin。
+</segment>
+    <segment id="19">　　因此，参考修改过后的名称（博斯克（Bosque）,1989和1992；博斯克（Bosque）和毕佳略（Picallo）,1994）,实际发挥描述关系作用的形容词可以划分为两类：</segment>
+    <segment id="20">一方面，对于修改过的以名词表示活动和结果的单词，通常情况下关系形容词用来阐述名词的含义。</segment>
+    <segment id="21">例如，总统决定（decisión presidencial）必定指的是由总统决定的事情，拔牙（extracción dental）指将牙齿或臼齿取出的动作。</segment>
+    <segment id="22">在拔牙的例子中，形容词“牙齿的（dental）”明显是动词“拔出（extraer）”的直接宾语。</segment>
+    <segment id="23">在巴斯克语中，复合名词都能说明这一点（例如hortzateratzea）。</segment>
+    <segment id="24">相反，我们却很难将总统决定（decisión presidencial）直接翻译成presidente-erabaki（总统的决定），</segment>
+    <segment id="25">而是倾向于翻译成presidentearen erabaki（总统决定）。</segment>
+    <segment id="26">为什么会产生这种不同？</segment>
+    <segment id="27">是因为复合名词修饰词的“主语字符”还是因为它的“特定字符”的缘故？
+</segment>
+    <segment id="28">另一方面，当修改关系形容词中的名词部分（不涉及词义结构）时，我们无法预估名词和形容词之间的联系，</segment>
+    <segment id="29">因此我们发现了其中的范围联系或者说所有权关联，即谁负责编制字典，谁就有权决定词组构成-ri dagokion（相关）。</segment>
+    <segment id="30">例如，牙线（hilo dental）指的是清洁牙齿用的一根线，</segment>
+    <segment id="31">在巴斯克语中我们倾向于使用hortzetako haria（牙齿的线）而不是hortz-haria（牙线）。</segment>
+    <segment id="32">最后，从语言学角度来看，命名集合中的“齿音（consonante dental）”使用的是kontsonante horzkaria（咬音），而非hortz-kontsonante（齿音）。
+</segment>
+    <segment id="33">　　总之，各个名词和修饰词之间普遍的关系分类是：</segment>
+    <segment id="34">一类是具有叙述性质的修饰词，</segment>
+    <segment id="35">一类是有关系性质的词语。</segment>
+    <segment id="36">此外，在关系性质的修饰语中同样也包含阐述性的名词，</segment>
+    <segment id="37">或者与之语意背景相当的单词。
+</segment>
+    <segment id="38">　　对于上述关联，可以用一种或其它语言中不同的语法范畴进行阐述，即借助于形容词前置词或后置词短语、复合名词等。</segment>
+    <segment id="39">例如，形容词marginal（边上的）在英语中可用于参照语和谓语，例如“边缘注释（marginal note）”以及“边缘个案（marginal case）”；</segment>
+    <segment id="40">相反，在西班牙语中，关系形容词和表语形容词的使用有所不同，此处使用的是“边缘上的注释（nota al margen）”以及“边缘的案例（caso marginal）”。</segment>
+    <segment id="41">在巴斯克语中，在Elhuyar字典中能找到albo-ohar（边缘注释）或marjinako ohar（边缘的注释），此处形容词用于表达关系的情况，</segment>
+    <segment id="42">而bazterreko kasu（边缘的案例）则是形容词用作表语的情况。</segment>
+    <segment id="43">在任何情况下，各种语言中都有形容词可以涵盖上述三种类别。</segment>
+    <segment id="44">为了更好地说明，我们将使用利维（Levi）的例子：musical voice（音乐般的声音）、musical criticism（音乐评论）、musical comedy（音乐剧）。
+</segment>
+    <segment id="45">本研究将着重介绍巴斯克语运用上述哪种方式进行表达，</segment>
+    <segment id="46">以及每种方法的区分界限在哪里（至今为止）。</segment>
+    <segment id="47">通过形容词产生的后缀能构成哪种类型的形容词？</segment>
+    <segment id="48">尽管巴斯克语中很多关系形容词均可通过复合词构成，</segment>
+    <segment id="49">但这种办法确定不能用于所有的关系形容词吗？</segment>
+    <segment id="50">区分界限在哪里？</segment>
+    <segment id="51">区分表语及非表语语的关键在哪里？</segment>
+    <segment id="52">文字关系、背景联系、物主关系还是其它方面？</segment>
+    <segment id="53">限定/非限定、有生命/无生命、可数/不可数这些特征能造成某种影响吗？</segment>
+    <segment id="54">会造成修改后的名词变成动作、结果或者用作宾语的名词吗？</segment>
+    <segment id="55">哪些情况下我们必须在翻译成巴斯克语时使用其它语言的关系形容词？</segment>
+    <segment id="56">我们什么情况下使用巴斯克语中的名词补语来替代其它语言的形容词？
+</segment>
+    <segment id="57">总而言之，本研究的主旨在于组建一个能通过自动化的方式从临近语言中获得巴斯克语中对等关系形容词的系统。</segment>
+  </body>
+</rst>

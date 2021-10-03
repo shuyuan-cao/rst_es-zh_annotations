@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿　　法律翻译文件中巴斯克语术语的构建办法
+</segment>
+    <segment id="2">　　此次报告旨在说明在一个完全属于某一领域的语料中确定和分析巴斯克语法律术语使用的方法。</segment>
+    <segment id="3">我们放弃了术语处理中通常使用的办法，</segment>
+    <segment id="4">将研究建立在三个方面：信息资源、语料语言学特性以及翻译学研究。</segment>
+    <segment id="5">一般而言，法律都建立在权利之上，</segment>
+    <segment id="6">考虑到法律术语中立法的重要性，</segment>
+    <segment id="7">我们把研究范围定为巴斯克议会法的制定。</segment>
+    <segment id="8">由于巴斯克语版本都译自西班牙语，</segment>
+    <segment id="9">为了今后能找到与巴斯克语相对应的情况，</segment>
+    <segment id="10">鉴于西班牙语的法律术语已充分汇总在相关的学术字典中，</segment>
+    <segment id="11">我们以西班牙语版本为基础进行研究。</segment>
+    <segment id="12">在得到两种语言的完整文件之后，</segment>
+    <segment id="13">我们着手对比并一一对照两个版本，</segment>
+    <segment id="14">明确具有相同含义段落的数量。</segment>
+    <segment id="15">之后，借助特定的应用程序，比较较早制定好的西班牙语法规主要条款以及巴斯克语版本的上下文段落和具有相同编码的段落。</segment>
+    <segment id="16">接下来，我们指出巴斯克语段落中包含与西班牙语相同内容的部分，</segment>
+    <segment id="17">并将其移至关联数据库。</segment>
+    <segment id="18">用此方法我们能够了解到是否出现术语，</segment>
+    <segment id="19">属于法律的哪个范畴，</segment>
+    <segment id="20">巴斯克语法律术语的完善程度，以及哪些巴斯克语段落在句法结构上与西班牙语术语完全相同等。</segment>
+    <segment id="21">同时，上述句法将影响到法律专业的讲话方式，</segment>
+    <segment id="22">并按照相同的方法进行分析。</segment>
+  </body>
+</rst>

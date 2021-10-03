@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿西班牙语远程课程：西班牙语虚拟课堂（AVE）
+</segment>
+    <segment id="2">西班牙语虚拟课堂（AVE）是塞万提斯学院专门为对外西班牙语教学和学习设计的，以互联网为媒介的虚拟环境。</segment>
+    <segment id="3">西班牙语虚拟课堂提供丰富多样的多媒体活动平台，</segment>
+    <segment id="4">适合各个级别和学习进度的学生使用，</segment>
+    <segment id="5">是学习西班牙语和了解西班牙文化的有效工具。
+</segment>
+    <segment id="6">在米盖尔·德·塞万提斯图书馆的多媒体教室你可以免费试用AVE各类课程:
+</segment>
+    <segment id="7">一般课程：</segment>
+    <segment id="8">包含欧洲共同语言参考标准制定的A1, A2, B1, B2 及C1级别课程。</segment>
+    <segment id="9">你可以进入Aveteca 查看活动练习的集合。</segment>
+    <segment id="10">AVE课程的操作指导可根据不同语言的视频连接点击观看：西班牙语，中文，英语... </segment>
+    <segment id="11">如果有一定的西班牙语基础,</segment>
+    <segment id="12">水平测试会把学生安排在最适合其本人的课程中。</segment>
+    <segment id="13">想做水平测试，</segment>
+    <segment id="14">请访问下列网站：http://ave.cervantes.es/prueba_nivel/registro/test_de_clasificacion.php
+</segment>
+    <segment id="15">你好，朋友！：</segment>
+    <segment id="16">适用于儿童和青少年，共分3个级别和9个单元，包含了欧洲共同语言参考标准的A1和A2级别。
+</segment>
+    <segment id="17">教师培训课程: </segment>
+    <segment id="18">针对以西班牙语作为第二外语的教师，</segment>
+    <segment id="19">并致力于AVE多样形式的教学。</segment>
+    <segment id="20">通过练习和理论模块，</segment>
+    <segment id="21">指导教师掌握AVE课程适用的虚拟平台的基本教学原则和战略。
+</segment>
+    <segment id="22">教学材料包括：
+</segment>
+    <segment id="23">视听材料包含150个视频，采集电影，文化资讯节目，纪录片等剪辑视频。
+</segment>
+    <segment id="24">多媒体互动活动，通过文学，电影，音乐，舞蹈和民俗学习西班牙语。
+</segment>
+    <segment id="25">现代化的交流工具（聊天，论坛，博客，wiki和电子邮件），辅助学生在任何地方都与组内同伴交流互动。
+</segment>
+    <segment id="26">自动跟踪系统和其他评估工具，</segment>
+    <segment id="27">帮助学生和老师更好的掌握学习情况。
+</segment>
+    <segment id="28">适合自主学习的教学材料。
+</segment>
+    <segment id="29">如有任何查询请发送邮件至prof1sha@cervantes.es</segment>
+<group id="40" type="span" />
+  </body>
+</rst>

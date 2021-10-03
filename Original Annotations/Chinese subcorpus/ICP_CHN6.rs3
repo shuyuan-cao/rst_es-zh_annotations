@@ -1,0 +1,76 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    北京塞万提斯学院
+</segment>
+    <segment id="1">﻿<segment id="5">2006年7月14日，西班牙塞万提斯学院在遥远的东方——中国首都北京，成立了自己的分院——北京塞万提斯学院，终于完成了塞万提斯那著名而又古老的夙愿。
+</segment>
+    <segment id="2">北京塞万提斯学院地处北京核心地带——朝阳区中心区域，</segment>
+    <segment id="3">占地面积3200平方米。</segment>
+    <segment id="4">在一座名为“塞万提斯学院大厦”的现代建筑中，拥有诸多现代化教学和公共设施，如多功能厅、展厅、图书馆、教室和多媒体教室等，共占据四层。
+</segment>
+    <segment id="5">尊贵的阿斯图里亚斯王储和王储妃亲临学院开幕式并宣布北京塞万提斯学院正式成立。</segment>
+    <segment id="6">此后至今，学院以推广西班牙语教学和西班牙语文化为己任，</segment>
+    <segment id="7">在北京乃至中国逐渐建立并巩固了学院在这方面的权威地位。</segment>
+    <segment id="8">为此，我们一方面要坚持不懈地致力于西班牙语文化活动的开展，</segment>
+    <segment id="9">促进传统与现代、东方与西方之间的文化交流与和谐共存；</segment>
+    <segment id="10">另一方面，我们会不断为广大公众提供丰富多样的语言课程及相关活动，</segment>
+    <segment id="11">以满足不同人群的需求，吸引并培养大家对西班牙语及其文化的兴趣。
+</segment>
+    <segment id="12">然而，塞万提斯学院在中国的设立不仅要为西班牙语和其文化的推广提供一个媒介，</segment>
+    <segment id="13">更是要为中国的众多文化机构和文化人士提供一个开放的平台，</segment>
+    <segment id="14">以促进中、西方文化的互动，加深对彼此的了解。
+</segment>
+    <segment id="15">北京塞万提斯学院图书馆是以出生在西班牙塞维利亚的著名诗人安东尼奥•马查多的名字命名的。</segment>
+    <segment id="16">学院图书馆满足年轻读者对个性化和信息化环境的需求、对西班牙语及其文化日益增强的兴趣，如今已成为一个充满活力、不断进取的空间。</segment>
+    <segment id="17">在我院图书馆的馆藏中，具有丰富的包括西班牙语在内的众多伊比利亚半岛语言的文献资料，</segment>
+    <segment id="18">此外还拥有数量可观的视听和多媒体教学资源。</segment>
+    <segment id="19">值得一提的是，针对安东尼奥•马查多的相关文献与汉学研究资料的收藏是我院图书馆的两大重要特色。
+</segment>
+    <segment id="20">多媒体教室可以为在院学生提供全面周到的教学服务，</segment>
+    <segment id="21">是西班牙语网络课堂（AVE）的传播和管理中心，</segment>
+    <segment id="22">支持AVE在北京和其他中国地区的推广与发展。
+</segment>
+    <segment id="23">北京塞万提斯学院每年举办两次DELE考试（对外西班牙语水平证书），</segment>
+    <segment id="24">并与世界其他国家的塞万提斯学院一样，承担对外西班牙语教师培训（ELE）的任务。
+</segment>
+    <segment id="25">此外，塞万提斯学院还资助成立了位于西班牙驻上海总领馆内的“米盖尔•德•塞万提斯”图书馆，</segment>
+    <segment id="26">旨在与上海地区的众多文化和教育机构开展合作，</segment>
+    <segment id="27">积极组织各种文化和教学活动，</segment>
+    <segment id="28">扩大塞万提斯学院在北京以外地区的影响。</segment>
+  </body>
+</rst>

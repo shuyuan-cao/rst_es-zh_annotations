@@ -1,0 +1,58 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿　　从巴斯克语看术语、翻译和法律论述
+</segment>
+    <segment id="2">　　当翻译法律文件时，</segment>
+    <segment id="3">必须要先学习整套术语，</segment>
+    <segment id="4">而当翻译巴斯克语文件时，由于巴斯克语翻译在法律领域尚未完善，</segment>
+    <segment id="5">这个学习术语的过程就尤为重要。</segment>
+    <segment id="6">因此，近年来我们的工作目标在于将翻译过程中使用的各个方法</segment>
+    <segment id="7">（合理的术语使用、创建新的术语条目）</segment>
+    <segment id="8">以及巴斯克语必须能深层次融会贯通的各法律体系内容（西班牙、法国以及欧盟的法律）整合在一个文档中，</segment>
+    <segment id="9">当上述内容均能在同一篇文章中准确描述之后，</segment>
+    <segment id="10">我们便能做到建立巴斯克语的“法律论述”体系。
+</segment>
+    <segment id="11">为了达成这个目标，</segment>
+    <segment id="12">自1994年以来我们在德乌斯托大学进行法律领域专业文件的翻译工作，</segment>
+    <segment id="13">我们希望能按照实际情况呈现出这些年工作中碰到的问题以及取得的成就。</segment>
+    <segment id="14">如上文所述，我们研究的主旨在于如下几点：</segment>
+    <segment id="15">从法律学以及语言学的角度出发，</segment>
+    <segment id="16">运用翻译技巧和术语库，</segment>
+    <segment id="17">了解正确且高质量的法律论述方法并对其进行调整。</segment>
+  </body>
+</rst>

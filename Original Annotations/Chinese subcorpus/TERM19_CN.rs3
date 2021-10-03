@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿术语标准化受社会层面的影响
+</segment>
+    <segment id="2">当今社会存在表面上相互矛盾的两种趋势。</segment>
+    <segment id="3">一方面，由于经济、政治、社会文化领域持续的相互联系和交流，</segment>
+    <segment id="4">国际协调统一的需求日益增多；</segment>
+    <segment id="5">另一方面，国际社会越发承认多样性的存在，</segment>
+    <segment id="6">各种特性随之而来，体现在人类生活的各个方面。
+</segment>
+    <segment id="7">制定术语作为一项高度依赖社会的活动，</segment>
+    <segment id="8">同样也应该与上述大趋势相适应，</segment>
+    <segment id="9">随之而来的还有技术快速进步，</segment>
+    <segment id="10">科学向着学科交叉和高度专门化方向发展，</segment>
+    <segment id="11">以及信息社会中独特信息的即时交换等。</segment>
+    <segment id="12">上述所有因素不仅带来了专业术语数量上的增加，</segment>
+    <segment id="13">还加大了制作术语的工作量。</segment>
+    <segment id="14">此外，这些因素不仅丰富了术语内容，</segment>
+    <segment id="15">同时还引起了对一些术语基本定义的争论，例如单义、基本知识和命名，对专业概念的掌握或者术语标准化起到的作用。</segment>
+    <segment id="16">尽管在社会各领域达成的共识中，术语标准化的基本原则至今仍在完全有效地保障专业间的沟通交流，</segment>
+    <segment id="17">但是在实际术语整理工作中，有时仍会忽视标准化和社会之间存在的紧密联系。</segment>
+    <segment id="18">此时，标准不但会失效，</segment>
+    <segment id="19">而且也不能发挥作用。
+</segment>
+    <segment id="20">本此报告将借助加泰罗尼亚语术语标准实施中获得的经验，阐述建立术语规范的必要性，</segment>
+    <segment id="21">同样还会讨论面临的一些困难，</segment>
+    <segment id="22">并对当今社会中的这一形势提出一些构想。</segment>
+  </body>
+</rst>

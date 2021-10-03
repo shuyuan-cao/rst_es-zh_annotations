@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">为职业培训提供小语种使用和教学的术语工具：VOCALL项目
+</segment>
+    <segment id="2">VOCALL项目由欧盟委员会建立，属于莱奥纳多（Leonardo）计划框架内。</segment>
+    <segment id="3">本项目的宗旨是为计算机、文秘以及电子专业的学生构建一个语言学习工具。</segment>
+    <segment id="4">项目针对小语种的使用和教学展开，</segment>
+    <segment id="5">这里的小语种指的是爱尔兰语、葡萄牙语以及希腊语。
+</segment>
+    <segment id="6">对于上述小语种，并没有足够完善的词汇及专业术语资源来帮助学生进行学习。</segment>
+    <segment id="7">我们为上述小语种人群收集了一个多语种词汇表用于这些小语种使用和教学，这是作为多媒体教学 CALL 的一部分。</segment>
+    <segment id="8">该项目中每个涉及语言的多媒体产品均一致，</segment>
+    <segment id="9">作为一个自学工具对学习上述领域专业的国外学生以及对母语掌握情况欠佳人群进行销售。
+</segment>
+    <segment id="10">基于参考项目执行至今的各种经验，</segment>
+    <segment id="11">本文提出了一个有关建立多语种术语库的方法论。</segment>
+  </body>
+</rst>

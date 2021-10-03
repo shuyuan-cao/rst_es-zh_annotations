@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿关于西藏图片在西班牙加泰罗尼亚大区展出的若干事宜
+</segment>
+    <segment id="2">为弘扬中华民族文化，</segment>
+    <segment id="3">展现西藏活力，</segment>
+    <segment id="4">增强西班牙加泰罗尼亚大区当地各界人士及海外侨胞对西藏的感观印象，</segment>
+    <segment id="5">经西班牙加泰罗尼亚华侨华人社团联合总会磋商决定,做为主办方承接此次西藏图片展。
+</segment>
+    <segment id="6">图片展将展出国内著名摄影师收集的两百多张图片。
+</segment>
+    <segment id="7">现将具体事项列表如下
+</segment>
+    <segment id="8">1）主办单位
+</segment>
+    <segment id="9">西班牙加泰罗尼亚华侨华人社团联合总会
+</segment>
+    <segment id="10">2）协办单位
+</segment>
+    <segment id="11">西班牙巴塞罗那中华总商会
+</segment>
+    <segment id="12">3）承办单位
+</segment>
+    <segment id="13">西班牙加泰罗尼亚华侨华人社团联合总会
+</segment>
+    <segment id="14">4）展览日期</segment>
+    <segment id="15">2015年11月27日至11月30日
+</segment>
+    <segment id="16">6）展览地点</segment>
+    <segment id="17">Gran Vía de les Corts Catalanes, 585 08007 Barcelona
+</segment>
+    <segment id="18">西班牙加泰罗尼亚华侨华人社团联合总会</segment>
+  </body>
+</rst>

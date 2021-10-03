@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿西班牙驻华大使在上海K11购物艺术中心为展览“跨界大师·鬼才达利”开幕
+</segment>
+    <segment id="2">11月4日，西班牙驻华大使瓦伦西亚先生在上海K11购物艺术中心为展览“跨界大师·
+鬼才达利”开幕。</segment>
+    <segment id="3">本次展览由卡拉—达利基金会和K11艺术基金会共同举办。
+</segment>
+    <segment id="4">展览共有250件展品：包括12副绘画作品和2副达利的原创作品，以及205份杂志、报纸及宣传单，</segment>
+    <segment id="5">还有30件物品反映了达利与媒体的关系和创作灵感的来源。
+</segment>
+    <segment id="6">出席开幕式的还有策展人MontseAguer，卡拉-萨尔瓦多达利基金会执行长Juan Manuel Sevillano，K11 艺术基金会创办人兼名誉主席郑志刚。</segment>
+    <segment id="7">参观总人数达四千人。</segment>
+    <segment id="8">展览将持续至2016年2月15日，预计参观人数将达到35万人。</segment>
+    </body>
+</rst>

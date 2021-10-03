@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿中文计算机技术下的术语构建器
+</segment>
+    <segment id="2">新术语的出现总是代表着各个蓬勃发展的行业在广度和深度上的快速发展（特别是各科学领域），</segment>
+    <segment id="3">因此，所有热门行业在迅猛发展的同时也存在着术语标准化的问题。</segment>
+    <segment id="4">我们必须保证构建的术语均具备一定的系统性，在字面意思和使用的过程中没有歧义，</segment>
+    <segment id="5">并与其它同领域的相关术语保持一贯性。</segment>
+    <segment id="6">无论如何，对于任何一种没有统一标准的重要语言来说（例如在中国大陆、台湾以及香港使用的汉语），统一某个学科的术语使用取决于某机构内存在的一个术语组，</segment>
+    <segment id="7">在那里，作为日常工作的一部分，工作人员能够对外提供新术语使用、汇集和维护方面的指导。</segment>
+    <segment id="8">此份报告试图描述如何创造计算机科技支持下的术语构建器，</segment>
+    <segment id="9">并将其变为术语组中不可缺少的一部分。</segment>
+    <segment id="10">构建器需使用各种数据库，例如现存术语定义语料库、句法规则数据库、词汇库（技术类和一般类），</segment>
+    <segment id="11">与词素相关的数据库(Yuan等人，手写稿），</segment>
+    <segment id="12">以及中文单词构成规则（Lu，1975）。</segment>
+    <segment id="13">术语构建器中包含一个语法分析器、基于音节的变形器（用于音译）和一个构建器。</segment>
+    <segment id="14">我们试图遵循阿尔沙威（Alshawi）在朗文字典（LDOCE）中描述的概念，</segment>
+    <segment id="15">并按照英语的术语定义进行研究。</segment>
+    <segment id="16">关键词已从上述定义分析中提取出，</segment>
+    <segment id="17">因此可以将英语的字面意思翻译成中文。</segment>
+    <segment id="18">紧接着，中文的关键字翻译由构建器运用相关中文词素数据库进行，</segment>
+    <segment id="19">并参考中文的单词构建规则，</segment>
+    <segment id="20">结果显示为一系列交替进行的翻译文件，</segment>
+    <segment id="21">以便专家挑选。</segment>
+  </body>
+</rst>

@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿教师和教学方法 </segment>
+    <segment id="2">我们所有的老师都是西班牙语为母语的教师，</segment>
+    <segment id="3">受过专业对外西班牙语教学(ELE)资格培训，</segment>
+    <segment id="4">并具有在中国教学的丰富经验。</segment>
+    <segment id="5">另外，同样重要的是，他们对学生耐心，亲和以及对教学的热情尤为突出。</segment>
+    <segment id="6">在塞万提斯学院，学生是教学的主角。</segment>
+    <segment id="7">老师不会强加知识点给学生：</segment>
+    <segment id="8">他们会在上课的第一天就帮助学生用西班牙语进行交流，</segment>
+    <segment id="9">鼓励学生积极地参与课堂中的互动活动。</segment>
+    <segment id="10">在教学的进程中塞万提斯的老师总会站在学生的立场和视角，</segment>
+    <segment id="11">为每个学生制定最适合他的教学计划，促进学生的自主学习意识。
+</segment>
+    <segment id="12">领先的教学方法
+</segment>
+    <segment id="13">我们的教材为西班牙原版教材，
+    <segment id="14">内容新颖，</segment>
+    <segment id="15">适用于中国学生学习。</segment>
+    <segment id="16">在词汇和语法的学习中，我们的外教老师能够并且知道如何传递这些语法词汇的沟通使用价值。</segment>
+    <segment id="17">除了教学用书，我们的教室团队也设计安排了其他许多丰富多彩的课堂元素，例如游戏，视频，歌曲等等。</segment>
+    <segment id="18">这些都使学生们能够在塞万提斯学院有效而愉快的学习到西班牙语。</segment>
+  </body>
+</rst>

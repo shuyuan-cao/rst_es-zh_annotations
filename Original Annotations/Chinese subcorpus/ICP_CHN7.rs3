@@ -1,0 +1,63 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿适用于移动设备的图书馆在线目录MOPAC
+</segment>
+    <segment id="2">读者用户们越来越频繁地使用智能手机</segment>
+    <segment id="4">来获取学术、工作以及科研领域的有效信息，</segment>
+    <segment id="3">查收或回复最新的电子邮件，</segment>
+    <segment id="5">亦或是了解图书馆的概况。
+</segment>
+    <segment id="6">由于MOPAC的支持，</segment>
+    <segment id="7">塞万提斯学院的图书馆网络(RBIC)得以增加这一有关信息移动服务的功能，</segment>
+    <segment id="8">它是一个专为移动设备(如iPhone, Android, tablets e iPads)所设计的，使用起来既简单又快捷。
+</segment>
+    <segment id="9">随时随地的使用电子资源、访问目录或是查看当下的借阅状态，</segment>
+    <segment id="10">所有这些在图书馆网络上都已成为现实。
+</segment>
+    <segment id="11">除此之外，在MOPAC的个人空间里，读者用户可以进行预约</segment>
+    <segment id="12">或者续借操作，</segment>
+    <segment id="13">可以和图书馆的负责人取得联系，</segment>
+    <segment id="14">还可以在图书参考中写下对读过的书或看过的电影的精彩评论，所有这些，都可以通过您的手机完成。</segment>
+    <segment id="15">MOPAC的多功能性使许多增值服务得以实现，比如图书参考管理服务、馆际互借服务、文献传递服务以及网上电子资源查询服务。</segment>
+    <segment id="16">同时，它还能为西班牙语学习者提供相关领域的应用程序下载服务。
+</segment>
+    <segment id="17">MOPAC是一次积极性的尝试，</segment>
+    <segment id="18">以便使塞万提斯学院的图书馆更贴近读者，</segment>
+    <segment id="19">与此同时，它通过科技更轻松的实现了图书馆的信息提供功能。</segment>
+  </body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿与时间赛跑的新词：互联网
+</segment>
+    <segment id="2">本文旨在分析当今新生术语所面临的挑战，</segment>
+    <segment id="3">并结合了在互联网领域各方面新词出现所带来的影响。
+</segment>
+    <segment id="4">各种语言中与互联网相关的术语在以很快的速度诞生和传播，</segment>
+    <segment id="5">影响范围广，</segment>
+    <segment id="6">如同建造了一条需要与时间赛跑的跑道。</segment>
+    <segment id="7">确实，新术语以很快的节奏组合完毕，与计算机和电信领域的科技创新和进步并肩同行。</segment>
+    <segment id="8">对于科技进步来说，这种现象的产生并不稀奇，</segment>
+    <segment id="9">但需要注意的是，介于术语新词的特点，</segment>
+    <segment id="10">各领域的专业性要求又赋予了新词一定的特殊性。</segment>
+    <segment id="11">首先，获取互联网术语信息的渠道不仅意味着术语的快速传播，因为“互联网信息（几乎）可以立即访问”，</segment>
+    <segment id=12">同时还涉及非常广阔的范围，“可以到达世界任何一个角落”。</segment>
+    <segment id="13">此外，从任何一个角度来看，这些术语都被更多次数地收集、评论以及衡量。</segment>
+    <segment id="14">比如我们在很多网站上都能找到有关网络术语词汇的文章，上面会提出一些命名的建议，而用户甚至可以对它们进行投票。</segment>
+    <segment id="15">这给我们带来了一个很关键的问题：</segment>
+    <segment id="16">网络术语打破了各个专业领域的界限（根据科技词汇定义确定），</segment>
+    <segment id="17">并侵入到一般的语言使用过程中，</segment>
+    <segment id="18">由不同类型（具备某一专业技能或不懂任何专业）以及仅仅是读新闻或关注各个媒体的用户使用。
+</segment>
+    <segment id="19">那么它创建了什么类型的术语？</segment>
+    <segment id="20">哪个词汇创造系统占主导地位？</segment>
+    <segment id="21">各种语言中唯一一致的命名参照物情况是：</segment>
+    <segment id="22">术语均从英语而来，</segment>
+    <segment id="23">而英语也渗透至各种语言中去。</segment>
+    <segment id="24">那么那些接受英语概念的语言体系是如何回应的？</segment>
+    <segment id="25">如何处理网络术语？</segment>
+    <segment id="26">那些看似顺应某种命名需要或者充斥着危言耸听内容且稍纵即逝的词语都属于术语范畴吗？</segment>
+  </body>
+</rst>

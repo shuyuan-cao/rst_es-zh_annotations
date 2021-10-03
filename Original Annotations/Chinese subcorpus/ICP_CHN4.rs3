@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿用西班牙语工作
+</segment>
+    <segment id="2">成为北京塞万提斯学院的教师
+</segment>
+    <segment id="3">要成为塞万提斯学院的教师有以下要求：
+</segment>
+    <segment id="4">• 拥有语言文学学士学位优先
+</segment>
+    <segment id="5">• 外语教学培训
+</segment>
+    <segment id="6">• 西班牙语水平相当于母语为西班牙语的人
+</segment>
+    <segment id="7">• 拥有把西班牙语作为外语的教学经验
+</segment>
+    <segment id="8">此外也考虑与学历相关的突出成绩，专业培训，工作经验和语言知识。
+</segment>
+    <segment id="9">塞万提斯学院正式教师职位招聘在西班牙媒体上公布。</segment>
+    <segment id="11">同时也在塞万提斯学院网站发布信息。
+</segment>
+    <segment id="12">在正式教师以外，北京塞万提斯学院同时也拥有助理教师，这些教师在当地聘用。
+</segment>
+    <segment id="13">申请北京塞万提斯学院助理教师工作可以发送申请至教学负责人，邮箱为acpek@cervantes.es </segment>
+    <segment id="14">或直接递交到北京塞万提斯学院：
+</segment>
+    <segment id="15">北京塞万提斯学院
+</segment>
+    <segment id="16">北京市朝阳区工体南路甲一号100020
+</segment>
+    <segment id="17">电话：+86 10 58799666
+传真：+86 10 58799670</segment>
+  </body>
+</rst>

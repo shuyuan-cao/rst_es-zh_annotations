@@ -1,0 +1,52 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿DELE 考试考前辅导课程
+</segment>
+    <segment id="2">作为DELE考试的主办机构，</segment>
+    <segment id="3">塞万提斯学院为想要通过考试获取水平证书的考生提供优质的考前准备课程。</segment>
+    <segment id=“4”>课程分为30小时和60小时两种，</segment>
+    <segment id="5">按照考试的6个不同级别（A1, A2, B1, B2, C1 和C2），提供从A1到C2级别的6个课程。</segment>
+    <segment id="6">在课程中，你将熟悉考试中的各项内容，</segment>
+    <segment id="7">集中复习听说读写四个部分。</segment>
+    <segment id="8">根据塞万提斯学院教学大纲，有针对性地复习各级别对应的语法和词汇内容。</segment>
+    <segment id="9">所有课程均由西班牙语为母语的专业老师亲自授课，</segment>
+    <segment id="10">他们同时也都是经验丰富的DELE考官，将帮助各位同学正确地应对考试。</segment>
+    <segment id="11">除了熟识考试的各个部分及评分标准外，</segment>
+    <segment id="12">你还可以学到每个部分最好的答题方式和最有用的应试技巧。</segment>
+  </body>
+</rst>

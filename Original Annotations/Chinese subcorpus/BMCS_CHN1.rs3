@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿米盖尔•德•塞万提斯图书馆-西班牙驻上海总领事馆文化处
+</segment>
+    <segment id="2">自中心成立以来，我们始终致力于通过开设适应不同学习需求的西班牙语课程、组织各种形式的文化活动和沙龙作坊, </segment>
+    <segment id="3">以及面向公众的米盖尔·德·塞万提图书馆来推广西班牙语言教学及宣传西班牙语国家的文化。
+</segment>
+    <segment id="4">我们文化处从属西班牙驻上海总领事馆和塞万提斯学院，塞万提斯学院创建于 1991 年，旨在推动西班牙语教学、传播西班牙及其他西班牙语国家的文化。</segment>
+    <segment id="5">推广的内容包括对西班牙或者西班牙语国家的文学家或艺术家在音乐、历史、哲学思想、科技、舞台艺术、造型艺术、电影、视觉艺术以及在西班牙语国家文化范畴中标志性元素等各个领域的展示，</segment>
+    <segment id="6">推广的实体工作就是倡议或组织各种丰富多彩的文化活动。
+</segment>
+    <segment id="7">另外，文化处还负责：
+</segment>
+    <segment id="8">• 推广西班牙及拉美文化
+</segment>
+    <segment id="9">• 米盖尔·德·塞万提斯图书馆向所有公众提供馆藏，</segment>
+    <segment id="10">包括9000多本书籍，音像资料以及多媒体教室
+</segment>
+    <segment id="11">• 推进与其他当地组织或其他西班牙及拉美组织的合作，开展文化交流合作
+</segment>
+    <segment id="12">• 组织西班牙语水平认证考试（ DELE ），</segment>
+    <segment id="13">对学员颁发官方学位证书、证明 
+</segment>
+    <segment id="14">• 提供D.E.L.E考试监考老师以及AVE(西班牙语网络课程)老师的培训</segment>
+  </body>
+</rst>

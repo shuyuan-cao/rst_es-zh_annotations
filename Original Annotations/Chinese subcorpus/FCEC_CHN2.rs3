@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿发展目标
+</segment>
+    <segment id="2">西中理事基金会是一家非盈利性私人机构，</segment>
+    <segment id="3">它创建在2004年，</segment>
+    <segment id="4">主要任务是推广中国和西班牙两国之间的外交关系，</segment>
+    <segment id="5">改善和提高西班牙在中国的形象和地位。</segment>
+    <segment id="6">基金会和西班牙政府，特别是外交部密切合作，</segment>
+    <segment id="7">从民间机构的角度补充和支持政府的外交行动。
+</segment>
+    <segment id="8">我们的目标是加强双边在全球化进程中的交流和合作，这一合作涉及各个领域，经济，文化，教育，司法等，</segment>
+    <segment id="9">为此我们推出了不同的计划和活动，</segment>
+    <segment id="10">强调发展对华关系的重要性。
+</segment>
+    <segment id="11">基金会的理事会是其行政和管理机构，它由企业，大学，市政府，商学院，文化和体育机构等组成。</segment>
+    <segment id="12">它们共同的宗旨是成为各行各界发展对华关系的领军。</segment>
+    <segment id="13">同时，理事会成员分布在行政各个部门，</segment>
+    <segment id="14">促进公共部门和私人企业之间的合作和对话。
+</segment>
+    <segment id="15">理事会在每年的年度行动计划中把各项活动的细节予以公布，其中重要的活动如下：
+</segment>
+    <segment id="16">西中论坛，及其常设秘书处，是中西两国民间对话的主要平台，</segment>
+    <segment id="17">作为两国政府大力支持的合作机构，</segment>
+    <segment id="18">它的发展日益巩固。</segment>
+    <segment id="19">第一次西中论坛是2003年在北京举行的，</segment>
+    <segment id="20">此后，每隔一年半分别在每个国家举办一次，</segment>
+    <segment id="21">通过参加论坛，</segment>
+    <segment id="22">两个国家的各界人士加强联系，</segment>
+    <segment id="23">推广其海外项目的执行。
+</segment>
+    <segment id="24">另一个在西班牙进行的项目是“未来中国领袖计划”，这是基金会最为突出的活动之一。</segment>
+    <segment id="25">根据该计划，中国每年派出十名来自某一领域的重要职位的负责人和具有发展前景的精英人士前来西班牙学习访问。</segment>
+    <segment id="26">他们的意见和建议颇具预见性，对西班牙的社会文化现实具有客观的评论，</segment>
+    <segment id="27">他们的来访为西班牙和中国各行业的精英人士建立了联络的纽带。</segment>
+    <segment id="28">在返回中国后，他们会成为“西班牙中国俱乐部”的成员，</segment>
+    <segment id="29">为促进两国合作继续努力。
+</segment>
+    <segment id="30">基金会还通过颁发基金会奖向西班牙和中国在促进两国相互了解和交流上作出突出贡献的的机构和人士进行表彰。
+</segment>
+    <segment id="31">最后，基金会作为常设代表机构，</segment>
+    <segment id="32">还负责协调两国间的官方访问，</segment>
+    <segment id="33">参加合作机构组织的活动，</segment>
+    <segment id="34">或是安排与两国知名人士会面等。
+</segment>
+    <segment id="35">基金会欢迎和我们拥有共识的机构加入到我们中间来。</segment>
+  </body>
+</rst>

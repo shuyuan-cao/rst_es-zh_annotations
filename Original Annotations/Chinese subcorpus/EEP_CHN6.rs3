@@ -1,0 +1,52 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿西班牙女摄影师马尔塔•索尔参加2015北京国际摄影周
+</segment>
+    <segment id="2">西班牙女摄影家马尔塔•索尔首次参加北京国际摄影周展出其作品《马尔塔•索尔和她的西班牙》，</segment>
+    <segment id="3">反映了女性在当今西班牙就业背景下寻找理想工作的现实。</segment>
+    <segment id="4">本次展览邀请到XD文化平台创始人苏珊娜•桑斯作为策展人，受到西班牙驻华大使馆支持，是本届摄影周的个展之一。
+</segment>
+    <segment id="5">“北京国际摄影周2015”由中华人民共和国文化部和北京市人民政府主办，</segment>
+    <segment id="6">中国艺术摄影学会、中国摄影家协会、新华通讯社图片中心及北京歌华文化发展集团承办，</segment>
+    <segment id="7">中国艺术研究院摄影艺术研究所和北京市中华世纪坛艺术基金会协办。 </segment>
+    <segment id="8">摄影周将于2015年10月24日至11月1日在北京中华世纪坛举办。</segment>
+    <segment id="9">本届活动以“影像•世纪”为主题，</segment>
+    <segment id="10">回顾经典，</segment>
+    <segment id="11">探索未来。</segment>
+  </body>
+</rst>

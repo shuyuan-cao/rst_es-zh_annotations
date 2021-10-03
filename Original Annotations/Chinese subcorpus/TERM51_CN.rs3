@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">地名标准化过程中地理专业术语存在的问题
+</segment>
+    <segment id="2">即将在国际术语大会上呈现的内容源自一份由巴斯克政府语言政策分管部门信息研究中心要求提供的资料，该资料首次出现在巴斯克语咨询会理事地名学研究特别委员会于九月份在圣塞瓦斯蒂安举办的第一届会议上。
+</segment>
+    <segment id="3">地理学术语具体指与地名学相关的术语。</segment>
+    <segment id="4">近十年来，德乌斯特大学DEIKER研究院进行了一系列巴斯克自治区的地名标准化工作，</segment>
+    <segment id="5">从中发现了地名学术语标准化的必要性。</segment>
+    <segment id="6">在巴斯克和纳瓦拉地区出现的地理标准化不稳定的现象同样也表现在混乱的地理词汇使用上，这种现象每天都随处可见，比如在地图、路标、课本、媒体等等媒介中，</segment>
+    <segment id="7">每个人都在按照自己的标准使用地理学术语，</segment>
+    <segment id="8">导致了词语使用混乱和不统一的情况。
+</segment>
+    <segment id="9">在联合国关于地理名称标准化的第一次大会上，地理学术语以及词汇表的制备为主要内容（Genova，1967）。
+</segment>
+    <segment id="10">第19A项建议直指对上述现象的研究：</segment>
+    <segment id="11">“建议开始研究各个相关地区有名字的地理实体以及该地理实体名字所使用单词的各方面意义……”
+</segment>
+    <segment id="12">在详细描述各个具体要素之前，</segment>
+    <segment id="13">我们需首先确认与地理术语相关的地名的概念。</segment>
+    <segment id="14">
+通过定义可以看出，地名或地理名称是一个“由特定元素构成的一个独有的名字，</segment>
+    <segment id="15">并且多数情况下是一个常见或共有的元素。</segment>
+    <segment id="16">最后一点从普遍意义上确定了地理实体的本质，</segment>
+    <segment id="17">而特定元素则指出了地名的特殊性。
+</segment>
+    <segment id="18">例如安伯托（Anboto）山、拉蒙-卡哈尔（Ramón y Cajal）大街、伊拜萨巴（Ibaizabal）河、奥尔加山丘（Alto de la Horca）等，地名自身的定义引导我们判断地理术语的重要性，</segment>
+    <segment id="19">同时我们也注意到在进行地名标准化时需要提出两个版本（巴斯克语和西班牙语）。</segment>
+    <segment id="20">概括地讲，这意味着共有元素可通过翻译而来，</segment>
+    <segment id="21">而特定元素需要保持不变。</segment>
+    <segment id="22">例如上文中列出的英语标准化地名，其巴斯克语版本分别为Anbotoko atxa、Ramón y Cajal etorbidea (?)、Ibaizabal、La Horca gaina (?)。
+</segment>
+    <segment id="23">下文我们将指出几点关于这个话题的思考：
+</segment>
+    <segment id="24">1.-我们并不了解一些共有元素的确切意义，比如：“Alto（山丘，高的）”、“gaina”（港口、山、山峰……）
+</segment>
+    <segment id="25">2.-“标准化”的地理名称归属毫无根据。</segment>
+    <segment id="26">例如，在德乌斯特区有两条“大街”，</segment>
+    <segment id="27">而实际上它们并不属于同一个范畴，拉蒙-卡哈尔（Ramón y Cajal）大街其实是“路”，Lehendakari Agirre大街才是真正的“大街”。
+</segment>
+    <segment id="28">3.- 缺乏标准化的地理术语库。</segment>
+    <segment id="29">例如，根据对应的市政府提供的资料，将“avenida(大街)”翻译成“ibilbidea（路线）”、“etorbidea（大道）”和“pasealekua（步道）”，根据作者或研究单位的资料将“pico（山峰）”翻译成“gallur”、“haitzorrotza”、“haizpunta”、“mokorra（岩石块）”、“mokoa（鸟嘴）”、“punta（尖）”、“tontorra（峰会）”等（DEIKER, Elhuyar, 纳瓦拉大区政府、Euskaltzaindia……）。
+</segment>
+    <segment id="30">在陈述完上述观点后，本文将围绕下列问题展开：
+</segment>
+    <segment id="31">1.- 从“地理学术语使用者”的角度来分析其中出现的问题。
+</segment>
+    <segment id="32">2.- 地名标准化中地理专业术语标准化的重要性和必要性。</segment>
+    <segment id="33">将采用联合国以及各专家提出的建议。
+</segment>
+    <segment id="34">3.- 德乌斯特大学DEIKER学院进行的地名标准化工作中研究的地理术语处理项目总结。
+</segment>
+    <segment id="35">4.- 小结。致辞和提问。</segment>
+  </body>
+</rst>

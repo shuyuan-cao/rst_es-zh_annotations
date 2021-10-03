@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿大学教育和专业培训中爱尔兰语术语的建立
+</segment>
+    <segment id="2">费恩特（Fiontar）是一个隶属于都柏林城市大学的机构，</segment>
+    <segment id="3">用爱尔兰语教授金融、计算机以及企业管理学士学位的课程。</segment>
+    <segment id="4">尽管老师和学生都能正确使用爱尔兰语，</segment>
+    <segment id="5">但是他们从未有机会熟悉该学科所需的大量技术术语。</segment>
+    <segment id="6">这里所有课程都用爱尔兰语授课，</segment>
+    <segment id="7">课堂上使用的全部术语也就应该通过爱尔兰语来表达。</segment>
+    <segment id="8">因此，学校建立了一个双语（爱尔兰语和英语）的术语库，</segment>
+    <segment id="9">以方便金融、计算机和企业管理学士专业的老师和同学使用。
+</segment>
+    <segment id="10">VOCALL（较少使用和教授语言的专业语言学习）项目由欧盟委员会建立，</segment>
+    <segment id="11">隶属于莱奥纳多·达·芬奇计划，</segment>
+    <segment id="12">由都柏林城市大学（都柏林，爱尔兰）协作参与。</segment>
+    <segment id="13">该计划旨在为学生提供信息学、文秘以及工程学专业的语言学习工具，</segment>
+    <segment id="14">围绕包括爱尔兰语在内的被较少使用和教授的语言展开。</segment>
+    <segment id="15">VOCALL项目正处于收集信息学、文秘以及工程学专业术语多语种词汇的阶段，</segment>
+    <segment id="16">这意味着即将创建一系列上述领域的爱尔兰语新术语。
+</segment>
+    <segment id="17">在爱尔兰语术语委员会(An Coiste Téarmaíochta)的协助下，</segment>
+    <segment id="18">Fiontar和VOCALL正逐渐满足大学教育和职业培训中建立爱尔兰语术语库的需求。</segment>
+    <segment id="19">此次报告将研究这两个组织在创建新术语过程中使用的方法，</segment>
+    <segment id="20">同时还将描述在促进爱尔兰语新建立的标准化术语过程中所发现的问题。</segment>
+  </body>
+</rst>

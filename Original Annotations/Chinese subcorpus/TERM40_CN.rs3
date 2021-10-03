@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿阿根廷法律信息系统分类词典对于法律术语的贡献
+</segment>
+    <segment id="2">法律领域中的计算机技术应用即为法律信息学，</segment>
+    <segment id="3">而法律资料信息学则是围绕法律数据库展开的。
+</segment>
+    <segment id="4">法律数据库基本上包含与法律领域三个主要起源一一对应的三类文件：法理学、立法和犯罪学。
+</segment>
+    <segment id="5">数据库分为公共数据库和私人数据库。</segment>
+    <segment id="6">国家司法部下属的阿根廷法律信息系统是我国唯一的公共数据库，</segment>
+    <segment id="7">目前该数据库资料数多达510000份以上。
+</segment>
+    <segment id="8">本文旨在描述系统用户在进行某专题信息内容复原时使用的语言工具：法律分类词典。</segment>
+  </body>
+</rst>

@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿术语数据库的设计与管理：一个永久的挑战
+</segment>
+    <segment id="2">自从计算机实现了语言信息存储及加工功能，</segment>
+    <segment id="3">术语便从未停止其适应各种技术创新的脚步，</segment>
+    <segment id="4">从过去开始直到今天，这都是术语和信息技术领域一项永久的挑战。
+</segment>
+    <segment id="5">确实，术语数据库的设计和管理无论在理论和方法论</segment>
+    <segment id="6">（如何表示一个术语？</segment>
+    <segment id="7">有最简单的表达方法吗？</segment>
+    <segment id="8">术语之间如何分类？），</segment>
+    <segment id="9">乃至信息学范围内都带来了种种疑问</segment>
+    <segment id="10">（术语数据库应采用哪种结构？</segment>
+    <segment id="11">应考虑到哪些联系？</segment>
+    <segment id="12">字典应统一成什么样？）。
+</segment>
+    <segment id="13">我们需要找到一个能够在实际情况中有效应用的解决方案，</segment>
+    <segment id="14">这也促使我们在进行专项研究时，</segment>
+    <segment id="15">不仅要兼顾上述理论原则，</segment>
+    <segment id="16">还应考虑在术语和信息学方面采用不同的方法论。</segment>
+    <segment id="17">同时，我们还应该面对上述问题，进行术语研究并整合相关结果。</segment>
+  </body>
+</rst>

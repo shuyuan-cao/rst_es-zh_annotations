@@ -1,0 +1,50 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="attribution" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="list" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1">﻿巴塞罗那孔子学院院长访问比克大学
+</segment>
+    <segment id="2">2015年10月27日星期二，巴塞罗那孔子学院中方院长常世儒先生和外方院长Helena Casas-Tost 女士出访了比克大学。
+</segment>
+    <segment id="3">在比克大学国际关系学院副院长Joan Masnou先生和主管外国研究与研究生合作的协调员Montse Corrius女士的陪同下，</segment>
+    <segment id="4">两位院长参观了整个校园，走访了大学的各个学院。</segment>
+    <segment id="5">比克大学有着悠久的历史，</segment>
+    <segment id="6">它的成立可以追溯到1599年建立的比克文学大学。</segment>
+    <segment id="7">如今比克大学的办学规模逐渐增大，现已拥有超过20000名学生。</segment>
+    <segment id="8">2014年12月16日，比克大学与巴塞罗那孔子学院签订了合作协议，</segment>
+    <segment id="9">促进双方教学与学术方面的交流合作。</segment>
+  </body>
+</rst>
