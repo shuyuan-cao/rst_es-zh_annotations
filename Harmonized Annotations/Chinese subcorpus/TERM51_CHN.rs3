@@ -1,0 +1,103 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="57" relname="preparation">地名标准化过程中地理专业术语存在的问题
+</segment>
+    <segment id="2" parent="70" relname="list">即将在国际术语大会上呈现的内容源自一份由巴斯克政府语言政策分管部门信息研究中心要求提供的资料，该资料首次出现在巴斯克语咨询会理事地名学研究特别委员会于九月份在圣塞瓦斯蒂安举办的第一届会议上。
+</segment>
+    <segment id="3" parent="17" relname="span">地理学术语具体指与地名学相关的术语。近十年来，德乌斯特大学DEIKER研究院进行了一系列巴斯克自治区的地名标准化工作，从中发现了地名学术语标准化的必要性。</segment>
+    <segment id="5" parent="60" relname="span">在巴斯克和纳瓦拉地区出现的地理标准化不稳定的现象同样也表现在混乱的地理词汇使用上，这种现象每天都随处可见，</segment>
+    <segment id="6" parent="43" relname="span">比如在地图、路标、课本、媒体等等媒介中，每个人都在按照自己的标准使用地理学术语，</segment>
+    <segment id="33" parent="6" relname="result">导致了词语使用混乱和不统一的情况。
+</segment>
+    <segment id="7" parent="71" relname="span">在联合国关于地理名称标准化的第一次大会上，地理学术语以及词汇表的制备为主要内容（Genova，1967）。
+</segment>
+    <segment id="35" parent="36" relname="preparation">第19A项建议直指对上述现象的研究：</segment>
+    <segment id="36" parent="38" relname="span">“建议开始研究各个相关地区有名字的地理实体以及该地理实体名字所使用单词的各方面意义……”
+</segment>
+    <segment id="37" parent="69" relname="circumstance">在详细描述各个具体要素之前，</segment>
+    <segment id="69" parent="21" relname="span">我们需首先确认与地理术语相关的地名的概念。</segment>
+    <segment id="8" parent="9" relname="span">
+通过定义可以看出，地名或地理名称是一个“由特定元素构成的一个独有的名字，并且多数情况下是一个常见或共有的元素。</segment>
+    <segment id="10" parent="64" relname="contrast">最后一点从普遍意义上确定了地理实体的本质，</segment>
+    <segment id="63" parent="64" relname="contrast">而特定元素则指出了地名的特殊性。
+</segment>
+    <segment id="11" parent="12" relname="span">例如安伯托（Anboto）山、拉蒙-卡哈尔（Ramón y Cajal）大街、伊拜萨巴（Ibaizabal）河、奥尔加山丘（Alto de la Horca）等，地名自身的定义引导我们判断地理术语的重要性，同时我们也注意到在进行地名标准化时需要提出两个版本（巴斯克语和西班牙语）。</segment>
+    <segment id="13" parent="41" relname="contrast">概括地讲，这意味着共有元素可通过翻译而来，</segment>
+    <segment id="14" parent="41" relname="contrast">而特定元素需要保持不变。</segment>
+    <segment id="15" parent="41" relname="elaboration">例如上文中列出的英语标准化地名，其巴斯克语版本分别为Anbotoko atxa、Ramón y Cajal etorbidea (?)、Ibaizabal、La Horca gaina (?)。
+</segment>
+    <segment id="16" parent="34" relname="span">下文我们将指出几点关于这个话题的思考：
+</segment>
+    <segment id="42" parent="53" relname="list">1.-我们并不了解一些共有元素的确切意义，比如：“Alto（山丘，高的）”、“gaina”（港口、山、山峰……）
+</segment>
+    <segment id="19" parent="32" relname="span">2.-“标准化”的地理名称归属毫无根据。</segment>
+    <segment id="24" parent="19" relname="elaboration">例如，在德乌斯特区有两条“大街”，而实际上它们并不属于同一个范畴，拉蒙-卡哈尔（Ramón y Cajal）大街其实是“路”，Lehendakari Agirre大街才是真正的“大街”。
+</segment>
+    <segment id="20" parent="53" relname="list">3.- 缺乏标准化的地理术语库。例如，根据对应的市政府提供的资料，将“avenida(大街)”翻译成“ibilbidea（路线）”、“etorbidea（大道）”和“pasealekua（步道）”，根据作者或研究单位的资料将“pico（山峰）”翻译成“gallur”、“haitzorrotza”、“haizpunta”、“mokorra（岩石块）”、“mokoa（鸟嘴）”、“punta（尖）”、“tontorra（峰会）”等（DEIKER, Elhuyar, 纳瓦拉大区政府、Euskaltzaindia……）。
+</segment>
+    <segment id="26" parent="56" relname="span">在陈述完上述观点后，本文将围绕下列问题展开：
+</segment>
+    <segment id="27" parent="55" relname="list">1.- 从“地理学术语使用者”的角度来分析其中出现的问题。
+</segment>
+    <segment id="28" parent="55" relname="list">2.- 地名标准化中地理专业术语标准化的重要性和必要性。将采用联合国以及各专家提出的建议。
+</segment>
+    <segment id="29" parent="55" relname="list">3.- 德乌斯特大学DEIKER学院进行的地名标准化工作中研究的地理术语处理项目总结。
+</segment>
+    <segment id="30" parent="55" relname="list">4.- 小结。致辞和提问。</segment>
+<group id="38" type="span" parent="7" relname="elaboration" />
+<group id="41" type="multinuc" parent="67" relname="span" />
+<group id="64" type="multinuc" parent="8" relname="elaboration" />
+<group id="71" type="span" parent="70" relname="list" />
+<group id="32" type="span" parent="53" relname="list" />
+<group id="53" type="multinuc" parent="16" relname="elaboration" />
+<group id="60" type="span" parent="3" relname="elaboration" />
+<group id="21" type="span" parent="66" relname="span" />
+<group id="43" type="span" parent="5" relname="evidence" />
+<group id="67" type="span" parent="11" relname="interpretation" />
+<group id="17" type="span" parent="70" relname="list" />
+<group id="70" type="multinuc" parent="52" relname="background" />
+<group id="9" type="span" parent="40" relname="span" />
+<group id="12" type="span" parent="9" relname="elaboration" />
+<group id="40" type="span" parent="21" relname="elaboration" />
+<group id="66" type="span" parent="52" relname="sequence" />
+<group id="34" type="span" parent="52" relname="sequence" />
+<group id="55" type="multinuc" parent="26" relname="elaboration" />
+<group id="56" type="span" parent="52" relname="sequence" />
+<group id="52" type="multinuc" parent="57" relname="span" />
+<group id="57" type="span" parent="58" relname="span" />
+<group id="58" type="span" />
+  </body>
+</rst>

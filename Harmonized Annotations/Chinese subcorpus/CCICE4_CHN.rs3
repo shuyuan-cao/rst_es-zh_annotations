@@ -1,0 +1,58 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="preparation">﻿BBVA葡萄牙分行将关闭26个营业点并解雇187名员工
+</segment>
+    <segment id="3" parent="9" relname="span">西班牙BBVA银行将关闭葡萄牙分行26个营业点，并解雇187名员工，继续降低该国的营运成本。 </segment>
+    <segment id="5" parent="17" relname="span">因此，BBVA将不断缩小葡萄牙的营业点，</segment>
+    <segment id="6" parent="5" relname="evidence">直到最后剩下12个。
+</segment>
+    <segment id="7" parent="9" relname="elaboration">由于BBVA在葡萄牙的业务持续出现亏损，之前已关闭葡萄牙81个营业点中的43个，并辞退177名工作人员。
+</segment>
+    <segment id="10" parent="14" relname="attribution">尽管如此，BBVA方面表示，</segment>
+    <segment id="16" parent="14" relname="span">将绝对不会退出葡萄牙市场，</segment>
+    <segment id="11" parent="16" relname="cause">因为该国与西班牙有重大关系，为世界上主要的地理中心。
+</segment>
+    <segment id="12" parent="4" relname="background">据悉，2014年BBVA在葡萄牙亏损达6000万欧元，今年仅第一季度亏损1140万欧元。</segment>
+<group id="17" type="span" parent="3" relname="result" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="8" relname="antithesis" />
+<group id="9" type="span" parent="8" relname="span" />
+<group id="8" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="2" relname="span" />
+<group id="2" type="span" />
+  </body>
+</rst>

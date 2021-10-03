@@ -1,0 +1,49 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="preparation">西班牙管弦乐团12月3日在国家大剧院演出
+</segment>
+    <segment id="2" parent="10" relname="span">唐吉诃德，这部由塞万提斯撰写的小说分别在1905年和1915年共出版了两卷，被认为是西班牙黄金时代甚至整个西班牙文学史上的文学著作。</segment>
+    <segment id="3" parent="9" relname="span">在塞万提斯的作品中可以找到西班牙十六、七世纪许多传统音乐和舞蹈的灵感。</segment>
+    <segment id="4" parent="3" relname="elaboration">他的作品是一个影响戏剧表演的音乐元素集合，诠释着戏剧性的场景或人物，当中不乏有音乐家，当然也包括堂吉诃德。
+</segment>
+    <segment id="5" parent="8" relname="span">自1987年创建以来，由卡勒斯·玛格拉内尔指挥的古典管弦音乐团从中世纪到十九世纪以来为西班牙音乐遗产的传承做出了许多研究性音乐学的工作。</segment>
+    <segment id="6" parent="5" relname="result">这些成果都转变成了音乐的见证， 汇聚成为三个因素的完美结合：历史的严谨、音乐的感性和无法抑制的沟通欲望。正是这些因素给我们以身临其境的感受。</segment>
+<group id="9" type="span" parent="2" relname="elaboration" />
+<group id="10" type="span" parent="8" relname="background" />
+<group id="8" type="span" parent="7" relname="span" />
+<group id="7" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+  </body>
+</rst>

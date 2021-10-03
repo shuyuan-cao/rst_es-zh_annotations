@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="preparation">﻿学院介绍
+</segment>
+    <segment id="2" parent="14" relname="span">塞万提斯学院创建于1991年，</segment>
+    <segment id="3" parent="2" relname="purpose">旨在推动西班牙语教学、传播西班牙及其他西班牙语国家的文化。</segment>
+    <segment id="4" parent="14" relname="elaboration">塞万提斯学院的总部设在马德里及西班牙著名作家米盖尔·塞万提斯的故乡阿尔卡拉·德·埃纳雷斯（马德里大区）。
+</segment>
+    <segment id="5" parent="18" relname="elaboration">塞万提斯学院目前在世界四大洲拥有70多所分院，北京塞万提斯学院是这些学院中最重要的之一，它是中国的第一所分院。
+</segment>
+    <segment id="6" parent="15" relname="preparation">另外，塞万提斯学院还负责：
+</segment>
+    <segment id="7" parent="15" relname="list">• 组织西班牙语水平认证考试（DELE），对学员颁发官方学位证书、证明
+</segment>
+    <segment id="8" parent="15" relname="list">• 开设西班牙语课程
+</segment>
+    <segment id="9" parent="15" relname="list">• 开设对西班牙语教师的培训课程
+</segment>
+    <segment id="10" parent="15" relname="list">• 为西班牙语语言文学研究者的研究活动提供支持
+</segment>
+    <segment id="11" parent="15" relname="list">• 与其他机构合作组织文化活动
+</segment>
+    <segment id="12" parent="17" relname="span">塞万提斯学院由西班牙及西班牙语美洲的学术界、文化界、文学界的代表人物领导工作。</segment>
+    <segment id="13" parent="12" relname="elaboration">北京塞万提斯学院与艺术馆、画廊、出版社及中国、西班牙、拉丁美洲其他各文化机构合作组织各类文化活动。</segment>
+<group id="15" type="multinuc" parent="16" relname="span" />
+<group id="16" type="span" parent="19" relname="elaboration" />
+<group id="17" type="span" parent="20" relname="elaboration" />
+<group id="14" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" />
+  </body>
+</rst>

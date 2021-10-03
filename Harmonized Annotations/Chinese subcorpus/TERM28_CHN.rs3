@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="22" relname="preparation">﻿　　法律翻译文件中巴斯克语术语的构建办法
+</segment>
+    <segment id="2" parent="20" relname="span">　　此次报告旨在说明在一个完全属于某一领域的语料中确定和分析巴斯克语法律术语使用的方法。</segment>
+    <segment id="3" parent="4" relname="span">我们放弃了术语处理中通常使用的办法，</segment>
+    <segment id="26" parent="3" relname="solutionhood">将研究建立在三个方面：信息资源、语料语言学特性以及翻译学研究。</segment>
+    <segment id="5" parent="35" relname="list">一般而言，法律都建立在权利之上，</segment>
+    <segment id="33" parent="35" relname="list">考虑到法律术语中立法的重要性，</segment>
+    <segment id="32" parent="31" relname="span">我们把研究范围定为巴斯克议会法的制定。</segment>
+    <segment id="6" parent="28" relname="cause">由于巴斯克语版本都译自西班牙语，</segment>
+    <segment id="28" parent="29" relname="span">为了今后能找到与巴斯克语相对应的情况，鉴于西班牙语的法律术语已充分汇总在相关的学术字典中，我们以西班牙语版本为基础进行研究。</segment>
+    <segment id="7" parent="37" relname="sequence">在得到两种语言的完整文件之后，</segment>
+    <segment id="24" parent="37" relname="sequence">我们着手对比并一一对照两个版本，</segment>
+    <segment id="21" parent="37" relname="purpose">明确具有相同含义段落的数量。</segment>
+    <segment id="8" parent="18" relname="sequence">之后，借助特定的应用程序，比较较早制定好的西班牙语法规主要条款以及巴斯克语版本的上下文段落和具有相同编码的段落。</segment>
+    <segment id="9" parent="17" relname="list">接下来，我们指出巴斯克语段落中包含与西班牙语相同内容的部分，</segment>
+    <segment id="10" parent="17" relname="list">并将其移至关联数据库。</segment>
+    <segment id="11" parent="12" relname="list">用此方法我们能够了解到是否出现术语，属于法律的哪个范畴，巴斯克语法律术语的完善程度，以及哪些巴斯克语段落在句法结构上与西班牙语术语完全相同等。</segment>
+    <segment id="13" parent="12" relname="list">同时，上述句法将影响到法律专业的讲话方式，并按照相同的方法进行分析。</segment>
+<group id="17" type="multinuc" parent="18" relname="sequence" />
+<group id="12" type="multinuc" parent="18" relname="result" />
+<group id="4" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="2" relname="elaboration" />
+<group id="35" type="multinuc" parent="32" relname="justify" />
+<group id="31" type="span" parent="19" relname="span" />
+<group id="29" type="span" parent="31" relname="elaboration" />
+<group id="37" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="18" relname="sequence" />
+<group id="18" type="multinuc" parent="14" relname="span" />
+<group id="14" type="span" parent="20" relname="means" />
+<group id="19" type="span" parent="4" relname="elaboration" />
+<group id="20" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" />
+  </body>
+</rst>

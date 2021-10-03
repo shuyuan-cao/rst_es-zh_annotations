@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="preparation">﻿学院的具体
+</segment>
+    <segment id="2" parent="27" relname="span">格拉纳达大学孔子学院是在中国国家汉办领导下，在格拉纳达大学和北京大学合作协议基础上建立的非营利机构，其主要宗旨是在格拉纳达乃至整个安达卢西亚大区推广中国语言和文化，通过开展各种与此相关的活动，为各界民众提供机会，了解和学习中国语言和文化。
+</segment>
+    <segment id="6" parent="26" relname="list">格拉纳达大学的汉语教学始自1987年，二十多年来已开设了各种与中国历史、文学、思想相关的课程，而格大孔院要将这种深厚的汉学研究传统继续发扬光大，与格拉纳达大学中像亚洲研究会这样的学术组织，以及其它国内外个相关机构精诚合作，努力开展各种活动，以满足社会各界不断增长的需求。
+</segment>
+    <segment id="10" parent="12" relname="span">孔子学院坐落在格拉纳达市中心的“宪法大道”旁，</segment>
+    <segment id="11" parent="10" relname="elaboration">它名下的图书馆中将会存有汉办捐赠的图书，同时也会源源不断地补充添加新的书籍。
+</segment>
+    <segment id="13" parent="30" relname="span">孔子学院的具体目标是：
+</segment>
+    <segment id="14" parent="29" relname="list">1. 实现包括不同级别的、满足多方需求的汉语教学，比如正在筹备当中的商务汉语
+</segment>
+    <segment id="15" parent="29" relname="list">2. 对汉语教育的师资人才进行培养和完善
+</segment>
+    <segment id="16" parent="29" relname="list">3. 组织进行中国教育部主办的年度HSK考试，学生通过此考试可以有机会到中国的大学学习
+</segment>
+    <segment id="17" parent="29" relname="list">4. 以举办讲座、课程及各类活动来推广中国文化
+</segment>
+    <segment id="18" parent="29" relname="list">5. 成为中国社会与文化信息的交流中心，它将面向所有对该领域感兴趣的社会人士
+</segment>
+    <segment id="19" parent="29" relname="list">6. 为汉语和中国文化的传播与学习提供各种学习资料
+</segment>
+    <segment id="20" parent="28" relname="span">格拉纳达大学孔子学院拥有一个由西班牙人与中国人共同组成的专业团队，我们持之以恒，</segment>
+    <segment id="21" parent="20" relname="purpose">致力于为您提供最佳的教学与管理。</segment>
+<group id="29" type="multinuc" parent="13" relname="elaboration" />
+<group id="28" type="span" parent="27" relname="elaboration" />
+<group id="30" type="span" parent="26" relname="list" />
+<group id="12" type="span" parent="26" relname="list" />
+<group id="26" type="multinuc" parent="2" relname="elaboration" />
+<group id="27" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="7" relname="span" />
+<group id="7" type="span" />
+  </body>
+</rst>

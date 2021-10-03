@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="22" relname="preparation">﻿巴塞罗那孔子学院成功举办2015年加泰罗尼亚大区教师培训
+</segment>
+    <segment id="2" parent="16" relname="span">2015年10月25日，巴塞罗那孔子学院组织并举办了为期一天的本土汉语教师培训。</segment>
+    <segment id="3" parent="2" relname="elaboration">本次培训共邀请了来自西班牙各个地区的70名汉语教师。</segment>
+    <segment id="4" parent="14" relname="span">本次培训从上午10时开始。</segment>
+    <segment id="5" parent="19" relname="sequence">由巴塞罗那孔子学院中方院长常世儒致辞。</segment>
+    <segment id="6" parent="7" relname="list">这次培训有几个亮点，一是由汉办支持，从国内派来了长城汉语的开发人宋继华博士，不仅仅给老师们介绍《长城汉语》的使用和优点，</segment>
+    <segment id="8" parent="7" relname="list">还推介了国际汉语教学资源平台，</segment>
+    <segment id="9" parent="20" relname="list">亮点之二就是孔子学员的外方院长，巴塞罗那自治大学的汉语教师爱莲娜就“对外汉语教学法在教学中的实践运用”，</segment>
+    <segment id="10" parent="20" relname="list">并分享了很多自己在汉语教学中的练习和经验，从一个外国人的角度阐释了教授汉语的心得。</segment>
+    <segment id="11" parent="23" relname="sequence">下午由拉萨耶教学集团的吉罗那中学的校长谈论了其学校教授和学习汉语的经验，</segment>
+    <segment id="12" parent="23" relname="sequence">来自其学校的本土老师洪海峰当场示范了如何在当地开展针对儿童的汉语教学。</segment>
+    <segment id="13" parent="27" relname="sequence">之后进行了圆桌会议的讨论，全体与会教师就汉字书写等问题进行了讨论，并就海外汉语教学中的疑惑和经验展开了深入的交流。
+</segment>
+    <segment id="15" parent="21" relname="sequence">培训结束后，我院为参加本次培训的每位教师颁发了汉办制作和巴塞罗那孔子学院制作的教学培训证书。</segment>
+<group id="16" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="28" relname="span" />
+<group id="23" type="multinuc" parent="27" relname="sequence" />
+<group id="27" type="multinuc" parent="21" relname="sequence" />
+<group id="20" type="multinuc" parent="19" relname="sequence" />
+<group id="7" type="multinuc" parent="19" relname="sequence" />
+<group id="19" type="multinuc" parent="21" relname="sequence" />
+<group id="21" type="multinuc" parent="4" relname="elaboration" />
+<group id="14" type="span" parent="16" relname="elaboration" />
+<group id="28" type="span" />
+  </body>
+</rst>

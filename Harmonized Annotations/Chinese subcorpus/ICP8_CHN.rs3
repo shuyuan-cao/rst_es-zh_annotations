@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="27" relname="preparation">DELE证书
+</segment>
+    <segment id="2" parent="27" relname="span">对外西班牙语水平证书(DELE)是塞万提斯学院以西班牙教育科学部的名义颁发的官方证书，能够有效证明证书拥有者的西班牙语水平和西班牙语运用能力。</segment>
+    <segment id="4" parent="28" relname="preparation">对外西班牙语水平证书(DELE)在中国有什么价值？
+</segment>
+    <segment id="5" parent="28" relname="list">• 是证明作为外语的西班牙语或第二语言各级水平的唯一官方证书。
+</segment>
+    <segment id="6" parent="28" relname="list">• 在国际上已经获得诸多企业、商会、公立及私立教育机构的承认。
+</segment>
+    <segment id="7" parent="28" relname="list">• 足以证明在西班牙开展有语言能力要求的各项职业或学术工作所要求的语言水平。
+</segment>
+    <segment id="8" parent="28" relname="list">• 有助于申请西班牙外交部----国际合作署的各项奖学金。
+</segment>
+    <segment id="9" parent="28" relname="list">• 一经通过，终生有效。
+</segment>
+    <segment id="10" parent="30" relname="preparation">证书分以下几个级别：
+</segment>
+    <segment id="11" parent="14" relname="span">• 西班牙语水平证书A1级别 </segment>
+    <segment id="23" parent="11" relname="elaboration">级别证明拥有者的语言水平足以应对简单的交流、即时性需要和非常日常性的话题
+</segment>
+    <segment id="13" parent="16" relname="span">• 西班牙语水平证书A2级别 </segment>
+    <segment id="24" parent="13" relname="elaboration">证明拥有者能够理解日常表达和其所涉及领域相关的习惯用法，尤其是一些与自身相关的基本信息，比如自己、家庭、购物、景点、职业等等。
+</segment>
+    <segment id="15" parent="36" relname="span">• 西班牙语水平证书B1级别 </segment>
+    <segment id="26" parent="15" relname="elaboration">证明拥有者的语言水平足以理解日常生活的基本场景并做出恰当的反应，能够用基础的方式表达愿望和需求。
+</segment>
+    <segment id="18" parent="40" relname="span">• 西班牙语水平证书B2级别</segment>
+    <segment id="22" parent="18" relname="elaboration"> 证明拥有者的语言水平足以应付日常生活中发生的场景，能够应付没有语言用法特殊要求的普通交流环境。
+</segment>
+    <segment id="21" parent="39" relname="span">• 西班牙语水平证书C1级别 </segment>
+    <segment id="19" parent="21" relname="elaboration">证书拥有者的语言水平足以无阻碍的清晰表达其所思所想，拥有广泛的词汇量包括文学词汇及口语词汇，并且能够熟练运用。  
+</segment>
+    <segment id="25" parent="38" relname="span">• 西班牙语水平证书C2级别</segment>
+    <segment id="12" parent="25" relname="elaboration"> 证明拥有者的语言水平足以应付较高语言要求的场景，并且熟知语言背后蕴藏的文化。</segment>
+<group id="28" type="multinuc" parent="29" relname="span" />
+<group id="29" type="span" parent="20" relname="span" />
+<group id="27" type="span" parent="17" relname="span" />
+<group id="17" type="span" />
+<group id="14" type="span" parent="30" relname="list" />
+<group id="16" type="span" parent="30" relname="list" />
+<group id="36" type="span" parent="30" relname="list" />
+<group id="40" type="span" parent="30" relname="list" />
+<group id="39" type="span" parent="30" relname="list" />
+<group id="38" type="span" parent="30" relname="list" />
+<group id="30" type="multinuc" parent="37" relname="span" />
+<group id="37" type="span" parent="29" relname="elaboration" />
+<group id="20" type="span" parent="2" relname="elaboration" />
+  </body>
+</rst>

@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="16" relname="preparation">﻿塞尔维亚语科技类术语标准化的总体趋势：关于该趋势的批判性分析
+</segment>
+    <segment id="2" parent="6" relname="span">任何科学领域的术语库构建都是一个漫长而艰辛的过程，在过去的几十年中皆是如此。于是，不少塞尔维亚语科学术语的研究人员表示，相较于翻译和模仿，他们更倾向于借鉴英文单词的构成或直接使用英文单词来进行科学记录。</segment>
+    <segment id="5" parent="2" relname="justify">在支持不同趋势的塞尔维亚科学家之中会出现这种现象，即近几十年来，英语是科学交流中唯一公认的语言。这与他们之间的共识密不可分。
+</segment>
+    <segment id="7" parent="4" relname="span">此份报告旨在从语言学和社会语言学的角度批判性地评价上述趋势。</segment>
+    <segment id="8" parent="10" relname="list">我们将采用由布加尔斯基（Bugarski）(1988；1996)提出的一个开放式并涉及多学科的议题，</segment>
+    <segment id="9" parent="10" relname="list">并将其与一组工程学、质量控制、质量管理、信息学、经济学等学科的数据进行对比，以更好地诠释此份报告的内容。</segment>
+    <segment id="11" parent="18" relname="span">我们在论述时使用的各种数据（以及各领域专家的观点）均指出了建立一个术语评价等级的重要性。这种等级制度应获得相关科学领域的一致认可。</segment>
+    <segment id="13" parent="17" relname="list">此外，评定这种等级时应以诸如国际合作及交流等语言之外的标准为主，参照名为“塞尔维亚语现代科学多样性”的语言学规则，</segment>
+    <segment id="14" parent="17" relname="list">并在翻译和结构模仿中优先借鉴英语的有关规则。</segment>
+<group id="17" type="multinuc" parent="11" relname="elaboration" />
+<group id="6" type="span" parent="4" relname="background" />
+<group id="10" type="multinuc" parent="12" relname="span" />
+<group id="18" type="span" parent="10" relname="elaboration" />
+<group id="12" type="span" parent="7" relname="means" />
+<group id="4" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="19" relname="span" />
+<group id="19" type="span" />
+  </body>
+</rst>

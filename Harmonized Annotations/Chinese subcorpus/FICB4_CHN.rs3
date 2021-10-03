@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="17" relname="preparation">﻿关于西藏图片在西班牙加泰罗尼亚大区展出的若干事宜
+</segment>
+    <segment id="2" parent="6" relname="list">为弘扬中华民族文化，</segment>
+    <segment id="3" parent="6" relname="list">展现西藏活力，增强西班牙加泰罗尼亚大区当地各界人士及海外侨胞对西藏的感观印象，</segment>
+    <segment id="5" parent="4" relname="span">经西班牙加泰罗尼亚华侨华人社团联合总会磋商决定,做为主办方承接此次西藏图片展。
+</segment>
+    <segment id="19" parent="4" relname="elaboration">图片展将展出国内著名摄影师收集的两百多张图片。
+</segment>
+    <segment id="7" parent="26" relname="elaboration">现将具体事项列表如下
+1）主办单位
+西班牙加泰罗尼亚华侨华人社团联合总会
+2）协办单位
+西班牙巴塞罗那中华总商会
+3）承办单位
+西班牙加泰罗尼亚华侨华人社团联合总会
+4）展览日期2015年11月27日至11月30日
+5）展览地点Gran Vía de les Corts Catalanes, 585 08007 Barcelona
+西班牙加泰罗尼亚华侨华人社团联合总会</segment>
+<group id="6" type="multinuc" parent="5" relname="purpose" />
+<group id="4" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" />
+  </body>
+</rst>

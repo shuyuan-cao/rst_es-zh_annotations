@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="preparation">﻿西班牙跻身第六大房地产投资市场
+</segment>
+    <segment id="2" parent="3" relname="span">据世邦魏理仕咨询公司CBRE发布的最新全球报告显示，西班牙已超越法国、加拿大或中国，跻身第六大房地产投资市场。</segment>
+    <segment id="4" parent="2" relname="elaboration">在2013年和2014年时，西班牙分别排名第16和第11。
+</segment>
+    <segment id="5" parent="15" relname="span">西班牙名次上升的主要原因为国际资本的流入。截止6月份，国际资本在房地产投资总额中占比达31%。 </segment>
+    <segment id="7" parent="12" relname="list">今年前6个月，西班牙房地产投资额高达85亿欧元，</segment>
+    <segment id="8" parent="12" relname="list">而最新数据显示，截止8月已高达108亿欧元。
+</segment>
+    <segment id="9" parent="16" relname="summary">根据报告，今年上半年全球房地产投资总额高达4070亿美元（折合约3776.46亿欧元），为2007年以来表现最好的半年，当时为4410亿美元（约4091.93亿欧元）。</segment>
+<group id="12" type="multinuc" parent="5" relname="evidence" />
+<group id="15" type="span" parent="3" relname="cause" />
+<group id="3" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="11" relname="span" />
+<group id="11" type="span" />
+  </body>
+</rst>

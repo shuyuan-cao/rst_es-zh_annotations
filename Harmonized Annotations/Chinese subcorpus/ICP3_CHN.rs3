@@ -1,0 +1,73 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="25" relname="preparation">﻿文化活动
+</segment>
+    <segment id="2" parent="3" relname="span">北京塞万提斯学院除了开设西班牙语课程外，还负责传播西班牙及拉丁美洲文化。</segment>
+    <segment id="4" parent="27" relname="span">我们的文化活动类型多样，涵盖从展览、会议、研讨会到电影、音乐会和舞台艺术表演等多种形式。</segment>
+    <segment id="5" parent="4" relname="enablement">上述活动的举办得益于西班牙、拉美国家以及中国的相关机构、公司、公共及私人组织的合作。
+</segment>
+    <segment id="6" parent="3" relname="elaboration">北京塞万提斯学院为各个领域的专家学者提供一个交流的平台，欢迎包括作家、电影制片人、艺术家、科研人员、建筑师、历史学家在内的业界精英参与到我们的文化活动中来。
+</segment>
+    <segment id="7" parent="30" relname="preparation">如何参与我们的文化活动
+</segment>
+    <segment id="8" parent="21" relname="span">北京塞万提斯学院日常大部分文化活动在位于学院大厦一楼的展厅和多功能厅中举办，</segment>
+    <segment id="9" parent="8" relname="elaboration">部分由学院主办或协办的文化活动和艺术节在院外场所进行。
+</segment>
+    <segment id="10" parent="29" relname="span">我们的绝大部分文化活动面向公众免费开放。</segment>
+    <segment id="11" parent="12" relname="cause">由于场地有限（多功能厅限90人），</segment>
+    <segment id="12" parent="20" relname="span">建议大家在每次活动开始前，提前几分钟入场。
+</segment>
+    <segment id="13" parent="22" relname="elaboration">展厅开放时间：每周一至周日早十点至晚七点
+</segment>
+    <segment id="15" parent="19" relname="preparation">如何提前获悉我们的文化活动
+</segment>
+    <segment id="17" parent="18" relname="condition">如果您想不定期地收到我们的活动通知，</segment>
+    <segment id="18" parent="19" relname="span">请您将姓名、联系方式和预留电子邮箱地址发送至cult1pek@cervantes.es，并在邮件标题中注明“文化简报”。</segment>
+<group id="20" type="span" parent="10" relname="elaboration" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="30" relname="span" />
+<group id="27" type="span" parent="2" relname="elaboration" />
+<group id="32" type="multinuc" parent="16" relname="elaboration" />
+<group id="29" type="span" parent="21" relname="elaboration" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="32" relname="list" />
+<group id="3" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="25" relname="span" />
+<group id="19" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="32" relname="list" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" />
+  </body>
+</rst>

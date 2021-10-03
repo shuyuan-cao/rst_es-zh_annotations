@@ -1,0 +1,48 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="preparation">﻿讲习课程
+</segment>
+    <segment id="2" parent="6" relname="span">格拉纳达大学孔子学院一直致力于推广中国文化，精彩纷呈并贯穿全学年的讲习班将为您介绍中国文化的方方面面。</segment>
+    <segment id="3" parent="2" relname="interpretation">它们内容引人入胜，形式充满互动，重视交流对话，让学生们深入观察，主动参与和亲身实践广博的中国文化。</segment>
+    <segment id="7" parent="6" relname="elaboration">在这一学年中，孔子学院将举行各式各样的讲习班来完善和拓展学生们对于中国社会与文化的了解。</segment>
+    <segment id="8" parent="12" relname="span">欢迎浏览格拉纳达大学孔子学院过去举办过的讲习班的纪录，</segment>
+    <segment id="9" parent="8" relname="purpose">以便您更好地参与其中。</segment>
+<group id="12" type="span" parent="5" relname="elaboration" />
+<group id="6" type="span" parent="5" relname="span" />
+<group id="5" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="11" relname="span" />
+<group id="11" type="span" />
+  </body>
+</rst>

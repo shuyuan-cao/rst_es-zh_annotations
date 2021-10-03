@@ -1,0 +1,56 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="5" relname="preparation">西班牙研发创新国务秘书长来华
+</segment>
+    <segment id="2" parent="21" relname="span">西班牙研发创新国务秘书长 Carmen Vela 女士于本月25日-27日来华参加第八届科技联委会。</segment>
+    <segment id="3" parent="2" relname="elaboration">陪同秘书长的除其代表团外，还有西班牙国际合作与发展署代表，西班牙海洋研究所代表，西班牙驻华使馆及上海西班牙工业技术发展中心公务员。
+</segment>
+    <segment id="4" parent="9" relname="span">中国科技部长万钢接待了秘书长一行，并强调了双方合作的良好状态和重要成果，如促进中西科技企业合作的中西卡项目。</segment>
+    <segment id="7" parent="4" relname="elaboration">此次联委会中谈到的最重要的几项内容为基建材料的合作，准确地说是西班牙ALBA光源公司和上海光源公司间已有的协议及与GTC公司有关宇航用品的合作，并且双方巩固了海洋调查的合作以及西班牙高等科学研究委员会同中科院之间的合作。</segment>
+    <segment id="10" parent="18" relname="list">双方同时还肯定了战术领域方面的共同战略领域，</segment>
+    <segment id="11" parent="18" relname="list">推进具体项目，到2017年在西班牙举行的下一届科技联委会。
+</segment>
+    <segment id="12" parent="20" relname="list">此次访华行程还包括参观中科院国家天文台，国家海洋局和中国检验认证集团，</segment>
+    <segment id="13" parent="20" relname="list">并分别就海洋、宇航及可再生能源材料的问题进行了讨论。</segment>
+<group id="18" type="multinuc" parent="8" relname="list" />
+<group id="21" type="span" parent="6" relname="span" />
+<group id="20" type="multinuc" parent="6" relname="elaboration" />
+<group id="9" type="span" parent="8" relname="list" />
+<group id="8" type="multinuc" parent="21" relname="elaboration" />
+<group id="6" type="span" parent="5" relname="span" />
+<group id="5" type="span" parent="23" relname="span" />
+<group id="23" type="span" />
+  </body>
+</rst>

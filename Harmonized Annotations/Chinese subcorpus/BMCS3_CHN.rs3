@@ -1,0 +1,75 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="preparation">﻿课程种类
+</segment>
+    <segment id="2" parent="7" relname="span">我们的课程种类有各个等级的60小时西班牙语课程，形式包括VIP课程（一个学生），紧凑课程，常规课程以及周末课程。</segment>
+    <segment id="4" parent="2" relname="elaboration">此外，根据不同的需求，我们也可以提供特别内容课程，例如语法课程，对话课程，文化课程，商务课程，儿童或青少年课程，以及DELE考试或者CLIC考试准备课程。
+</segment>
+    <segment id="5" parent="22" relname="preparation">常规课程
+</segment>
+    <segment id="6" parent="22" relname="span">常规课程时长3个月，每周5小时课时分为2节课，每节课2.5小时，一般是周一、周三或者周二、周四各上一课。</segment>
+    <segment id="9" parent="23" relname="span">该课程适合学生在课堂学习之外同时积极的开展自主学习，</segment>
+    <segment id="10" parent="9" relname="elaboration">在每周不上课的日子里学生可以在家完成许多教材中的课外活动，此外也可以使用我们网络学习平台的资源西班牙语虚拟课堂。
+</segment>
+    <segment id="11" parent="27" relname="preparation">周末课程
+</segment>
+    <segment id="12" parent="26" relname="span">该课程适合工作日无法上课的同学。</segment>
+    <segment id="13" parent="12" relname="evidence">和常规课程一样，每周5小时课时，不同的是这5小时集中在同一天：周六或者周日。</segment>
+    <segment id="14" parent="26" relname="elaboration">在周末课程中，学生自主完成老师布置的课外作业也是相当重要的一点。
+</segment>
+    <segment id="15" parent="31" relname="preparation">紧凑课程
+</segment>
+    <segment id="16" parent="25" relname="disjunction">若您希望进行全面集中的语言学习</segment>
+    <segment id="8" parent="25" relname="disjunction">或者您希望短时间内提高您的语言水平，</segment>
+    <segment id="17" parent="29" relname="span">紧凑课程是一个很好的选择。</segment>
+    <segment id="18" parent="30" relname="span">该课程时长3个月，周一至周五每天4小时课时。</segment>
+    <segment id="19" parent="30" relname="elaboration">和其他种类的课程一样，课堂中会进行各种丰富多样的活动让学生能够轻易的融入西班牙语的生活环境。</segment>
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="33" relname="list" />
+<group id="23" type="span" parent="6" relname="evaluation" />
+<group id="33" type="multinuc" parent="7" relname="interpretation" />
+<group id="7" type="span" parent="3" relname="span" />
+<group id="22" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="33" relname="list" />
+<group id="25" type="multinuc" parent="17" relname="condition" />
+<group id="29" type="span" parent="18" relname="evaluation" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="33" relname="list" />
+<group id="3" type="span" parent="21" relname="span" />
+<group id="21" type="span" />
+  </body>
+</rst>

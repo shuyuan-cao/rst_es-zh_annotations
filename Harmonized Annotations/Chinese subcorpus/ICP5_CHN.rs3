@@ -1,0 +1,75 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="preparation">﻿西班牙语学习
+</segment>
+    <segment id="2" parent="20" relname="background">北京塞万提斯学院，西班牙语文化中心坐落在朝阳区的中心位置。</segment>
+    <segment id="3" parent="19" relname="list">在我们学院学习西班牙语，不仅仅是学习语言本身，</segment>
+    <segment id="4" parent="19" relname="list">同时也是学习西班牙语世界的文化。</segment>
+    <segment id="5" parent="19" relname="summary">给予你一个了解和发掘西班牙语世界不同文化的机会。
+</segment>
+    <segment id="6" parent="23" relname="preparation">北京塞万提斯学院提供丰富多样的西班牙语学习课程
+</segment>
+    <segment id="7" parent="22" relname="list">• 普通课程 2600元 
+</segment>
+    <segment id="8" parent="22" relname="list">• 紧凑课程 2600元 
+</segment>
+    <segment id="9" parent="22" relname="list">• 周末课程 2600元 
+</segment>
+    <segment id="10" parent="22" relname="elaboration">(2015年8月更新信息) 
+</segment>
+    <segment id="11" parent="25" relname="list">我们所有的老师都是以西班牙语为母语，受过对外西班牙语教学培训</segment>
+    <segment id="12" parent="25" relname="list">并且拥有对外西班牙语教学经验的老师。
+</segment>
+    <segment id="13" parent="14" relname="span">此外，塞万提斯学院拥有一个名为安东尼奥马查多的图书馆，该馆提供大量的西班牙和拉丁美洲文学作品，电影，音乐，杂志和西班牙语世界的报刊。</segment>
+    <segment id="15" parent="27" relname="list">塞万提斯学院的学生可以免费浏览该图书馆馆藏，</segment>
+    <segment id="16" parent="27" relname="list">可以借阅书籍，CD和DVD。
+</segment>
+    <segment id="17" parent="18" relname="conjunction">与此同时，我们的学生还可以参加每周与西班牙语世界有关的文化活动：观看影片，展览，音乐会......</segment>
+<group id="19" type="multinuc" parent="20" relname="span" />
+<group id="22" type="multinuc" parent="23" relname="span" />
+<group id="25" type="multinuc" parent="30" relname="elaboration" />
+<group id="27" type="multinuc" parent="13" relname="elaboration" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="23" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="21" relname="elaboration" />
+<group id="31" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="29" relname="span" />
+<group id="29" type="span" />
+<group id="14" type="span" parent="18" relname="conjunction" />
+<group id="18" type="multinuc" parent="31" relname="elaboration" />
+  </body>
+</rst>

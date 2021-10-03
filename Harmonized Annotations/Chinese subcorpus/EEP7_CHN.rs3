@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="preparation">﻿第六届北京·西班牙电影节 “西班牙电影的传统与时代创新(2011-2014)”
+</segment>
+    <segment id="2" parent="12" relname="span">9月18日，由西班牙驻华大使馆和卢米埃影城主办的第六届西班牙电影节在北京侨福芳草地开幕。</segment>
+    <segment id="3" parent="2" relname="elaboration">电影节持续至23日，展映了7部西班牙最近几年出品的精彩影片。
+</segment>
+    <segment id="4" parent="7" relname="span">此次挑选的这一系列影片流派各异，</segment>
+    <segment id="13" parent="4" relname="evaluation">体现了西班牙电影界国内市场的繁荣和与时俱进的气象，反映了西班牙电影向国外市场扩张的趋势及其国际威望。</segment>
+    <segment id="6" parent="7" relname="elaboration">开幕影《沼泽地》荣获了包括戈雅最佳影片奖和最佳导演奖在内的多个国际奖项。
+</segment>
+    <segment id="8" parent="5" relname="list">与往届一样，此次电影节通过西班牙电影和音响艺术学会(ICAA)得到了西班牙教育、文化和体育部的大力支持，由北京市广播电影电视局指导，为中国观众展现出一个不断创新的西班牙电影产业。</segment>
+    <segment id="11" parent="19" relname="elaboration">
+本次电影节展出影片包括《末日浩劫》、《双胞胎历险记》、《花》、《再爱我一次》、《意外人生》、《伊娃》、《沼泽地》。</segment>
+<group id="12" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="7" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="5" relname="list" />
+<group id="5" type="multinuc" parent="12" relname="elaboration" />
+<group id="21" type="span" />
+  </body>
+</rst>

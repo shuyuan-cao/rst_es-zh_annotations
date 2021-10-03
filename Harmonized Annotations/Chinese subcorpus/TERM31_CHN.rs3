@@ -1,0 +1,164 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="attribution" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="129" relname="preparation">﻿巴斯克语术语自动构建及其应用
+</segment>
+    <segment id="2" parent="79" relname="preparation">1.简介
+</segment>
+    <segment id="4" parent="51" relname="span">　　近年来，各语种都在开发科技类文章术语的自动构建工具，</segment>
+    <segment id="5" parent="4" relname="concession">尽管如此，对于自动选出的术语条目还是需要人工进行最后一步筛选。</segment>
+    <segment id="6" parent="51" relname="elaboration">下文列出了几个相关的术语工具：LEXTER（Bourigault，92），AT &amp; Tko Terminght（Church &amp; Dagan，94）IBM术语（Justeson &amp; Katz，95）NPtool（Arpper，95）。
+</segment>
+    <segment id="7" parent="52" relname="span">　　这些术语工具的应用领域可以分为两个部分：信息索引以及制作术语词汇表。</segment>
+    <segment id="9" parent="55" relname="condition">此外，在诸如计算机等术语呈现动态发展的领域，若未使用上述工具，</segment>
+    <segment id="55" parent="60" relname="span">在实际操作中则不可能进行有效的术语整理工作。</segment>
+    <segment id="8" parent="50" relname="condition">
+　　若尝试对巴斯克语开发一个类似的工具，</segment>
+    <segment id="58" parent="50" relname="span">我们将会因下列原因而遇到种种不便：</segment>
+    <segment id="10" parent="61" relname="list">语言尚未统一使用方法，</segment>
+    <segment id="56" parent="61" relname="list">并且能够进行的研究着实有限，</segment>
+    <segment id="59" parent="61" relname="list">再者是因为巴斯克语是一种黏着语。
+</segment>
+    <segment id="11" parent="67" relname="preparation">2.术语构建
+</segment>
+    <segment id="13" parent="63" relname="list">　　获取一个术语完整且正式的定义是一个非常艰巨的任务，</segment>
+    <segment id="14" parent="15" relname="preparation">同时也意味着一个必不可少的环节：</segment>
+    <segment id="15" parent="62" relname="span">明确各术语的特征。</segment>
+    <segment id="17" parent="65" relname="purpose">为从语料中获取技术术语，</segment>
+    <segment id="65" parent="66" relname="span">通常会融合自然语言处理技术（以语言学知识为基础）以及统计学技术。
+</segment>
+    <segment id="64" parent="101" relname="preparation">2.1.语言学技巧
+</segment>
+    <segment id="19" parent="101" relname="span">　　语言学技巧通常使用在术语的最初筛选中。</segment>
+    <segment id="20" parent="16" relname="cause">由于经常使用词法句法模型，</segment>
+    <segment id="16" parent="70" relname="span">用以分析文本或者至少说明性略语较为合适。</segment>
+    <segment id="21" parent="70" relname="elaboration">语言学工具的质量至少在很大程度上影响着分析结果。</segment>
+    <segment id="22" parent="90" relname="antithesis">而在一些项目中，既不进行词法分析也不分析句法。(Su等人，96)。
+</segment>
+    <segment id="23" parent="89" relname="span">　　词根分析与词法分析用来消除歧义。</segment>
+    <segment id="24" parent="74" relname="span">对于词尾有复杂变化的语言来说，仅看单词表面就进行分析，只会造成很糟糕的局面。</segment>
+    <segment id="75" parent="24" relname="justify">此时词根分析就变得更为不可或缺。</segment>
+    <segment id="26" parent="100" relname="span">语言学知识的掌握同样是术语规范化过程中的重要环节，</segment>
+    <segment id="93" parent="25" relname="cause">由于一些术语可以构成其它更长的单词，</segment>
+    <segment id="25" parent="99" relname="span">因此必须加以区分。
+</segment>
+    <segment id="28" parent="73" relname="preparation">2.2.统计学方法
+</segment>
+    <segment id="29" parent="73" relname="span">　　在绝大部分项目中，人们使用统计学方法来减少同一个语言学模型下的术语数量。</segment>
+    <segment id="30" parent="42" relname="span">统计学方法会按照项目的不同而进行改变，</segment>
+    <segment id="33" parent="30" relname="elaboration">最简单的办法是获得一个绝对最低频率(Justeson&amp;Katz，95)。</segment>
+    <segment id="31" parent="42" relname="concession">尽管如此，通常情况下还是会采用多个概率公式相结合的办法。
+</segment>
+    <segment id="32" parent="3" relname="preparation">2.3.结果
+</segment>
+    <segment id="34" parent="104" relname="condition">若上述过程中获得的结果仍无法完全自动构建一个精确的术语条目，</segment>
+    <segment id="104" parent="109" relname="span">则必须在覆盖度（召回率）和精确度（精确性）之间达到平衡。</segment>
+    <segment id="35" parent="103" relname="span">在该平衡中，覆盖度为优先考虑的部分，</segment>
+    <segment id="36" parent="35" relname="result">因此必须一直有人负责精简术语词汇。</segment>
+    <segment id="37" parent="40" relname="condition">若覆盖率需达到95%，</segment>
+    <segment id="40" parent="76" relname="span">通常精确度会降低至50%，</segment>
+    <segment id="38" parent="77" relname="condition">若令精确度维持在85%左右，</segment>
+    <segment id="77" parent="78" relname="span">覆盖率甚至不会达到35%。
+</segment>
+    <segment id="41" parent="125" relname="preparation">3.巴斯克语的应用
+</segment>
+    <segment id="43" parent="128" relname="span">　　IXA研究组试图针对巴斯克语开发一个此类工具，</segment>
+    <segment id="44" parent="114" relname="list">为此，已准备了词法分析器（阿莱格里亚（Alegria）等，96），</segment>
+    <segment id="115" parent="114" relname="list">词语分析器/说明性省略语分析器也即将开发完成（阿杜里斯（Aduriz）等，96），我们同时也在研究和句法相关的工具。
+</segment>
+    <segment id="45" parent="84" relname="circumstance">　　在准备上述工具的同时，</segment>
+    <segment id="118" parent="84" relname="span">我们也对技术术语进行建模，</segment>
+    <segment id="47" parent="118" relname="restatement">即精简这些术语的特性。</segment>
+    <segment id="46" parent="87" relname="purpose">伴随着研发的目的，基于现有的科技字典并使用统计学办法，</segment>
+    <segment id="87" parent="120" relname="span">我们已经构建了主要的模型。</segment>
+    <segment id="48" parent="85" relname="concession">尽管还没有取得最终结果，</segment>
+    <segment id="85" parent="86" relname="span">我们认为该模型已囊括了语段模型涉及的内容。</segment>
+    <segment id="49" parent="121" relname="list">另一方面，在筛选技术术语时，单词内部变格尤为重要。</segment>
+<group id="62" type="span" parent="63" relname="list" />
+<group id="63" type="multinuc" parent="67" relname="list" />
+<group id="70" type="span" parent="90" relname="span" />
+<group id="86" type="span" parent="121" relname="list" />
+<group id="51" type="span" parent="79" relname="span" />
+<group id="71" type="span" parent="95" relname="span" />
+<group id="90" type="span" parent="88" relname="span" />
+<group id="88" type="span" parent="92" relname="span" />
+<group id="89" type="span" parent="130" relname="span" />
+<group id="99" type="span" parent="26" relname="justify" />
+<group id="100" type="span" parent="89" relname="elaboration" />
+<group id="121" type="multinuc" parent="120" relname="elaboration" />
+<group id="95" type="span" parent="129" relname="list" />
+<group id="130" type="span" parent="88" relname="elaboration" />
+<group id="84" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="122" relname="purpose" />
+<group id="67" type="multinuc" parent="68" relname="span" />
+<group id="61" type="multinuc" parent="58" relname="elaboration" />
+<group id="42" type="span" parent="72" relname="span" />
+<group id="66" type="span" parent="67" relname="list" />
+<group id="128" type="span" parent="125" relname="span" />
+<group id="125" type="span" parent="116" relname="span" />
+<group id="116" type="span" parent="129" relname="list" />
+<group id="68" type="span" parent="91" relname="span" />
+<group id="92" type="span" parent="19" relname="elaboration" />
+<group id="101" type="span" parent="96" relname="span" />
+<group id="96" type="span" parent="113" relname="list" />
+<group id="72" type="span" parent="29" relname="elaboration" />
+<group id="73" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="113" relname="list" />
+<group id="113" type="multinuc" parent="68" relname="elaboration" />
+<group id="91" type="span" parent="129" relname="list" />
+<group id="60" type="span" parent="7" relname="elaboration" />
+<group id="52" type="span" parent="53" relname="span" />
+<group id="53" type="span" parent="71" relname="elaboration" />
+<group id="50" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="52" relname="elaboration" />
+<group id="39" type="span" parent="77" relname="span" />
+<group id="76" type="span" parent="105" relname="list" />
+<group id="78" type="span" parent="105" relname="list" />
+<group id="105" type="multinuc" parent="110" relname="elaboration" />
+<group id="114" type="multinuc" parent="43" relname="motivation" />
+<group id="109" type="span" parent="110" relname="span" />
+<group id="110" type="span" parent="3" relname="span" />
+<group id="3" type="span" parent="69" relname="span" />
+<group id="69" type="span" parent="113" relname="list" />
+<group id="129" type="multinuc" parent="54" relname="span" />
+<group id="54" type="span" />
+<group id="79" type="span" parent="71" relname="span" />
+<group id="74" type="span" parent="23" relname="elaboration" />
+<group id="103" type="span" parent="109" relname="elaboration" />
+<group id="120" type="span" parent="122" relname="span" />
+<group id="122" type="span" parent="126" relname="span" />
+<group id="126" type="span" parent="128" relname="elaboration" />
+  </body>
+</rst>

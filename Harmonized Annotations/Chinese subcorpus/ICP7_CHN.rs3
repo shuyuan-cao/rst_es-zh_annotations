@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="36" relname="preparation">﻿适用于移动设备的图书馆在线目录MOPAC
+</segment>
+    <segment id="2" parent="21" relname="span">读者用户们越来越频繁地使用智能手机</segment>
+    <segment id="4" parent="20" relname="list">来获取学术、工作以及科研领域的有效信息，</segment>
+    <segment id="3" parent="20" relname="list">查收</segment>
+    <segment id="34" parent="20" relname="list">或回复最新的电子邮件，</segment>
+    <segment id="5" parent="35" relname="disjunction">亦或是了解图书馆的概况。
+</segment>
+    <segment id="6" parent="30" relname="span">由于MOPAC的支持，塞万提斯学院的图书馆网络(RBIC)得以增加这一有关信息移动服务的功能，它是一个专为移动设备(如iPhone, Android, tablets e iPads)所设计的，使用起来既简单又快捷。
+</segment>
+    <segment id="9" parent="19" relname="span">随时随地的使用电子资源、访问目录或是查看当下的借阅状态，所有这些在图书馆网络上都已成为现实。
+</segment>
+    <segment id="11" parent="26" relname="disjunction">除此之外，在MOPAC的个人空间里，读者用户可以进行预约</segment>
+    <segment id="12" parent="26" relname="disjunction">或者续借操作，</segment>
+    <segment id="13" parent="14" relname="list">可以和图书馆的负责人取得联系，还可以在图书参考中写下对读过的书或看过的电影的精彩评论，</segment>
+    <segment id="10" parent="14" relname="enablement">所有这些，都可以通过您的手机完成。</segment>
+    <segment id="15" parent="28" relname="conjunction">MOPAC的多功能性使许多增值服务得以实现，比如图书参考管理服务、馆际互借服务、文献传递服务以及网上电子资源查询服务。</segment>
+    <segment id="16" parent="28" relname="conjunction">同时，它还能为西班牙语学习者提供相关领域的应用程序下载服务。
+</segment>
+    <segment id="17" parent="30" relname="summary">MOPAC是一次积极性的尝试，以便使塞万提斯学院的图书馆更贴近读者，与此同时，它通过科技更轻松的实现了图书馆的信息提供功能。</segment>
+<group id="20" type="multinuc" parent="35" relname="disjunction" />
+<group id="26" type="multinuc" parent="14" relname="list" />
+<group id="28" type="multinuc" parent="19" relname="elaboration" />
+<group id="21" type="span" parent="29" relname="background" />
+<group id="35" type="multinuc" parent="2" relname="purpose" />
+<group id="19" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="6" relname="elaboration" />
+<group id="30" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" />
+<group id="14" type="multinuc" parent="27" relname="span" />
+<group id="27" type="span" parent="9" relname="elaboration" />
+  </body>
+</rst>

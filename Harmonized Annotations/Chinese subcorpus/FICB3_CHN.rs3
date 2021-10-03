@@ -1,0 +1,45 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="preparation">﻿巴塞罗那地区汉语桥决赛成功举办
+</segment>
+    <segment id="2" parent="9" relname="span">4月18日，我院在巴塞罗那Golferichs文化中心成功举办巴塞罗那地区汉语桥决赛。</segment>
+    <segment id="3" parent="2" relname="elaboration">比赛由三个环节组成，选手首先进行自我介绍，然后随机选取一套与中国文化相关的问题进行现场问答，最后一个环节选手则展示与中国才艺相关或者含有中国元素的才艺。
+</segment>
+    <segment id="7" parent="9" relname="elaboration">决赛当天，中外方院长均到场致辞，评委组则有陆泽冰老师、周玥老师、赵晓萌老师以及外方院长Helena共同组成。比赛选出了前三甲，并将在5月2日前往莱昂，参加西班牙地区汉语桥决赛的社会组比赛。</segment>
+<group id="9" type="span" parent="8" relname="span" />
+<group id="8" type="span" parent="6" relname="span" />
+<group id="6" type="span" />
+  </body>
+</rst>

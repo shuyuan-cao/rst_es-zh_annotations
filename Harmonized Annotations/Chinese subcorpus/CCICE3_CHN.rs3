@@ -1,0 +1,58 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="preparation">﻿西班牙财政部拟拍卖高达50亿欧元短期国债
+</segment>
+    <segment id="2" parent="3" relname="attribution">据西班牙财政部在官网发布的消息显示，</segment>
+    <segment id="3" parent="18" relname="span">该机构将在本周二拍卖6至12月到期的短期国债，预期拍卖40亿至50亿欧元。
+</segment>
+    <segment id="4" parent="12" relname="span">此次为财政部从10月以来首次发行该类型国债，</segment>
+    <segment id="5" parent="15" relname="list">当时拍卖金额41.21亿欧元，</segment>
+    <segment id="6" parent="15" relname="list">而本次使用的利率将比上次更低。
+</segment>
+    <segment id="7" parent="8" relname="span">另外，财政部将在本周四再次回到市场拍卖中长期国债，欲拍卖30亿至40亿欧元。</segment>
+    <segment id="9" parent="7" relname="result">因此，财政部将在本周通过国债拍卖筹集70亿至90亿欧元资金。
+</segment>
+    <segment id="10" parent="20" relname="elaboration">10月份，西班牙财政部共筹集143.99亿欧元，共拍卖国债四次。</segment>
+<group id="18" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="21" relname="span" />
+<group id="21" type="span" />
+<group id="8" type="span" parent="16" relname="elaboration" />
+<group id="15" type="multinuc" parent="4" relname="circumstance" />
+<group id="12" type="span" parent="18" relname="elaboration" />
+  </body>
+</rst>

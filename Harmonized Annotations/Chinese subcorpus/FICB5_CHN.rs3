@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="preparation">﻿第四届亚洲旅游国际会议在亚洲之家成功举行
+</segment>
+    <segment id="2" parent="3" relname="span">第四届亚洲旅游国际会议于11月23日和24日在巴塞罗那举行，今年的主题 “为亚洲游客打造品质旅游”。
+</segment>
+    <segment id="4" parent="15" relname="span">此次会议中，我们将邀请知名的国际专家为我们分析亚洲游客欧洲行的主要趋势，</segment>
+    <segment id="5" parent="4" relname="purpose">帮助欧洲的旅行社和旅游公司开发出更好的产品来吸引更多的亚洲游客。
+</segment>
+    <segment id="6" parent="7" relname="sequence">在第一天的会议中，举行了全体会议和多个圆桌会谈。 在第二天的会议中，与会者被分成了不同的培训小组，探讨推广亚洲游客欧洲游的过程中可能遇到的问题。
+</segment>
+    <segment id="9" parent="8" relname="list">巴塞罗那孔子学院中方院长常世儒先生参加了第二天的会议并进行了简短的讲话，</segment>
+    <segment id="10" parent="8" relname="list">也和与会代表共同探讨了亚洲游客欧洲游的相关问题。</segment>
+<group id="15" type="span" parent="18" relname="span" />
+<group id="8" type="multinuc" parent="7" relname="sequence" />
+<group id="7" type="multinuc" parent="15" relname="elaboration" />
+<group id="18" type="span" parent="2" relname="elaboration" />
+<group id="3" type="span" parent="11" relname="span" />
+<group id="11" type="span" />
+  </body>
+</rst>

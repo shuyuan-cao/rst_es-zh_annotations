@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="preparation">﻿欢迎辞
+</segment>
+    <segment id="2" parent="27" relname="preparation">亲爱的朋友们,
+</segment>
+    <segment id="3" parent="4" relname="span">作为西中理事基金会的主席，在这里我向大家介绍一下基金会的情况。</segment>
+    <segment id="5" parent="3" relname="purpose">这是一家致力于发展中西两国民间交往和合作的组织。
+</segment>
+    <segment id="6" parent="9" relname="span">基金会得到西班牙外交与合作部的大力支持，</segment>
+    <segment id="7" parent="8" relname="preparation">它力求达到以下目标: </segment>
+    <segment id="8" parent="10" relname="span">推广西班牙的形象，并创作良好的条件，帮助两国民间人士密切其交往和合作。
+</segment>
+    <segment id="11" parent="13" relname="span">本人所在的公司在华运作已达三十年之久，作为总裁，我很荣幸的担当基金会主席的职务。基金会的成员包括公司企业，大学，商学院，文化机构和其他组织。它们不仅在对华贸易和交流中扮演着重要的角色，更是共同拥有推广对华关系的兴趣。
+</segment>
+    <segment id="15" parent="43" relname="list">因此，我们认为，基金会的重要作用之一是引起西班牙政府对发展对华关系的关注，</segment>
+    <segment id="16" parent="43" relname="list">并以实用和便捷的方式提出建议和意见。</segment>
+    <segment id="17" parent="43" relname="means">这一交流渠道是通过政府高级官员在本基金会任职来实现的。
+</segment>
+    <segment id="18" parent="20" relname="span">向中国传达西班牙真实的形象也是我们的重要责任，西班牙应该寻求在中国取得更加强有力的地位，而不仅仅停留在传统的形象上。</segment>
+    <segment id="21" parent="18" relname="justify">这是我们长期在其他国家工作的人共同的看法。</segment>
+    <segment id="22" parent="20" relname="interpretation">西班牙在中国有很多发展机会，因为中国人认为西班牙的形象代表的是语言的优势，各个领域公司良好的业绩，中小企业的职业性，商学院和大学的国际领先地位，国民的创造性， 创新性和高科技成就等。</segment>
+    <segment id="24" parent="50" relname="span">这是我们的任务，</segment>
+    <segment id="49" parent="24" relname="evaluation">是我们对外交往工作的精髓。
+</segment>
+    <segment id="25" parent="29" relname="background">当然，加强对中国的了解也同样的重要。目前中国已经成为世界第二大经济强国，或许是世界上经济最具活力的国家。</segment>
+    <segment id="28" parent="55" relname="circumstance">它处在新的世界重心亚太地区，全世界的目光都在目视中国，</segment>
+    <segment id="30" parent="55" relname="span">因此西班牙应该具有深度分析的能力，</segment>
+    <segment id="31" parent="30" relname="purpose">关注这个国家正在经历的发展和变化并从中找到自己的机会。
+</segment>
+    <segment id="32" parent="56" relname="elaboration">希望我的话能够作为基金会网页的欢迎辞，该网页会对基金会的各项活动做具体介绍。
+</segment>
+    <segment id="33" parent="61" relname="elaboration">在结束之前，我希望在这里特别感谢不断支持基金会的机构和组织，感谢他们的信任和共识。
+</segment>
+    <segment id="34" parent="59" relname="span">胡安∙亚多·阿布卢阿，</segment>
+    <segment id="35" parent="34" relname="elaboration">西中理事基金会主席</segment>
+<group id="43" type="multinuc" parent="44" relname="span" />
+<group id="44" type="span" parent="11" relname="result" />
+<group id="59" type="span" parent="57" relname="elaboration" />
+<group id="62" type="multinuc" parent="38" relname="elaboration" />
+<group id="55" type="span" parent="29" relname="span" />
+<group id="4" type="span" parent="38" relname="span" />
+<group id="10" type="span" parent="6" relname="purpose" />
+<group id="9" type="span" parent="4" relname="elaboration" />
+<group id="38" type="span" parent="56" relname="span" />
+<group id="20" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="51" relname="span" />
+<group id="50" type="span" parent="19" relname="elaboration" />
+<group id="51" type="span" parent="62" relname="list" />
+<group id="29" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="62" relname="list" />
+<group id="56" type="span" parent="61" relname="span" />
+<group id="61" type="span" parent="57" relname="span" />
+<group id="57" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="53" relname="span" />
+<group id="53" type="span" />
+<group id="13" type="span" parent="62" relname="list" />
+  </body>
+</rst>

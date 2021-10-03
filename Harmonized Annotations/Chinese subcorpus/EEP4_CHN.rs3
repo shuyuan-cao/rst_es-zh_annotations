@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="preparation">﻿第二届“丝路国际论坛2015年会”在马德里召开</segment>
+    <segment id="2" parent="10" relname="span">10月28日和29日，由国务院发展研究中心、国际关系和可持续发展中心、中国驻西班牙大使馆和和托雷多国际和平中心共同主办的第二届“丝路国际论坛 2015年会”在马德里召开。</segment>
+    <segment id="3" parent="9" relname="span">论坛旨在重申“新丝绸之路”的倡议，</segment>
+    <segment id="4" parent="3" relname="means">尤其是通过推动各社会团体、“智库”、公司和政府组织间对话交流来“促进亚欧的共同繁荣”。</segment>
+    <segment id="5" parent="10" relname="result">该年会的具体成效还有将推动成立“丝路国际智库网络”。
+</segment>
+    <segment id="6" parent="12" relname="span">“新丝绸之路”的倡议将为中国、中亚、俄罗斯和欧洲，以及中国通过波斯湾和地中海国家建立联系纽带。</segment>
+    <segment id="7" parent="6" relname="result">该倡议给中西两国带来进一步巩固双边关系的新领域。
+</segment>
+    <segment id="8" parent="13" relname="elaboration">通过把浙江省港口城市义乌和西班牙首都马德里连接的全程为13053公里的“义新欧”班列，西班牙已成为了新丝绸之路项目的领先实践者。</segment>
+<group id="9" type="span" parent="2" relname="elaboration" />
+<group id="12" type="span" parent="11" relname="elaboration" />
+<group id="10" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>

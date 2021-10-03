@@ -1,0 +1,112 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="80" relname="preparation">﻿巴斯克语、加泰罗尼亚语以及卡斯蒂利亚语单词前缀与后缀派生方法对照：词典学结论
+</segment>
+    <segment id="2" parent="34" relname="span">该报告的目标在于展示几所大学的工作小组在近三年来进行的研究成果。</segment>
+    <segment id="3" parent="2" relname="elaboration">研究参加了词法调整项目并参考其论述结构：词汇与字典。研究由马德里教育部赞助，从三个部分展开讨论。</segment>
+    <segment id="4" parent="37" relname="span">首先，通过三种语言来分析基于单词前缀与后缀的派生过程，着重强调作为派生基础的动词拆分或者动词本身构成了所谓派生词的情况。</segment>
+    <segment id="5" parent="7" relname="span">相应带来了两个实质性的不同之处：</segment>
+    <segment id="6" parent="5" relname="elaboration">巴斯克语中分别从前缀和后缀中体现派生词之间的不同，以及巴斯克语派生词和源自罗马语系的派生词之间的区别。</segment>
+    <segment id="8" parent="39" relname="sequence">第二，将展示上述两处不同的理论依据和分析结果。</segment>
+    <segment id="10" parent="39" relname="sequence">第三，我们将此理论说明更多地与词典学相联系。</segment>
+    <segment id="11" parent="39" relname="elaboration">本文将概括上述理论和词典学结论。</segment>
+    <segment id="9" parent="48" relname="span">
+简单来说，所有的理论展示都应提到如下区别：</segment>
+    <segment id="13" parent="47" relname="list">1）巴斯克语中，前缀相较丰富的后缀显得非常缺乏。</segment>
+    <segment id="15" parent="47" relname="list">2）说明罗马语系的语言并没有上述失衡状况。
+</segment>
+    <segment id="16" parent="52" relname="span">我们假设从巴斯克语以及罗马语系语言的句法特点中能推断出相应词法，</segment>
+    <segment id="17" parent="51" relname="contrast">因此在巴斯克语中，同样是衍生词，其结构的核心在于靠右的位置，</segment>
+    <segment id="18" parent="51" relname="contrast">而罗马语系中结构重心则在左边。</segment>
+    <segment id="41" parent="42" relname="span">为了更好地理解上述内容，必须指出，罗马语系的单词前缀可以有如下两种体现形式：</segment>
+    <segment id="43" parent="41" relname="elaboration">核心修饰部分，偏向靠左的位置（refer/rehacer，desfer/deshacer， predir/predecir）。其它情况中左边部分的核心角色保持不变，补充的内容添置在单词右侧(eslomar-se/desplomarse, desfullar/deshojar)。</segment>
+    <segment id="19" parent="78" relname="span">在第一钟情况下，前缀体现了单词核心的特殊意义</segment>
+    <segment id="67" parent="79" relname="span">（例如派生词Predecir(预言)包含了decir(说)的核心含义，</segment>
+    <segment id="76" parent="77" relname="antithesis">即“提前说出来”，</segment>
+    <segment id="77" parent="49" relname="span">但是归根结底还是“说”）。</segment>
+    <segment id="20" parent="12" relname="circumstance">在第二种情况下，当核心部分由同一个前缀构成，</segment>
+    <segment id="12" parent="46" relname="span">补充成分即为派生的基础，</segment>
+    <segment id="21" parent="46" relname="elaboration">因此prehistoria(史前时期)并非对historia（历史）基础单词核心内容的补充，而变成了与之不一样的定义。</segment>
+    <segment id="22" parent="60" relname="span">对于巴斯克语来说，仅包括第一种情况，可以通过以下两个视角来进行说明。</segment>
+    <segment id="23" parent="57" relname="contrast">首先，前缀des-在罗马语系中有两种形式，</segment>
+    <segment id="24" parent="57" relname="contrast">而在巴斯克语中，派生词desegin，可以看做核心基础egin（“做”的反义词）的修饰词，</segment>
+    <segment id="25" parent="26" relname="circumstance">但是当我们想找一个可以补充说明前缀/基础核心关系（诸如(deshojar（使落叶）) desostatu）的补充实例时，</segment>
+    <segment id="26" parent="56" relname="span">发现这个单词的构成并不符合要求。</segment>
+    <segment id="27" parent="58" relname="elaboration">前缀ber-/bir-、“re”和ez-、“in-/des-”同样如此。
+</segment>
+    <segment id="28" parent="64" relname="list">此次报告中中，在对词典学做出结论的相关描述时，我们将首先强调构成诸如desostatu一类单词的难度。</segment>
+    <segment id="29" parent="63" relname="span">其次，我们将明确罗马语系和英语中的前缀-核心以及基础-补充结构体系在巴斯克语中对应的是基础-补充以及后缀-核心结构。</segment>
+    <segment id="30" parent="31" relname="span">这个结论将影响现今的词典学，</segment>
+    <segment id="61" parent="62" relname="antithesis">不仅有des1 hoja2 r ??hosto2 gabe1 tu类别的构词方式，我们也应该了解hostoak2 galdu/kendu1这类的构词法。</segment>
+    <segment id="32" parent="62" relname="span">但是对于pozoin-du“en-venenar（放毒）”、bigun-du “reblandecerse（变软）”、lerro-ka-tu “a-linear（使成行）”、irin-ez-ta-tu “en-harinar（使蘸上面粉）”、lur-rera-tu “a-terrizar（着陆）”这类的形式以及a-、des-、en-、es-、in-或者re-一类的前缀仍需标准化，</segment>
+    <segment id="33" parent="32" relname="purpose">这样才能具备更多更好的参考资源。</segment>
+<group id="51" type="multinuc" parent="16" relname="circumstance" />
+<group id="52" type="span" parent="55" relname="span" />
+<group id="53" type="multinuc" parent="42" relname="elaboration" />
+<group id="56" type="span" parent="58" relname="span" />
+<group id="57" type="multinuc" parent="56" relname="antithesis" />
+<group id="60" type="span" parent="54" relname="contrast" />
+<group id="47" type="multinuc" parent="9" relname="elaboration" />
+<group id="55" type="span" parent="48" relname="interpretation" />
+<group id="46" type="span" parent="73" relname="span" />
+<group id="73" type="span" parent="53" relname="list" />
+<group id="38" type="span" />
+<group id="39" type="multinuc" parent="40" relname="span" />
+<group id="40" type="span" parent="34" relname="interpretation" />
+<group id="62" type="span" parent="65" relname="span" />
+<group id="64" type="multinuc" parent="81" relname="list" />
+<group id="34" type="span" parent="68" relname="span" />
+<group id="7" type="span" parent="4" relname="result" />
+<group id="37" type="span" parent="39" relname="sequence" />
+<group id="48" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="81" relname="list" />
+<group id="42" type="span" parent="74" relname="span" />
+<group id="49" type="span" parent="67" relname="restatement" />
+<group id="79" type="span" parent="19" relname="elaboration" />
+<group id="78" type="span" parent="53" relname="list" />
+<group id="74" type="span" parent="54" relname="contrast" />
+<group id="58" type="span" parent="59" relname="span" />
+<group id="59" type="span" parent="22" relname="elaboration" />
+<group id="54" type="multinuc" parent="52" relname="elaboration" />
+<group id="65" type="span" parent="30" relname="elaboration" />
+<group id="31" type="span" parent="29" relname="elaboration" />
+<group id="63" type="span" parent="64" relname="list" />
+<group id="64" type="multinuc" parent="81" relname="list" />
+<group id="81" type="multinuc" parent="68" relname="elaboration" />
+<group id="68" type="span" parent="80" relname="span" />
+<group id="80" type="span" parent="66" relname="span" />
+<group id="66" type="span" />
+  </body>
+</rst>

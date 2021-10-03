@@ -1,0 +1,50 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="preparation">﻿第一届中西交流发展论坛
+</segment>
+    <segment id="2" parent="11" relname="span">西班牙工业、能源与旅游大臣索里亚与中国驻西班牙大使吕凡于10月27日在马德里共同出席了第一届中西交流发展论坛的开幕式。</segment>
+    <segment id="3" parent="15" relname="span">该论坛吸引了中西两国权威机构、组织和企业家们参与</segment>
+    <segment id="4" parent="14" relname="span">并以增强两国间相互信任以及加强两国间的经贸文化往来为目的，</segment>
+    <segment id="5" parent="4" relname="purpose">对两国间交流的重要性展开讨论。</segment>
+    <segment id="6" parent="7" relname="span">&quot;了解中国，并让中国了解西班牙。”</segment>
+    <segment id="8" parent="6" relname="interpretation">在该论坛中，Cepsa石油公司的首席执行官米罗及中国国航驻西班牙代表处总经理Peter Han等人士也就中西两国双边交流举了实例。</segment>
+<group id="7" type="span" parent="11" relname="elaboration" />
+<group id="15" type="span" parent="2" relname="elaboration" />
+<group id="11" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+<group id="14" type="span" parent="3" relname="purpose" />
+  </body>
+</rst>

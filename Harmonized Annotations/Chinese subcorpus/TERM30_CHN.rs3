@@ -1,0 +1,98 @@
+<rst>
+  <header>
+    <encoding name="utf-8" />
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="73" relname="preparation">小语种的术语管理和认知过程
+</segment>
+    <segment id="2" parent="45" relname="span">术语管理是指对术语条目的汇集、分析、确认以及分类。此过程将信息转化为可理解的以及可应用的知识，因此至关重要。</segment>
+    <segment id="5" parent="37" relname="span">该过程的各个步骤都由专家负责，包括构建术语、修改现有术语、将部分术语标为废弃不用的或重新引用弃用术语并赋予其新的含义。</segment>
+    <segment id="6" parent="3" relname="span">其中一项专家负责的任务是构建新词、引进返璞词、翻译术语、确认术语以及通过迂回的方式收集和帮助完善相关专业的术语汇集。</segment>
+    <segment id="7" parent="39" relname="list">如今，科学、休闲娱乐方式以及创新举措与它们过去在形象上的区别不仅体现在资金、服务和工具上，</segment>
+    <segment id="8" parent="39" relname="list">还体现在用以描述科学、艺术、文化、交易和各种倡议的术语之中。</segment>
+    <segment id="9" parent="42" relname="span">从这个意义上来说，术语管理是一项由具有良好初衷的文献学家、翻译家和术语学家共同完成的任务;</segment>
+    <segment id="41" parent="9" relname="elaboration">其中，术语学家正在发挥其它两个领域专家的作用。</segment>
+    <segment id="10" parent="43" relname="span">当今术语管理系统的使用减轻了专业术语因归档带来的收存、文件修复以及展示的工作负担。</segment>
+    <segment id="11" parent="10" relname="antithesis">但不管何种情况下，术语汇集、分析和确认工作都由专业人员担任。</segment>
+    <segment id="12" parent="13" relname="span">对于占主导地位的语言来说，有很多人呼吁并希望投资建立术语数据库，而这份期待成为了支持昂贵的术语管理工作的动力。</segment>
+    <segment id="14" parent="49" relname="span">但是对于其它鲜有人使用的语言来说，情况就不同了。</segment>
+    <segment id="15" parent="14" relname="justify">术语管理有时仅与语言学规划的政策相关，还有时仅包含个人情绪。</segment>
+    <segment id="17" parent="49" relname="elaboration">在少数民族语言地区，术语管理较其它地区更依赖于人为因素。 
+</segment>
+    <segment id="18" parent="58" relname="span">术语管理自动化不仅仅是建立开销巨大的信息系统的问题。</segment>
+    <segment id="19" parent="53" relname="list">自动化进程要求人们了解如何写出专业领域的文章，如何表达该专业领域的语义，</segment>
+    <segment id="20" parent="53" relname="list">以及使用的话语模式如何根据文章作者和读者的需求变化。</segment>
+    <segment id="21" parent="54" relname="list">寻找用少数民族语言书写的以及相关的文献资料并非易事，</segment>
+    <segment id="22" parent="54" relname="list">也很难说服他人来进行该方面信息的汇集和研究工作。</segment>
+    <segment id="23" parent="77" relname="span">从某种程度上来说，撰写专业的书面内容与术语的“技术生产”紧密相连，</segment>
+    <segment id="76" parent="23" relname="interpretation">这是一种与机器运作原理一致的话语模式。</segment>
+    <segment id="24" parent="77" relname="result">因此，术语管理自动化与例如借助构建语言、数学模型或者寻找文字中的文化代号来对句子进行更抽象的语法分析有所不同。
+</segment>
+    <segment id="25" parent="26" relname="span">但是术语管理自动化可用于进行诸如教育、培训、教授、学习、解决问题等相互关联的活动，这种活动即为认知过程，它完全依赖于专业术语的汇集情况。</segment>
+    <segment id="27" parent="25" relname="elaboration">在儿童教育、行业新人培训以及接受再教育的成人方面，乃至与任何一项人类活动有关或我们都认为可以用来效仿以及应用到教育、学习或解决问题的事实、原则、理论和规则方面，上述结论尤其显现出其正确性。</segment>
+    <segment id="32" parent="26" relname="elaboration">对于从书本、专业术语以及未经整合的前人经验中获得的“原始材料”，均借助定义某一个概念并且经专业机构频繁使用的术语来进行表述。</segment>
+    <segment id="33" parent="59" relname="result">认知过程必然与术语管理相联系，而后者与语言学规划及相关政策密切相关。</segment>
+    <segment id="28" parent="69" relname="list">近十年来，我们主要从事大范围内主要语种的术语收集工作，</segment>
+    <segment id="67" parent="69" relname="list">同时也尝试将该办法用于更小众的语言中，例如威尔士语、挪威语、弗拉芒语或加泰罗尼亚语。</segment>
+    <segment id="35" parent="66" relname="span">该报告旨在描述我们在多语言区域管理专业术语的各种情况中发现的挑战以及对应的解决办法，这些区域中每个都至少包含一种少数民族语言。</segment>
+    <segment id="30" parent="35" relname="means">我们的理论架构以近年来语言学、哲学、历史领域以及信息学的有关研究为基础。</segment>
+<group id="37" type="span" parent="2" relname="elaboration" />
+<group id="39" type="multinuc" parent="6" relname="elaboration" />
+<group id="42" type="span" parent="44" relname="span" />
+<group id="43" type="span" parent="42" relname="elaboration" />
+<group id="44" type="span" parent="3" relname="interpretation" />
+<group id="49" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="12" relname="antithesis" />
+<group id="53" type="multinuc" parent="56" relname="span" />
+<group id="54" type="multinuc" parent="53" relname="elaboration" />
+<group id="55" type="span" parent="56" relname="elaboration" />
+<group id="56" type="span" parent="57" relname="span" />
+<group id="57" type="span" parent="18" relname="elaboration" />
+<group id="58" type="span" parent="72" relname="antithesis" />
+<group id="69" type="multinuc" parent="66" relname="background" />
+<group id="77" type="span" parent="55" relname="span" />
+<group id="66" type="span" parent="70" relname="span" />
+<group id="70" type="span" parent="72" relname="span" />
+<group id="72" type="span" parent="71" relname="span" />
+<group id="71" type="span" parent="73" relname="span" />
+<group id="73" type="span" parent="65" relname="span" />
+<group id="65" type="span" />
+<group id="45" type="span" parent="16" relname="span" />
+<group id="13" type="span" parent="45" relname="elaboration" />
+<group id="16" type="span" parent="71" relname="background" />
+<group id="26" type="span" parent="59" relname="span" />
+<group id="59" type="span" parent="63" relname="span" />
+<group id="63" type="span" parent="70" relname="background" />
+<group id="3" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="5" relname="elaboration" />
+  </body>
+</rst>
